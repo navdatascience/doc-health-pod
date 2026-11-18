@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**18 of 372 episodes collected** · Updated 2026-11-18
+**24 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 14 / 101 done
+- Dr Pal Podcast Playlist: 20 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -22,12 +22,12 @@
 - ✅ [Why Are Indians Facing More Fertility Problems Than Ever? | Dr. Sulbha Arora x Dr. Pal](episodes/dr-pal/why-are-indians-facing-more-fertility-problems-than-ever-_Zll6AOyoDs.md) — [YouTube](https://www.youtube.com/watch?v=_Zll6AOyoDs)
 - ✅ [Why Healthy Indians Are Getting Heart Attacks | Dr Varun Bansal x Dr Pal](episodes/dr-pal/why-healthy-indians-are-getting-heart-attacks-afC1C4i_MbY.md) — [YouTube](https://www.youtube.com/watch?v=afC1C4i_MbY)
 - ✅ [Why Your Stomach Is Always Bloated? - Doctor Explains Gut Health । Dr Shubham Vatsya x Dr Pal](episodes/dr-pal/why-your-stomach-is-always-bloated-doctor-explains-gut-health-dr-shubh-L845SXxqmSE.md) — [YouTube](https://www.youtube.com/watch?v=L845SXxqmSE)
-- ⏳ Your Legs Are Dying And You Don’t Know It | Blood Clots, Swelling & Amputation Risk — [YouTube](https://www.youtube.com/watch?v=OJEqU_fZk9k)
-- ⏳ Why Your Skin Ages Faster (And How to Slow It Down) — [YouTube](https://www.youtube.com/watch?v=K2aRobcv0iw)
-- ⏳ The Exercise That Feels Like Meditation | Understanding Tai Chi with a Grandmaster — [YouTube](https://www.youtube.com/watch?v=HNwKOeF7ML4)
-- ⏳ How Modern Habits Are Rewiring Our Brains & Behaviour — [YouTube](https://www.youtube.com/watch?v=aLh1LQT-Tjc)
-- ⏳ The Emotional Problems Inside Modern Families Nobody Talks About | Dr. Saranya — [YouTube](https://www.youtube.com/watch?v=b__gYFiuCnQ)
-- ⏳ How Millets Transform Your Gut, Body & Health — [YouTube](https://www.youtube.com/watch?v=frbWduZt8bc)
+- ✅ [Your Legs Are Dying And You Don’t Know It | Blood Clots, Swelling & Amputation Risk](episodes/dr-pal/your-legs-are-dying-and-you-don-t-know-it-OJEqU_fZk9k.md) — [YouTube](https://www.youtube.com/watch?v=OJEqU_fZk9k)
+- ✅ [Why Your Skin Ages Faster (And How to Slow It Down)](episodes/dr-pal/why-your-skin-ages-faster-and-how-to-slow-it-down-K2aRobcv0iw.md) — [YouTube](https://www.youtube.com/watch?v=K2aRobcv0iw)
+- ✅ [The Exercise That Feels Like Meditation | Understanding Tai Chi with a Grandmaster](episodes/dr-pal/the-exercise-that-feels-like-meditation-HNwKOeF7ML4.md) — [YouTube](https://www.youtube.com/watch?v=HNwKOeF7ML4)
+- ✅ [How Modern Habits Are Rewiring Our Brains & Behaviour](episodes/dr-pal/how-modern-habits-are-rewiring-our-brains-behaviour-aLh1LQT-Tjc.md) — [YouTube](https://www.youtube.com/watch?v=aLh1LQT-Tjc)
+- ✅ [The Emotional Problems Inside Modern Families Nobody Talks About | Dr. Saranya](episodes/dr-pal/the-emotional-problems-inside-modern-families-nobody-talks-about-b__gYFiuCnQ.md) — [YouTube](https://www.youtube.com/watch?v=b__gYFiuCnQ)
+- ✅ [How Millets Transform Your Gut, Body & Health](episodes/dr-pal/how-millets-transform-your-gut-body-health-frbWduZt8bc.md) — [YouTube](https://www.youtube.com/watch?v=frbWduZt8bc)
 - ⏳ From White Rice to Ghee: What’s Hurting Your Health — [YouTube](https://www.youtube.com/watch?v=AytcD203TvM)
 - ⏳ What You’re Missing About Protein & Real Nutrition (Doctor Explains) — [YouTube](https://www.youtube.com/watch?v=YWtIfwQT9b0)
 - ⏳ Hormonal Imbalance In Women: Signs, Causes & What To Do — [YouTube](https://www.youtube.com/watch?v=QOTMT0m7AGk)
