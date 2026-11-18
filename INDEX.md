@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**13 of 372 episodes collected** · Updated 2026-11-18
+**18 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 9 / 101 done
+- Dr Pal Podcast Playlist: 14 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -12,14 +12,14 @@
 - ✅ [Vaginal Discharge: What’s Normal & When Should You See a Doctor? | Dr.Cuterus](episodes/dr-pal/vaginal-discharge-what-s-normal-when-should-you-see-a-doctor-So8nkaAnCCg.md) — [YouTube](https://www.youtube.com/watch?v=So8nkaAnCCg)
 - ✅ [Why Are Indians Getting Sick Despite Eating Healthy?](episodes/dr-pal/why-are-indians-getting-sick-despite-eating-healthy-cq_sc-4EQ3Y.md) — [YouTube](https://www.youtube.com/watch?v=cq_sc-4EQ3Y)
 - ✅ [Are You Emotionally Neglected by Your Parents?](episodes/dr-pal/are-you-emotionally-neglected-by-your-parents-ZXcKAANHzpA.md) — [YouTube](https://www.youtube.com/watch?v=ZXcKAANHzpA)
-- ⏳ What This 11-Year-Old with Million Followers Knows About Health Will Surprise Most Parents| Varenya — [YouTube](https://www.youtube.com/watch?v=XEsLyaN8ww4)
-- ⏳ Are Modern Parents Raising Emotionally Fragile Kids? — [YouTube](https://www.youtube.com/watch?v=iepMo251D1k)
+- ✅ [What This 11-Year-Old with Million Followers Knows About Health Will Surprise Most Parents| Varenya](episodes/dr-pal/what-this-11-year-old-with-million-followers-knows-about-health-will-s-XEsLyaN8ww4.md) — [YouTube](https://www.youtube.com/watch?v=XEsLyaN8ww4)
+- ✅ [Are Modern Parents Raising Emotionally Fragile Kids?](episodes/dr-pal/are-modern-parents-raising-emotionally-fragile-kids-iepMo251D1k.md) — [YouTube](https://www.youtube.com/watch?v=iepMo251D1k)
 - ✅ [Is Going Vegan Actually Healthy or Harmful?](episodes/dr-pal/is-going-vegan-actually-healthy-or-harmful-vn3zrVFzoxU.md) — [YouTube](https://www.youtube.com/watch?v=vn3zrVFzoxU)
 - ✅ [The Ultimate Guide to Buying Health Insurance in 2026](episodes/dr-pal/the-ultimate-guide-to-buying-health-insurance-in-2026-vFX5R8i31zA.md) — [YouTube](https://www.youtube.com/watch?v=vFX5R8i31zA)
 - ✅ [Is Your RO Water Really Healthy?](episodes/dr-pal/is-your-ro-water-really-healthy-UQ-Cor0GkAQ.md) — [YouTube](https://www.youtube.com/watch?v=UQ-Cor0GkAQ)
-- ⏳ What Every Child Needs For Healthy Gut? — [YouTube](https://www.youtube.com/watch?v=dPqBMzMY_iY)
-- ⏳ 5 Myths About IVF You Should Stop Believing | Dr. Sulbha Arora x Dr. Pal — [YouTube](https://www.youtube.com/watch?v=dEYBEgQGqBU)
-- ⏳ Why Are Indians Facing More Fertility Problems Than Ever? | Dr. Sulbha Arora x Dr. Pal — [YouTube](https://www.youtube.com/watch?v=_Zll6AOyoDs)
+- ✅ [What Every Child Needs For Healthy Gut?](episodes/dr-pal/what-every-child-needs-for-healthy-gut-dPqBMzMY_iY.md) — [YouTube](https://www.youtube.com/watch?v=dPqBMzMY_iY)
+- ✅ [5 Myths About IVF You Should Stop Believing | Dr. Sulbha Arora x Dr. Pal](episodes/dr-pal/5-myths-about-ivf-you-should-stop-believing-dEYBEgQGqBU.md) — [YouTube](https://www.youtube.com/watch?v=dEYBEgQGqBU)
+- ✅ [Why Are Indians Facing More Fertility Problems Than Ever? | Dr. Sulbha Arora x Dr. Pal](episodes/dr-pal/why-are-indians-facing-more-fertility-problems-than-ever-_Zll6AOyoDs.md) — [YouTube](https://www.youtube.com/watch?v=_Zll6AOyoDs)
 - ✅ [Why Healthy Indians Are Getting Heart Attacks | Dr Varun Bansal x Dr Pal](episodes/dr-pal/why-healthy-indians-are-getting-heart-attacks-afC1C4i_MbY.md) — [YouTube](https://www.youtube.com/watch?v=afC1C4i_MbY)
 - ✅ [Why Your Stomach Is Always Bloated? - Doctor Explains Gut Health । Dr Shubham Vatsya x Dr Pal](episodes/dr-pal/why-your-stomach-is-always-bloated-doctor-explains-gut-health-dr-shubh-L845SXxqmSE.md) — [YouTube](https://www.youtube.com/watch?v=L845SXxqmSE)
 - ⏳ Your Legs Are Dying And You Don’t Know It | Blood Clots, Swelling & Amputation Risk — [YouTube](https://www.youtube.com/watch?v=OJEqU_fZk9k)
