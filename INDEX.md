@@ -1,22 +1,22 @@
 # Index — Doctor Health Podcast Library
 
-**6 of 372 episodes collected** · Updated 2026-11-18
+**13 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 2 / 101 done
+- Dr Pal Podcast Playlist: 9 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
 
-- ⏳ What Shark Tank Didn't Show You about Prathamesh | Dr. Pal Manickam — [YouTube](https://www.youtube.com/watch?v=grHHz3tJXac)
-- ⏳ Vaginal Discharge: What’s Normal & When Should You See a Doctor? | Dr.Cuterus — [YouTube](https://www.youtube.com/watch?v=So8nkaAnCCg)
-- ⏳ Why Are Indians Getting Sick Despite Eating Healthy? — [YouTube](https://www.youtube.com/watch?v=cq_sc-4EQ3Y)
-- ⏳ Are You Emotionally Neglected by Your Parents? — [YouTube](https://www.youtube.com/watch?v=ZXcKAANHzpA)
+- ✅ [What Shark Tank Didn't Show You about Prathamesh | Dr. Pal Manickam](episodes/dr-pal/what-shark-tank-didn-t-show-you-about-prathamesh-grHHz3tJXac.md) — [YouTube](https://www.youtube.com/watch?v=grHHz3tJXac)
+- ✅ [Vaginal Discharge: What’s Normal & When Should You See a Doctor? | Dr.Cuterus](episodes/dr-pal/vaginal-discharge-what-s-normal-when-should-you-see-a-doctor-So8nkaAnCCg.md) — [YouTube](https://www.youtube.com/watch?v=So8nkaAnCCg)
+- ✅ [Why Are Indians Getting Sick Despite Eating Healthy?](episodes/dr-pal/why-are-indians-getting-sick-despite-eating-healthy-cq_sc-4EQ3Y.md) — [YouTube](https://www.youtube.com/watch?v=cq_sc-4EQ3Y)
+- ✅ [Are You Emotionally Neglected by Your Parents?](episodes/dr-pal/are-you-emotionally-neglected-by-your-parents-ZXcKAANHzpA.md) — [YouTube](https://www.youtube.com/watch?v=ZXcKAANHzpA)
 - ⏳ What This 11-Year-Old with Million Followers Knows About Health Will Surprise Most Parents| Varenya — [YouTube](https://www.youtube.com/watch?v=XEsLyaN8ww4)
 - ⏳ Are Modern Parents Raising Emotionally Fragile Kids? — [YouTube](https://www.youtube.com/watch?v=iepMo251D1k)
-- ⏳ Is Going Vegan Actually Healthy or Harmful? — [YouTube](https://www.youtube.com/watch?v=vn3zrVFzoxU)
-- ⏳ The Ultimate Guide to Buying Health Insurance in 2026 — [YouTube](https://www.youtube.com/watch?v=vFX5R8i31zA)
-- ⏳ Is Your RO Water Really Healthy? — [YouTube](https://www.youtube.com/watch?v=UQ-Cor0GkAQ)
+- ✅ [Is Going Vegan Actually Healthy or Harmful?](episodes/dr-pal/is-going-vegan-actually-healthy-or-harmful-vn3zrVFzoxU.md) — [YouTube](https://www.youtube.com/watch?v=vn3zrVFzoxU)
+- ✅ [The Ultimate Guide to Buying Health Insurance in 2026](episodes/dr-pal/the-ultimate-guide-to-buying-health-insurance-in-2026-vFX5R8i31zA.md) — [YouTube](https://www.youtube.com/watch?v=vFX5R8i31zA)
+- ✅ [Is Your RO Water Really Healthy?](episodes/dr-pal/is-your-ro-water-really-healthy-UQ-Cor0GkAQ.md) — [YouTube](https://www.youtube.com/watch?v=UQ-Cor0GkAQ)
 - ⏳ What Every Child Needs For Healthy Gut? — [YouTube](https://www.youtube.com/watch?v=dPqBMzMY_iY)
 - ⏳ 5 Myths About IVF You Should Stop Believing | Dr. Sulbha Arora x Dr. Pal — [YouTube](https://www.youtube.com/watch?v=dEYBEgQGqBU)
 - ⏳ Why Are Indians Facing More Fertility Problems Than Ever? | Dr. Sulbha Arora x Dr. Pal — [YouTube](https://www.youtube.com/watch?v=_Zll6AOyoDs)
