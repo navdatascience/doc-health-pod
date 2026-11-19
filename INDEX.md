@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**67 of 372 episodes collected** · Updated 2026-11-18
+**78 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 63 / 101 done
+- Dr Pal Podcast Playlist: 74 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -74,20 +74,20 @@
 - ⏳ PCOS & Fertility: What Every Woman Needs to Know! — [YouTube](https://www.youtube.com/watch?v=vJDvYiMbH4A)
 - ⏳ Shocking Truths about Ear Health | Dr Shree Rao - Dr. Rao’s ENT Hospitals | Dr Pal — [YouTube](https://www.youtube.com/watch?v=CAnhyA54tHw)
 - ⏳ Your habits are killing your gut| ft. Sivasankaran I Dr Pal — [YouTube](https://www.youtube.com/watch?v=nOHWKso7KmY)
-- ⏳ Don’t ignore these Health Red Flags—Time for a Wake-Up Call! | Dr Pal — [YouTube](https://www.youtube.com/watch?v=zUHHl0kWRuQ)
-- ⏳ The Silent Killers of Eye Health – Shocking Facts Revealed by Dr. Ashvin | India's Top Eye Expert — [YouTube](https://www.youtube.com/watch?v=oH7N44ssCcw)
-- ⏳ Heart Attacks in Young People - Is Your Lifestyle to Blame?! Top Cardiologist, Dr Anup — [YouTube](https://www.youtube.com/watch?v=Evt_Mm5bwpU)
-- ⏳ Stress eating, post pregnancy depression and weight gain, LGBTQ I ft. Dr. Sonal, top psychiatrist. — [YouTube](https://www.youtube.com/watch?v=G9eelDo3cxM)
-- ⏳ The Shocking Reasons Your Diet is Failing Your Gut Health | Top Nutritionist Sangeetha Aiyer — [YouTube](https://www.youtube.com/watch?v=tclv6oPut7U)
-- ⏳ Shocking Facts About Whey Protein 💥😶‍🌫️ ‼️ Gut Feeling with the Whole Truth Founder, Shashank Mehta — [YouTube](https://www.youtube.com/watch?v=dwsid6YRrpU)
-- ⏳ Warning for IT Professionals, India's Leading Brain Expert | Arvind Bhateja, Neurosurgeon - PART 2 — [YouTube](https://www.youtube.com/watch?v=tsri_BjJauc)
-- ⏳ How can Dance Help with PCOS? Deepti, Dancer | Fitness Mentor — [YouTube](https://www.youtube.com/watch?v=nTSWSCLCyK4)
-- ⏳ DON'T START any DIET without watching this❗ Roshni Sanghvi, Holistic Nutritionist,Wellness Expert! — [YouTube](https://www.youtube.com/watch?v=hI2TZW9H5iA)
-- ⏳ What Causes Constipation? - Shocking Facts Behind Constipation | Dr.Ali, Gastroenterologist — [YouTube](https://www.youtube.com/watch?v=t2euI0VLoDM)
+- ✅ [Don’t ignore these Health Red Flags—Time for a Wake-Up Call! | Dr Pal](episodes/dr-pal/don-t-ignore-these-health-red-flags-time-for-a-wake-up-call-zUHHl0kWRuQ.md) — [YouTube](https://www.youtube.com/watch?v=zUHHl0kWRuQ)
+- ✅ [The Silent Killers of Eye Health – Shocking Facts Revealed by Dr. Ashvin | India's Top Eye Expert](episodes/dr-pal/the-silent-killers-of-eye-health-shocking-facts-revealed-by-dr-ashvin-oH7N44ssCcw.md) — [YouTube](https://www.youtube.com/watch?v=oH7N44ssCcw)
+- ✅ [Heart Attacks in Young People - Is Your Lifestyle to Blame?! Top Cardiologist, Dr Anup](episodes/dr-pal/heart-attacks-in-young-people-is-your-lifestyle-to-blame-top-cardiolog-Evt_Mm5bwpU.md) — [YouTube](https://www.youtube.com/watch?v=Evt_Mm5bwpU)
+- ✅ [Stress eating, post pregnancy depression and weight gain, LGBTQ I ft. Dr. Sonal, top psychiatrist.](episodes/dr-pal/stress-eating-post-pregnancy-depression-and-weight-gain-lgbtq-i-ft-dr-G9eelDo3cxM.md) — [YouTube](https://www.youtube.com/watch?v=G9eelDo3cxM)
+- ✅ [The Shocking Reasons Your Diet is Failing Your Gut Health | Top Nutritionist Sangeetha Aiyer](episodes/dr-pal/the-shocking-reasons-your-diet-is-failing-your-gut-health-tclv6oPut7U.md) — [YouTube](https://www.youtube.com/watch?v=tclv6oPut7U)
+- ✅ [Shocking Facts About Whey Protein 💥😶‍🌫️ ‼️ Gut Feeling with the Whole Truth Founder, Shashank Mehta](episodes/dr-pal/shocking-facts-about-whey-protein-gut-feeling-with-the-whole-truth-fou-dwsid6YRrpU.md) — [YouTube](https://www.youtube.com/watch?v=dwsid6YRrpU)
+- ✅ [Warning for IT Professionals, India's Leading Brain Expert | Arvind Bhateja, Neurosurgeon - PART 2](episodes/dr-pal/warning-for-it-professionals-india-s-leading-brain-expert-tsri_BjJauc.md) — [YouTube](https://www.youtube.com/watch?v=tsri_BjJauc)
+- ✅ [How can Dance Help with PCOS? Deepti, Dancer | Fitness Mentor](episodes/dr-pal/how-can-dance-help-with-pcos-deepti-dancer-nTSWSCLCyK4.md) — [YouTube](https://www.youtube.com/watch?v=nTSWSCLCyK4)
+- ✅ [DON'T START any DIET without watching this❗ Roshni Sanghvi, Holistic Nutritionist,Wellness Expert!](episodes/dr-pal/don-t-start-any-diet-without-watching-this-roshni-sanghvi-holistic-nut-hI2TZW9H5iA.md) — [YouTube](https://www.youtube.com/watch?v=hI2TZW9H5iA)
+- ✅ [What Causes Constipation? - Shocking Facts Behind Constipation | Dr.Ali, Gastroenterologist](episodes/dr-pal/what-causes-constipation-shocking-facts-behind-constipation-t2euI0VLoDM.md) — [YouTube](https://www.youtube.com/watch?v=t2euI0VLoDM)
 - ⏳ Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup — [YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
 - ⏳ The Gut-Skin Connection: How to Fix Your Skin from the Inside Out! No. 1 Dermatologist, Dr. Rashmi — [YouTube](https://www.youtube.com/watch?v=bzSmSWG75PQ)
 - ✅ [Why Heart Attack Rates Have Increased Post-COVID: The Shocking Truth | Dr Parimal, Pulmonologist](episodes/dr-pal/why-heart-attack-rates-have-increased-post-covid-the-shocking-truth-ZxvFuHw--3g.md) — [YouTube](https://www.youtube.com/watch?v=ZxvFuHw--3g)
-- ⏳ Indian Diet Exposed: Vegetarian & Vegan Vs Nonveg Diet Debate with Sangeetha Aiyer, Top Nutritionist — [YouTube](https://www.youtube.com/watch?v=N5GTiHWh32A)
+- ✅ [Indian Diet Exposed: Vegetarian & Vegan Vs Nonveg Diet Debate with Sangeetha Aiyer, Top Nutritionist](episodes/dr-pal/indian-diet-exposed-vegetarian-vegan-vs-nonveg-diet-debate-with-sangee-N5GTiHWh32A.md) — [YouTube](https://www.youtube.com/watch?v=N5GTiHWh32A)
 - ⏳ This One Exercise Will Change Your Life, START FROM HERE! - World's Top Yogic Guru Hansaji — [YouTube](https://www.youtube.com/watch?v=StA5DOel7Pw)
 - ⏳ ⚠️ Urgent Eye Health Warning from India’s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know) — [YouTube](https://www.youtube.com/watch?v=sx5OWArFbkM)
 - ⏳ The Best Podcast for Women of All Ages, 10-60 Years | Dr Anjali Kumar, India's Top Gynaecologist — [YouTube](https://www.youtube.com/watch?v=vq2ZUSvWjJ0)
