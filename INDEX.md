@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**122 of 372 episodes collected** · Updated 2026-11-18
+**124 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 20 / 104 done
+- Raj Shamani (health): 22 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -131,8 +131,8 @@
 - ✅ [Perfect Skin Is a Lie: Boosters, Fillers & Hidden Risks | Dr Rajat | FO486 Raj Shamani](episodes/raj-shamani/perfect-skin-is-a-lie-boosters-fillers-hidden-risks-mGpaIjdRDdw.md) — [YouTube](https://www.youtube.com/watch?v=mGpaIjdRDdw)
 - ✅ [Are Successful People Broken? Dark Traits, AI Evolution & Loneliness | Dr. K | FO481 Raj Shamani](episodes/raj-shamani/are-successful-people-broken-dark-traits-ai-evolution-loneliness-R878NxqapRA.md) — [YouTube](https://www.youtube.com/watch?v=R878NxqapRA)
 - ✅ [Reverse Ageing in Parents: Social Life, Brain Health & Loneliness | Adarsh | FO479 Raj Shamani](episodes/raj-shamani/reverse-ageing-in-parents-social-life-brain-health-loneliness-D3Fekckw9S0.md) — [YouTube](https://www.youtube.com/watch?v=D3Fekckw9S0)
-- ⏳ Simon Sinek on India’s Future, Trust Crisis, Gen Z Burnout, Anxiety & AI Friends | FO476 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=etgQjtdNEtc)
-- ⏳ Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear & Anxiety | FO475 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=90lLQVZe2Nc)
+- ✅ [Simon Sinek on India’s Future, Trust Crisis, Gen Z Burnout, Anxiety & AI Friends | FO476 Raj Shamani](episodes/raj-shamani/simon-sinek-on-india-s-future-trust-crisis-gen-z-burnout-anxiety-ai-fr-etgQjtdNEtc.md) — [YouTube](https://www.youtube.com/watch?v=etgQjtdNEtc)
+- ✅ [Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear & Anxiety | FO475 Raj Shamani](episodes/raj-shamani/dr-joe-dispenza-rewire-your-brain-heal-your-mind-fear-anxiety-90lLQVZe2Nc.md) — [YouTube](https://www.youtube.com/watch?v=90lLQVZe2Nc)
 - ⏳ YUNGBLUD Unfiltered: Addictions, Insecurities, Fame, Masculinity & Childhood | FO467 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=nZrBQqxYe2A)
 - ⏳ Indian Lifestyle Problems: Belly Fat, Weight Gain & Heart Health | Karan Sarin | FO465 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=nJmkZMv85Cw)
 - ⏳ Exposing the Indian Diet: Roti, Rice, Morning Energy & Night Habits | Sonia Narang | FO456 Raj Sh... — [YouTube](https://www.youtube.com/watch?v=z1lPXO0pv_4)
