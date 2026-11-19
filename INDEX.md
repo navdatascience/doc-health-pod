@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**86 of 372 episodes collected** · Updated 2026-11-18
+**105 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 82 / 101 done
-- Raj Shamani (health): 2 / 104 done
+- Dr Pal Podcast Playlist: 99 / 101 done
+- Raj Shamani (health): 4 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -90,30 +90,30 @@
 - ✅ [Indian Diet Exposed: Vegetarian & Vegan Vs Nonveg Diet Debate with Sangeetha Aiyer, Top Nutritionist](episodes/dr-pal/indian-diet-exposed-vegetarian-vegan-vs-nonveg-diet-debate-with-sangee-N5GTiHWh32A.md) — [YouTube](https://www.youtube.com/watch?v=N5GTiHWh32A)
 - ✅ [This One Exercise Will Change Your Life, START FROM HERE! - World's Top Yogic Guru Hansaji](episodes/dr-pal/this-one-exercise-will-change-your-life-start-from-here-world-s-top-yo-StA5DOel7Pw.md) — [YouTube](https://www.youtube.com/watch?v=StA5DOel7Pw)
 - ✅ [⚠️ Urgent Eye Health Warning from India’s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know)](episodes/dr-pal/urgent-eye-health-warning-from-india-s-top-eye-expert-dr-ashvin-agarwa-sx5OWArFbkM.md) — [YouTube](https://www.youtube.com/watch?v=sx5OWArFbkM)
-- ⏳ The Best Podcast for Women of All Ages, 10-60 Years | Dr Anjali Kumar, India's Top Gynaecologist — [YouTube](https://www.youtube.com/watch?v=vq2ZUSvWjJ0)
-- ⏳ Arvind Bhateja, Neurosurgeon: India's Leading Brain Expert -The Shocking Link Between Sleep & Stroke — [YouTube](https://www.youtube.com/watch?v=yeWHSGpfQ-4)
-- ⏳ All About How & When to Eat Millets - Health Benefits & Side Effects of Millets Explained by Dr Rao — [YouTube](https://www.youtube.com/watch?v=gKBwKbunTJA)
+- ✅ [The Best Podcast for Women of All Ages, 10-60 Years | Dr Anjali Kumar, India's Top Gynaecologist](episodes/dr-pal/the-best-podcast-for-women-of-all-ages-10-60-years-vq2ZUSvWjJ0.md) — [YouTube](https://www.youtube.com/watch?v=vq2ZUSvWjJ0)
+- ✅ [Arvind Bhateja, Neurosurgeon: India's Leading Brain Expert -The Shocking Link Between Sleep & Stroke](episodes/dr-pal/arvind-bhateja-neurosurgeon-india-s-leading-brain-expert-the-shocking-yeWHSGpfQ-4.md) — [YouTube](https://www.youtube.com/watch?v=yeWHSGpfQ-4)
+- ✅ [All About How & When to Eat Millets - Health Benefits & Side Effects of Millets Explained by Dr Rao](episodes/dr-pal/all-about-how-when-to-eat-millets-health-benefits-side-effects-of-mill-gKBwKbunTJA.md) — [YouTube](https://www.youtube.com/watch?v=gKBwKbunTJA)
 - ⏳ Good & Bad Gut Bacteria: Fun & Healthy Conversation with Alexander Babu (With Singing and Mimicry) — [YouTube](https://www.youtube.com/watch?v=d8b9v_zEnIU)
-- ⏳ Understanding Insulin Resistance: What We Eat is Directly Linked to Prediabetes!@Doctor Arunkumar — [YouTube](https://www.youtube.com/watch?v=YkCGJrEf-kU)
-- ⏳ The Science of Eating for Health, Importance of Fiber, Fat Loss Tips & Building Muscles ft@Zealocity — [YouTube](https://www.youtube.com/watch?v=WTrjC3G11Tc)
-- ⏳ How Wrong Food Is Destroying Your Gut Health? ft Chef Venkatesh Bhat — [YouTube](https://www.youtube.com/watch?v=Swxp6RmAXlQ)
-- ⏳ Luke Coutinho Deep Dives into Integrative & Lifestyle Medicine, Phone Addiction, and Mental Health! — [YouTube](https://www.youtube.com/watch?v=PckdPK3xuq0)
-- ⏳ VJ Ramya: The Truth About Weightlifting for Women &How Fitness Helps in Overcoming Mental Challenges — [YouTube](https://www.youtube.com/watch?v=n3ZPq3ixRZY)
+- ✅ [Understanding Insulin Resistance: What We Eat is Directly Linked to Prediabetes!@Doctor Arunkumar](episodes/dr-pal/understanding-insulin-resistance-what-we-eat-is-directly-linked-to-pre-YkCGJrEf-kU.md) — [YouTube](https://www.youtube.com/watch?v=YkCGJrEf-kU)
+- ✅ [The Science of Eating for Health, Importance of Fiber, Fat Loss Tips & Building Muscles ft@Zealocity](episodes/dr-pal/the-science-of-eating-for-health-importance-of-fiber-fat-loss-tips-bui-WTrjC3G11Tc.md) — [YouTube](https://www.youtube.com/watch?v=WTrjC3G11Tc)
+- ✅ [How Wrong Food Is Destroying Your Gut Health? ft Chef Venkatesh Bhat](episodes/dr-pal/how-wrong-food-is-destroying-your-gut-health-ft-chef-venkatesh-bhat-Swxp6RmAXlQ.md) — [YouTube](https://www.youtube.com/watch?v=Swxp6RmAXlQ)
+- ✅ [Luke Coutinho Deep Dives into Integrative & Lifestyle Medicine, Phone Addiction, and Mental Health!](episodes/dr-pal/luke-coutinho-deep-dives-into-integrative-lifestyle-medicine-phone-add-PckdPK3xuq0.md) — [YouTube](https://www.youtube.com/watch?v=PckdPK3xuq0)
+- ✅ [VJ Ramya: The Truth About Weightlifting for Women &How Fitness Helps in Overcoming Mental Challenges](episodes/dr-pal/vj-ramya-the-truth-about-weightlifting-for-women-how-fitness-helps-in-n3ZPq3ixRZY.md) — [YouTube](https://www.youtube.com/watch?v=n3ZPq3ixRZY)
 - ⏳ Revant AKA @Foodpharmer The Food Industry's Dirty Secrets Exposed! Stop Buying These Foods Right Now — [YouTube](https://www.youtube.com/watch?v=MgVqmR7AvrE)
-- ⏳ Laughter & Medicine Unite - Fun Podcast with Kenny Sebastian | MedCom Special ft.@Kenny Sebastian — [YouTube](https://www.youtube.com/watch?v=P3EDqj1hjKY)
-- ⏳ Don't Eat Probiotics & Fermented Food Before Watching this Video! ft. @krishashok,  Masala Lab — [YouTube](https://www.youtube.com/watch?v=iL1oss21Eb0)
-- ⏳ Orthopedic Surgeon Dr Santhosh: Importance of Exercise, Muscle Mass, Lower Back Pain & Obesity Risks — [YouTube](https://www.youtube.com/watch?v=IJMYqtbnjmo)
-- ⏳ Celebrity Nutritionist Ryan Fernando Delves into Anti-Aging, Sugar Craving&Restaurant Food Concerns — [YouTube](https://www.youtube.com/watch?v=un3--vdM4bE)
-- ⏳ Breaking Down the Biggest Fitness Myths on the Internet: Jitendra Chouksey, India's Top FitnessCoach — [YouTube](https://www.youtube.com/watch?v=ME-QoercL2Q)
-- ⏳ Is the Satvic Diet Really Effective in Reversing Diseases? Subah & Harsh from @Satvic Movement — [YouTube](https://www.youtube.com/watch?v=hKNFRTdE1PE)
-- ⏳ Is the Satvic Diet Really Effective in Reversing Diseases? @Satvic Movement Share Life Struggles! — [YouTube](https://www.youtube.com/watch?v=kWgSzyP8B9E)
-- ⏳ Dr. Sathya, Apollo talks about Preventive Healthcare, Stress & Proactive Wellness at Every Age! — [YouTube](https://www.youtube.com/watch?v=oGUUC-jhGKI)
-- ⏳ @Sidwarrier, a Neurologist, Reveals Shocking Links between Mindless Scrolling, Stress & Depression 🧠 — [YouTube](https://www.youtube.com/watch?v=iEA2at7ssPQ)
+- ✅ [Laughter & Medicine Unite - Fun Podcast with Kenny Sebastian | MedCom Special ft.@Kenny Sebastian](episodes/dr-pal/laughter-medicine-unite-fun-podcast-with-kenny-sebastian-P3EDqj1hjKY.md) — [YouTube](https://www.youtube.com/watch?v=P3EDqj1hjKY)
+- ✅ [Don't Eat Probiotics & Fermented Food Before Watching this Video! ft. @krishashok,  Masala Lab](episodes/dr-pal/don-t-eat-probiotics-fermented-food-before-watching-this-video-ft-kris-iL1oss21Eb0.md) — [YouTube](https://www.youtube.com/watch?v=iL1oss21Eb0)
+- ✅ [Orthopedic Surgeon Dr Santhosh: Importance of Exercise, Muscle Mass, Lower Back Pain & Obesity Risks](episodes/dr-pal/orthopedic-surgeon-dr-santhosh-importance-of-exercise-muscle-mass-lowe-IJMYqtbnjmo.md) — [YouTube](https://www.youtube.com/watch?v=IJMYqtbnjmo)
+- ✅ [Celebrity Nutritionist Ryan Fernando Delves into Anti-Aging, Sugar Craving&Restaurant Food Concerns](episodes/dr-pal/celebrity-nutritionist-ryan-fernando-delves-into-anti-aging-sugar-crav-un3--vdM4bE.md) — [YouTube](https://www.youtube.com/watch?v=un3--vdM4bE)
+- ✅ [Breaking Down the Biggest Fitness Myths on the Internet: Jitendra Chouksey, India's Top FitnessCoach](episodes/dr-pal/breaking-down-the-biggest-fitness-myths-on-the-internet-jitendra-chouk-ME-QoercL2Q.md) — [YouTube](https://www.youtube.com/watch?v=ME-QoercL2Q)
+- ✅ [Is the Satvic Diet Really Effective in Reversing Diseases? Subah & Harsh from @Satvic Movement](episodes/dr-pal/is-the-satvic-diet-really-effective-in-reversing-diseases-subah-harsh-hKNFRTdE1PE.md) — [YouTube](https://www.youtube.com/watch?v=hKNFRTdE1PE)
+- ✅ [Is the Satvic Diet Really Effective in Reversing Diseases? @Satvic Movement Share Life Struggles!](episodes/dr-pal/is-the-satvic-diet-really-effective-in-reversing-diseases-satvic-movem-kWgSzyP8B9E.md) — [YouTube](https://www.youtube.com/watch?v=kWgSzyP8B9E)
+- ✅ [Dr. Sathya, Apollo talks about Preventive Healthcare, Stress & Proactive Wellness at Every Age!](episodes/dr-pal/dr-sathya-apollo-talks-about-preventive-healthcare-stress-proactive-we-oGUUC-jhGKI.md) — [YouTube](https://www.youtube.com/watch?v=oGUUC-jhGKI)
+- ✅ [@Sidwarrier, a Neurologist, Reveals Shocking Links between Mindless Scrolling, Stress & Depression 🧠](episodes/dr-pal/sidwarrier-a-neurologist-reveals-shocking-links-between-mindless-scrol-iEA2at7ssPQ.md) — [YouTube](https://www.youtube.com/watch?v=iEA2at7ssPQ)
 
 ## Raj Shamani — health episodes
 
-- ⏳ Psychology Of Billionaires, Extreme Ambition & Secrets Of Success | Joe Hudson | FO586 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=g9zGQdrAlMw)
-- ⏳ Memory Scientist’s Guide To Building A 100X Sharper Brain | Nikolay Kukushkin | FO571 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=vNvCQpGYdLo)
+- ✅ [Psychology Of Billionaires, Extreme Ambition & Secrets Of Success | Joe Hudson | FO586 Raj Shamani](episodes/raj-shamani/psychology-of-billionaires-extreme-ambition-secrets-of-success-g9zGQdrAlMw.md) — [YouTube](https://www.youtube.com/watch?v=g9zGQdrAlMw)
+- ✅ [Memory Scientist’s Guide To Building A 100X Sharper Brain | Nikolay Kukushkin | FO571 Raj Shamani](episodes/raj-shamani/memory-scientist-s-guide-to-building-a-100x-sharper-brain-vNvCQpGYdLo.md) — [YouTube](https://www.youtube.com/watch?v=vNvCQpGYdLo)
 - ⏳ How To Escape A Dark Place, Beat Anxiety & Take Back Control | Scott Galloway | FO570 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=d6mAi5kHsxc)
 - ⏳ TOP Harvard Scientist: These 5 Habits Are Aging You Faster | David Sinclair | FO562 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=gfCg5srOjN0)
 - ⏳ Neuroscientist's Guide To 10X Your Focus & Memory | Dr Sahar Yousef | FO559 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=4Vz6L8B73i4)
