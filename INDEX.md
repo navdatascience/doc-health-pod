@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**60 of 372 episodes collected** · Updated 2026-11-18
+**65 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 56 / 101 done
+- Dr Pal Podcast Playlist: 61 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -52,20 +52,20 @@
 - ✅ [Sunscreen SECRETS: How Much to Use & Which One Works? ](episodes/dr-pal/sunscreen-secrets-how-much-to-use-which-one-works-Gf8wI-x4Tyo.md) — [YouTube](https://www.youtube.com/watch?v=Gf8wI-x4Tyo)
 - ✅ [Food Addictions, Biriyani IQ, and Gut Health with Food Vlogger Irfan](episodes/dr-pal/food-addictions-biriyani-iq-and-gut-health-with-food-vlogger-irfan-necywHeI-tU.md) — [YouTube](https://www.youtube.com/watch?v=necywHeI-tU)
 - ✅ [The Hidden Pain of Women (A Must Watch) | Parenting & Trauma with Dr Shalini](episodes/dr-pal/the-hidden-pain-of-women-a-must-watch-FE0h-IpTp-U.md) — [YouTube](https://www.youtube.com/watch?v=FE0h-IpTp-U)
-- ⏳ Sivaangi Opens Up About Gut Issues, Cravings, Comfort Food & Health ( Tamil) — [YouTube](https://www.youtube.com/watch?v=ou_4vY4_b_Q)
-- ⏳ Stop Doing This Every Day - It’s Destroying Your Brain Health. — [YouTube](https://www.youtube.com/watch?v=qO53Gf9WcZM)
+- ✅ [Sivaangi Opens Up About Gut Issues, Cravings, Comfort Food & Health ( Tamil)](episodes/dr-pal/sivaangi-opens-up-about-gut-issues-cravings-comfort-food-health-tamil-ou_4vY4_b_Q.md) — [YouTube](https://www.youtube.com/watch?v=ou_4vY4_b_Q)
+- ✅ [Stop Doing This Every Day - It’s Destroying Your Brain Health.](episodes/dr-pal/stop-doing-this-every-day-it-s-destroying-your-brain-health-qO53Gf9WcZM.md) — [YouTube](https://www.youtube.com/watch?v=qO53Gf9WcZM)
 - ✅ [Kids Nutrition: Weaning, What to feed, Healthy Snacks, Allergies & More with Dr Nithya](episodes/dr-pal/kids-nutrition-weaning-what-to-feed-healthy-snacks-allergies-more-with-eztA2QZXUzo.md) — [YouTube](https://www.youtube.com/watch?v=eztA2QZXUzo)
 - ✅ [Why Every Woman Should Watch This Before Giving Up](episodes/dr-pal/why-every-woman-should-watch-this-before-giving-up-YzPe3D-heEY.md) — [YouTube](https://www.youtube.com/watch?v=YzPe3D-heEY)
 - ✅ [How to Stay Fit Forever: Daily Habits from a Top Fitness Coach](episodes/dr-pal/how-to-stay-fit-forever-daily-habits-from-a-top-fitness-coach-hXoudWP07TE.md) — [YouTube](https://www.youtube.com/watch?v=hXoudWP07TE)
-- ⏳ Are you at Risk for Diabetes? What Every Urban Indian Should Know | Dr Pal — [YouTube](https://www.youtube.com/watch?v=dOQOC1Y34Lo)
+- ✅ [Are you at Risk for Diabetes? What Every Urban Indian Should Know | Dr Pal](episodes/dr-pal/are-you-at-risk-for-diabetes-what-every-urban-indian-should-know-dOQOC1Y34Lo.md) — [YouTube](https://www.youtube.com/watch?v=dOQOC1Y34Lo)
 - ✅ [Sleeplessness & Depression: The Hidden Struggles of Gen Z | Madan Gowri Opens up](episodes/dr-pal/sleeplessness-depression-the-hidden-struggles-of-gen-z-ASXq3LeB-vw.md) — [YouTube](https://www.youtube.com/watch?v=ASXq3LeB-vw)
 - ✅ [Colon Cancer vs Piles vs Constipation – Know the Difference & What to Do | Dr. Param](episodes/dr-pal/colon-cancer-vs-piles-vs-constipation-know-the-difference-what-to-do-0OxZYba-N5o.md) — [YouTube](https://www.youtube.com/watch?v=0OxZYba-N5o)
 - ✅ [Why Your Joints Hurt Even After Taking Supplements (Doctor Explains) | Dr Pal](episodes/dr-pal/why-your-joints-hurt-even-after-taking-supplements-doctor-explains-0s_YMPvuuR0.md) — [YouTube](https://www.youtube.com/watch?v=0s_YMPvuuR0)
 - ✅ [The Siddha Controversy: Science or Superstition? | Dr Pal](episodes/dr-pal/the-siddha-controversy-science-or-superstition-EGI3sZn2550.md) — [YouTube](https://www.youtube.com/watch?v=EGI3sZn2550)
 - ✅ [Child Not Eating? Sleep, Screen & Food Habits Explained Clearly](episodes/dr-pal/child-not-eating-sleep-screen-food-habits-explained-clearly-ZhYwv5zbMpU.md) — [YouTube](https://www.youtube.com/watch?v=ZhYwv5zbMpU)
 - ✅ [Dating, Gen Z Slang, Food, & Jokes. This Podcast is a Vibe! 😉 | Dr. Pal | Abhishek Kumar |](episodes/dr-pal/dating-gen-z-slang-food-jokes-this-podcast-is-a-vibe-sBaAbt6atOs.md) — [YouTube](https://www.youtube.com/watch?v=sBaAbt6atOs)
-- ⏳ Why are you addicted to red flags, validation & chaos? | Dr. Pal | Gayathri | — [YouTube](https://www.youtube.com/watch?v=pD3U-RXo22U)
-- ⏳ Back Pain & Knee Pain? Dr’s Advice for Healthy Bones I Dr. Pal | Dr Sathish — [YouTube](https://www.youtube.com/watch?v=l8jSxpFH5wU)
+- ✅ [Why are you addicted to red flags, validation & chaos? | Dr. Pal | Gayathri |](episodes/dr-pal/why-are-you-addicted-to-red-flags-validation-chaos-pD3U-RXo22U.md) — [YouTube](https://www.youtube.com/watch?v=pD3U-RXo22U)
+- ✅ [Back Pain & Knee Pain? Dr’s Advice for Healthy Bones I Dr. Pal | Dr Sathish](episodes/dr-pal/back-pain-knee-pain-dr-s-advice-for-healthy-bones-i-dr-pal-l8jSxpFH5wU.md) — [YouTube](https://www.youtube.com/watch?v=l8jSxpFH5wU)
 - ✅ [Why Dhoni is unstoppable? ! @Cric It with Badri   | Dr Pal| #csk](episodes/dr-pal/why-dhoni-is-unstoppable-cric-it-with-badri-TkiZPhJ4gM4.md) — [YouTube](https://www.youtube.com/watch?v=TkiZPhJ4gM4)
 - ✅ [99% of Women Don’t Know This About Pregnancy! | Dr. Pal | Dr. Sandhya Vasan | #drpal #pregnancy](episodes/dr-pal/99-of-women-don-t-know-this-about-pregnancy-gi9FMDfCO8U.md) — [YouTube](https://www.youtube.com/watch?v=gi9FMDfCO8U)
 - ✅ [The #1 Mistake in Your Skincare Routine That No One Talks About! | Dr. Renita Rajan | Dr Pal](episodes/dr-pal/the-1-mistake-in-your-skincare-routine-that-no-one-talks-about-0BtvfsjD3Vc.md) — [YouTube](https://www.youtube.com/watch?v=0BtvfsjD3Vc)
