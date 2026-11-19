@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**127 of 372 episodes collected** · Updated 2026-11-18
+**131 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 25 / 104 done
+- Raj Shamani (health): 29 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -143,10 +143,10 @@
 - ⏳ The Cancer Expert: How To Detect & Beat Cancer & Which Foods Are Causing Cancer? | FO436 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ejiePMck88s)
 - ⏳ Use 100% of Your Brain: Power Foods, Discipline, Focus & Lifestyle | Dr. Sajeev | FO434 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=zrdFjOltFJ0)
 - ⏳ Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat | Pooja Makhija | FO433 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)
-- ⏳ Your Family is at Risk: Harmful Gases from Kitchen, Walls & Car | BreatheEasy | FO426 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=RKxuKMhaMnI)
-- ⏳ How to Get Perfect Sleep: Hacks, Pillow, Mattress, Lights & Routine | Dr. Manvir | FO419 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ixNpmM5FdlE)
-- ⏳ Organ Mafia & Hospital Scams: Dark Reality of India’s Healthcare| Dr Guru N Reddy |FO415 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=-wwcpgXmFhE)
-- ⏳ One Habit That Builds Genius: Parenting Mistakes, Brain Risk & Habits | Dr Samir | FO410 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=AQhA06A59n4)
+- ✅ [Your Family is at Risk: Harmful Gases from Kitchen, Walls & Car | BreatheEasy | FO426 Raj Shamani](episodes/raj-shamani/your-family-is-at-risk-harmful-gases-from-kitchen-walls-car-RKxuKMhaMnI.md) — [YouTube](https://www.youtube.com/watch?v=RKxuKMhaMnI)
+- ✅ [How to Get Perfect Sleep: Hacks, Pillow, Mattress, Lights & Routine | Dr. Manvir | FO419 Raj Shamani](episodes/raj-shamani/how-to-get-perfect-sleep-hacks-pillow-mattress-lights-routine-ixNpmM5FdlE.md) — [YouTube](https://www.youtube.com/watch?v=ixNpmM5FdlE)
+- ✅ [Organ Mafia & Hospital Scams: Dark Reality of India’s Healthcare| Dr Guru N Reddy |FO415 Raj Shamani](episodes/raj-shamani/organ-mafia-hospital-scams-dark-reality-of-india-s-healthcare--wwcpgXmFhE.md) — [YouTube](https://www.youtube.com/watch?v=-wwcpgXmFhE)
+- ✅ [One Habit That Builds Genius: Parenting Mistakes, Brain Risk & Habits | Dr Samir | FO410 Raj Shamani](episodes/raj-shamani/one-habit-that-builds-genius-parenting-mistakes-brain-risk-habits-AQhA06A59n4.md) — [YouTube](https://www.youtube.com/watch?v=AQhA06A59n4)
 - ✅ [Why Humans Turn Into Monsters: Body Language, Mindset & Traumas | Gaurav Gill | FO407 Raj Shamani](episodes/raj-shamani/why-humans-turn-into-monsters-body-language-mindset-traumas-mcp_fX9TSYg.md) — [YouTube](https://www.youtube.com/watch?v=mcp_fX9TSYg)
 - ⏳ Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=fHBR1j1kJ1I)
 - ⏳ Skincare Trends EXPOSED! Lip Care, Gua Sha, SPF & Tanning | Dr. Madhuri Agarwal | FO402 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=5nUd5md4oVA)
