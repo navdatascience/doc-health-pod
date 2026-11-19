@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**331 of 372 episodes collected** · Updated 2026-11-18
+**336 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 127 / 167 done
+- The Diary Of A CEO (health): 132 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -336,18 +336,18 @@
 - ✅ [Mel Robbins: Saying These 2 Words Could Fix Your Anxiety! (Brand New Trick)](episodes/diary-of-a-ceo/mel-robbins-saying-these-2-words-could-fix-your-anxiety-brand-new-tric-iEo48f_Rs4w.md) — [YouTube](https://www.youtube.com/watch?v=iEo48f_Rs4w)
 - ✅ [Busta Rhymes Finally Opens Up About His Grief, Depression & Recovery!](episodes/diary-of-a-ceo/busta-rhymes-finally-opens-up-about-his-grief-depression-recovery-cRjzQuzX-tg.md) — [YouTube](https://www.youtube.com/watch?v=cRjzQuzX-tg)
 - ✅ [The Coffee Expert: The Surprising Link Between Coffee & Your Mental Health! James Hoffmann](episodes/diary-of-a-ceo/the-coffee-expert-the-surprising-link-between-coffee-your-mental-healt-TqNrJNhcf5g.md) — [YouTube](https://www.youtube.com/watch?v=TqNrJNhcf5g)
-- ⏳ No.1 Neuroscientist: NEW RESEARCH Your Life, Your Work & Your Sex Life Will Get Boring! (THE FIX) — [YouTube](https://www.youtube.com/watch?v=7KTwmEGsY5g)
+- ✅ [No.1 Neuroscientist: NEW RESEARCH Your Life, Your Work & Your Sex Life Will Get Boring! (THE FIX)](episodes/diary-of-a-ceo/no-1-neuroscientist-new-research-your-life-your-work-your-sex-life-wil-7KTwmEGsY5g.md) — [YouTube](https://www.youtube.com/watch?v=7KTwmEGsY5g)
 - ⏳ I've PROVEN This Food Keeps You Young & This Oil Reduces Inflammation by 85%! Bryan Johnson — [YouTube](https://www.youtube.com/watch?v=Htg3HCgrJK4)
 - ⏳ The Exercise Expert: This Popular Lifestyle Is Killing 1 Person Every 33 Seconds! Michael Easter — [YouTube](https://www.youtube.com/watch?v=jnYrxVXQKS0)
 - ⏳ The ADHD Doctor: “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen — [YouTube](https://www.youtube.com/watch?v=ycTZ_t-aiuU)
-- ⏳ The Junk Food Doctor: "THIS Food Is Worse Than Smoking!" - Chris Van Tulleken Ultra-Processed People — [YouTube](https://www.youtube.com/watch?v=dzUDhstqXbg)
-- ⏳ Doctor Gabor Mate: The Shocking Link Between Kindness & Illness! — [YouTube](https://www.youtube.com/watch?v=L7zWT3l3DV0)
+- ✅ [The Junk Food Doctor: "THIS Food Is Worse Than Smoking!" - Chris Van Tulleken Ultra-Processed People](episodes/diary-of-a-ceo/the-junk-food-doctor-this-food-is-worse-than-smoking-chris-van-tulleke-dzUDhstqXbg.md) — [YouTube](https://www.youtube.com/watch?v=dzUDhstqXbg)
+- ✅ [Doctor Gabor Mate: The Shocking Link Between Kindness & Illness!](episodes/diary-of-a-ceo/doctor-gabor-mate-the-shocking-link-between-kindness-illness-L7zWT3l3DV0.md) — [YouTube](https://www.youtube.com/watch?v=L7zWT3l3DV0)
 - ⏳ The Food Doctor: Extra Protein Is Making You Fatter!? 6 Food Lies Everyone Still Believes! — [YouTube](https://www.youtube.com/watch?v=7XrntcEUjLM)
 - ⏳ Leading Neuroscientist: Stress Leaks Through Skin, Is Contagious, Gives You Belly Fat! Dr Tara Swart — [YouTube](https://www.youtube.com/watch?v=hCW2NHbWNwA)
 - ✅ [The No.1 Celebrity Therapist: The WEIRD Trick To Get Your Sex Life Back! - Marisa Peer](episodes/diary-of-a-ceo/the-no-1-celebrity-therapist-the-weird-trick-to-get-your-sex-life-back-_y_vSmiNpBE.md) — [YouTube](https://www.youtube.com/watch?v=_y_vSmiNpBE)
 - ✅ [The Breathing Expert: Mouth Breathing Linked To ADHD, Diabetes & Child Sickness!](episodes/diary-of-a-ceo/the-breathing-expert-mouth-breathing-linked-to-adhd-diabetes-child-sic-FyLwVyJ9uXw.md) — [YouTube](https://www.youtube.com/watch?v=FyLwVyJ9uXw)
-- ⏳ Dr Joe Dispenza: You MUST Do This Before 10am! — [YouTube](https://www.youtube.com/watch?v=rOYlOdDgYUU)
-- ⏳ The Man Thats Ageing Backwards: “I Was 45, I’m Now 18!” - Bryan Johnson — [YouTube](https://www.youtube.com/watch?v=1yfoonW1InE)
+- ✅ [Dr Joe Dispenza: You MUST Do This Before 10am!](episodes/diary-of-a-ceo/dr-joe-dispenza-you-must-do-this-before-10am-rOYlOdDgYUU.md) — [YouTube](https://www.youtube.com/watch?v=rOYlOdDgYUU)
+- ✅ [The Man Thats Ageing Backwards: “I Was 45, I’m Now 18!” - Bryan Johnson](episodes/diary-of-a-ceo/the-man-thats-ageing-backwards-i-was-45-i-m-now-18-bryan-johnson-1yfoonW1InE.md) — [YouTube](https://www.youtube.com/watch?v=1yfoonW1InE)
 - ✅ [will.i.am Opens Up: Depression, Creativity & ADHD!](episodes/diary-of-a-ceo/will-i-am-opens-up-depression-creativity-adhd-1m-2QhqdlfI.md) — [YouTube](https://www.youtube.com/watch?v=1m-2QhqdlfI)
 - ✅ [Shocking TRUE Story: “I Lost Both Of My Legs Because Of A Tampon” (Health Warning) - Lauren Wasser](episodes/diary-of-a-ceo/shocking-true-story-i-lost-both-of-my-legs-because-of-a-tampon-health-NB4jZCxRkTw.md) — [YouTube](https://www.youtube.com/watch?v=NB4jZCxRkTw)
 - ✅ [The LIFE-EXTENSION Doctor: "The ONE thing that's increasing your chance of early-death by 170.8%!"](episodes/diary-of-a-ceo/the-life-extension-doctor-the-one-thing-that-s-increasing-your-chance-eqPnptAtBJk.md) — [YouTube](https://www.youtube.com/watch?v=eqPnptAtBJk)
