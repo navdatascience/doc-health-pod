@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**289 of 372 episodes collected** · Updated 2026-11-18
+**290 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 85 / 167 done
+- The Diary Of A CEO (health): 86 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -304,7 +304,7 @@
 - ✅ [The Menopause Doctor: This Diet Delays Menopause! Menopause Is Shrinking Your Brain! Dr Lisa Mosconi](episodes/diary-of-a-ceo/the-menopause-doctor-this-diet-delays-menopause-menopause-is-shrinking-Cgo2mD4Pc54.md) — [YouTube](https://www.youtube.com/watch?v=Cgo2mD4Pc54)
 - ✅ [The Pregnancy Doctor: Pregnancy Is Halved Every Year After Age 32! If You Want 2+ Children, DO THIS!](episodes/diary-of-a-ceo/the-pregnancy-doctor-pregnancy-is-halved-every-year-after-age-32-if-yo-w8h4qksd6Yw.md) — [YouTube](https://www.youtube.com/watch?v=w8h4qksd6Yw)
 - ✅ [Dr Mike: The Top 10 Lies Health Experts Have Told You!](episodes/diary-of-a-ceo/dr-mike-the-top-10-lies-health-experts-have-told-you-ToUpAWW7u4c.md) — [YouTube](https://www.youtube.com/watch?v=ToUpAWW7u4c)
-- ⏳ Charlamagne tha God Opens Up About His Depression & Childhood Trauma! — [YouTube](https://www.youtube.com/watch?v=1Rd9Iuxjb5k)
+- ✅ [Charlamagne tha God Opens Up About His Depression & Childhood Trauma!](episodes/diary-of-a-ceo/charlamagne-tha-god-opens-up-about-his-depression-childhood-trauma-1Rd9Iuxjb5k.md) — [YouTube](https://www.youtube.com/watch?v=1Rd9Iuxjb5k)
 - ⏳ The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia! — [YouTube](https://www.youtube.com/watch?v=5o-tRub-0pQ)
 - ⏳ The Glucose Expert: The Only Proven Way To Lose Weight Fast! Calorie Counting Is A Load of BS! — [YouTube](https://www.youtube.com/watch?v=4DWKf5RqU-s)
 - ⏳ The Male Fertility Doctor: Delaying Having Kids Is Impacting Your Future Kids! Dr Michael Eisenberg — [YouTube](https://www.youtube.com/watch?v=uTs6SFeny5Q)
