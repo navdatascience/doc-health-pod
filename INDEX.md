@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**285 of 372 episodes collected** · Updated 2026-11-18
+**289 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 81 / 167 done
+- The Diary Of A CEO (health): 85 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -300,10 +300,10 @@
 - ✅ [The Extreme Sleep Scientist: The Painful Trick To Fix Insomnia And Poor Sleep!](episodes/diary-of-a-ceo/the-extreme-sleep-scientist-the-painful-trick-to-fix-insomnia-and-poor-Desm53JJVMA.md) — [YouTube](https://www.youtube.com/watch?v=Desm53JJVMA)
 - ✅ [The Fasting Expert: "The Truth About Ozempic", These 3 Foods Are Leading To Cancer! - Dr Mindy Pelz](episodes/diary-of-a-ceo/the-fasting-expert-the-truth-about-ozempic-these-3-foods-are-leading-t-MrjIXLQ_OdA.md) — [YouTube](https://www.youtube.com/watch?v=MrjIXLQ_OdA)
 - ✅ [Wim Hof: They’re Lying To You About Disease & Inflammation!](episodes/diary-of-a-ceo/wim-hof-they-re-lying-to-you-about-disease-inflammation-_vX-_fq-c50.md) — [YouTube](https://www.youtube.com/watch?v=_vX-_fq-c50)
-- ⏳ Simon Sinek: "Strong Thigh Muscles = More friends", This Is Why You Can't Make Friends! — [YouTube](https://www.youtube.com/watch?v=I3WUiD8HYn8)
-- ⏳ The Menopause Doctor: This Diet Delays Menopause! Menopause Is Shrinking Your Brain! Dr Lisa Mosconi — [YouTube](https://www.youtube.com/watch?v=Cgo2mD4Pc54)
-- ⏳ The Pregnancy Doctor: Pregnancy Is Halved Every Year After Age 32! If You Want 2+ Children, DO THIS! — [YouTube](https://www.youtube.com/watch?v=w8h4qksd6Yw)
-- ⏳ Dr Mike: The Top 10 Lies Health Experts Have Told You! — [YouTube](https://www.youtube.com/watch?v=ToUpAWW7u4c)
+- ✅ [Simon Sinek: "Strong Thigh Muscles = More friends", This Is Why You Can't Make Friends!](episodes/diary-of-a-ceo/simon-sinek-strong-thigh-muscles-more-friends-this-is-why-you-can-t-ma-I3WUiD8HYn8.md) — [YouTube](https://www.youtube.com/watch?v=I3WUiD8HYn8)
+- ✅ [The Menopause Doctor: This Diet Delays Menopause! Menopause Is Shrinking Your Brain! Dr Lisa Mosconi](episodes/diary-of-a-ceo/the-menopause-doctor-this-diet-delays-menopause-menopause-is-shrinking-Cgo2mD4Pc54.md) — [YouTube](https://www.youtube.com/watch?v=Cgo2mD4Pc54)
+- ✅ [The Pregnancy Doctor: Pregnancy Is Halved Every Year After Age 32! If You Want 2+ Children, DO THIS!](episodes/diary-of-a-ceo/the-pregnancy-doctor-pregnancy-is-halved-every-year-after-age-32-if-yo-w8h4qksd6Yw.md) — [YouTube](https://www.youtube.com/watch?v=w8h4qksd6Yw)
+- ✅ [Dr Mike: The Top 10 Lies Health Experts Have Told You!](episodes/diary-of-a-ceo/dr-mike-the-top-10-lies-health-experts-have-told-you-ToUpAWW7u4c.md) — [YouTube](https://www.youtube.com/watch?v=ToUpAWW7u4c)
 - ⏳ Charlamagne tha God Opens Up About His Depression & Childhood Trauma! — [YouTube](https://www.youtube.com/watch?v=1Rd9Iuxjb5k)
 - ⏳ The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia! — [YouTube](https://www.youtube.com/watch?v=5o-tRub-0pQ)
 - ⏳ The Glucose Expert: The Only Proven Way To Lose Weight Fast! Calorie Counting Is A Load of BS! — [YouTube](https://www.youtube.com/watch?v=4DWKf5RqU-s)
