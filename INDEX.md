@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**41 of 372 episodes collected** · Updated 2026-11-18
+**44 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 37 / 101 done
+- Dr Pal Podcast Playlist: 40 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -32,24 +32,24 @@
 - ✅ [What You’re Missing About Protein & Real Nutrition (Doctor Explains)](episodes/dr-pal/what-you-re-missing-about-protein-real-nutrition-doctor-explains-YWtIfwQT9b0.md) — [YouTube](https://www.youtube.com/watch?v=YWtIfwQT9b0)
 - ✅ [Hormonal Imbalance In Women: Signs, Causes & What To Do](episodes/dr-pal/hormonal-imbalance-in-women-signs-causes-what-to-do-QOTMT0m7AGk.md) — [YouTube](https://www.youtube.com/watch?v=QOTMT0m7AGk)
 - ✅ [Why Modern Diets Are Destroying Your Gut Microbiome | Millet Scientist Explains](episodes/dr-pal/why-modern-diets-are-destroying-your-gut-microbiome-lnxQULOZxhQ.md) — [YouTube](https://www.youtube.com/watch?v=lnxQULOZxhQ)
-- ⏳ Stop Ruining Your Eyes: Screen Habits, Dry Eyes, Blue Light & HOW LASIK or SILK Helps — [YouTube](https://www.youtube.com/watch?v=458JljtmXRU)
+- ✅ [Stop Ruining Your Eyes: Screen Habits, Dry Eyes, Blue Light & HOW LASIK or SILK Helps](episodes/dr-pal/stop-ruining-your-eyes-screen-habits-dry-eyes-blue-light-how-lasik-or-458JljtmXRU.md) — [YouTube](https://www.youtube.com/watch?v=458JljtmXRU)
 - ⏳ The Daily Mistake That Leads to Gas, Acidity & Poor Digestion — [YouTube](https://www.youtube.com/watch?v=h4ytcE2td5I)
 - ✅ [Food, Protein & Diabetes: What Indians Are Getting Wrong About Health](episodes/dr-pal/food-protein-diabetes-what-indians-are-getting-wrong-about-health-2yHNxglDS7w.md) — [YouTube](https://www.youtube.com/watch?v=2yHNxglDS7w)
 - ✅ [Why Cancer Is Rising Among Women (And What You Can Do Early)](episodes/dr-pal/why-cancer-is-rising-among-women-and-what-you-can-do-early-wNKwE-vXCgo.md) — [YouTube](https://www.youtube.com/watch?v=wNKwE-vXCgo)
 - ✅ [Rewire Your Brain: Dopamine, Stress & Focus Explained](episodes/dr-pal/rewire-your-brain-dopamine-stress-focus-explained-YYMBB7H1BPY.md) — [YouTube](https://www.youtube.com/watch?v=YYMBB7H1BPY)
-- ⏳ Why Eating Less Doesn’t Always Work: Hunger, Hormones & Metabolism Explained — [YouTube](https://www.youtube.com/watch?v=9bxurKkcNKY)
+- ✅ [Why Eating Less Doesn’t Always Work: Hunger, Hormones & Metabolism Explained](episodes/dr-pal/why-eating-less-doesn-t-always-work-hunger-hormones-metabolism-explain-9bxurKkcNKY.md) — [YouTube](https://www.youtube.com/watch?v=9bxurKkcNKY)
 - ✅ [The Real Reason Your Knee & Joint Pain Isn’t Healing (Doctor Explains)](episodes/dr-pal/the-real-reason-your-knee-joint-pain-isn-t-healing-doctor-explains-zHFru9P1v94.md) — [YouTube](https://www.youtube.com/watch?v=zHFru9P1v94)
 - ✅ [Why Intimacy Fades in Most Marriages (And How to Rekindle It)](episodes/dr-pal/why-intimacy-fades-in-most-marriages-and-how-to-rekindle-it-XSwkW7atUOE.md) — [YouTube](https://www.youtube.com/watch?v=XSwkW7atUOE)
 - ✅ [How To Stay Healthy & Fit Even If You Have No Time](episodes/dr-pal/how-to-stay-healthy-fit-even-if-you-have-no-time-altjt8zrCLc.md) — [YouTube](https://www.youtube.com/watch?v=altjt8zrCLc)
 - ✅ [The Hidden Dangers That Damage Your Heart & How to Prevent Them](episodes/dr-pal/the-hidden-dangers-that-damage-your-heart-how-to-prevent-them-xIX_zZK15Pk.md) — [YouTube](https://www.youtube.com/watch?v=xIX_zZK15Pk)
 - ✅ [The Shocking Truth Behind Insurance & Hospital Bills in India I Dr. Praveen Raj](episodes/dr-pal/the-shocking-truth-behind-insurance-hospital-bills-in-india-i-dr-prave-ZHt3-vMkAxg.md) — [YouTube](https://www.youtube.com/watch?v=ZHt3-vMkAxg)
 - ✅ [How to Fix Your Hormones, Cravings & Weight… Without Starving Yourself.](episodes/dr-pal/how-to-fix-your-hormones-cravings-weight-without-starving-yourself-ZbOrjYZvK5w.md) — [YouTube](https://www.youtube.com/watch?v=ZbOrjYZvK5w)
-- ✅ [Popcorn, Filter Coffee & Gut Bacteria - Sathish x Dr. Pal Podcast!](episodes/dr-pal/popcorn-filter-coffee-gut-bacteria-sathish-x-dr-pal-podcast-AS_EBoiWjtY.md) — [YouTube](https://www.youtube.com/watch?v=AS_EBoiWjtY)
+- ⏳ Popcorn, Filter Coffee & Gut Bacteria - Sathish x Dr. Pal Podcast! — [YouTube](https://www.youtube.com/watch?v=AS_EBoiWjtY)
 - ✅ [Complete Pregnancy Guide: IVF, Egg Freezing & Infertility Explained](episodes/dr-pal/complete-pregnancy-guide-ivf-egg-freezing-infertility-explained-9_ZMllr9jWY.md) — [YouTube](https://www.youtube.com/watch?v=9_ZMllr9jWY)
 - ✅ [Complete Guide to Bone Health | Fix Your Bones and Joints at Home](episodes/dr-pal/complete-guide-to-bone-health-kMtAz30M_L4.md) — [YouTube](https://www.youtube.com/watch?v=kMtAz30M_L4)
 - ✅ [Eye Health Explained: Vision Problems, LASIK & Dry Eyes](episodes/dr-pal/eye-health-explained-vision-problems-lasik-dry-eyes-FvTo2AbxRM0.md) — [YouTube](https://www.youtube.com/watch?v=FvTo2AbxRM0)
-- ⏳ The Truth About Lab Tests & Master Health Checkups - Dr Velumani Explains — [YouTube](https://www.youtube.com/watch?v=UWQNciiRTFc)
-- ⏳ Sunscreen SECRETS: How Much to Use & Which One Works?  — [YouTube](https://www.youtube.com/watch?v=Gf8wI-x4Tyo)
+- ✅ [The Truth About Lab Tests & Master Health Checkups - Dr Velumani Explains](episodes/dr-pal/the-truth-about-lab-tests-master-health-checkups-dr-velumani-explains-UWQNciiRTFc.md) — [YouTube](https://www.youtube.com/watch?v=UWQNciiRTFc)
+- ✅ [Sunscreen SECRETS: How Much to Use & Which One Works? ](episodes/dr-pal/sunscreen-secrets-how-much-to-use-which-one-works-Gf8wI-x4Tyo.md) — [YouTube](https://www.youtube.com/watch?v=Gf8wI-x4Tyo)
 - ⏳ Food Addictions, Biriyani IQ, and Gut Health with Food Vlogger Irfan — [YouTube](https://www.youtube.com/watch?v=necywHeI-tU)
 - ⏳ The Hidden Pain of Women (A Must Watch) | Parenting & Trauma with Dr Shalini — [YouTube](https://www.youtube.com/watch?v=FE0h-IpTp-U)
 - ⏳ Sivaangi Opens Up About Gut Issues, Cravings, Comfort Food & Health ( Tamil) — [YouTube](https://www.youtube.com/watch?v=ou_4vY4_b_Q)

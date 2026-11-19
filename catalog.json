@@ -253,8 +253,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=458JljtmXRU",
-      "status": "pending",
-      "file": "episodes/dr-pal/stop-ruining-your-eyes-screen-habits-dry-eyes-blue-light-how-lasik-or-458JljtmXRU.md"
+      "status": "done",
+      "file": "episodes/dr-pal/stop-ruining-your-eyes-screen-habits-dry-eyes-blue-light-how-lasik-or-458JljtmXRU.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "h4ytcE2td5I",
@@ -301,8 +302,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=9bxurKkcNKY",
-      "status": "pending",
-      "file": "episodes/dr-pal/why-eating-less-doesn-t-always-work-hunger-hormones-metabolism-explain-9bxurKkcNKY.md"
+      "status": "done",
+      "file": "episodes/dr-pal/why-eating-less-doesn-t-always-work-hunger-hormones-metabolism-explain-9bxurKkcNKY.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "zHFru9P1v94",
@@ -370,9 +372,8 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=AS_EBoiWjtY",
-      "status": "done",
-      "file": "episodes/dr-pal/popcorn-filter-coffee-gut-bacteria-sathish-x-dr-pal-podcast-AS_EBoiWjtY.md",
-      "collected": "2026-11-18"
+      "status": "pending",
+      "file": "episodes/dr-pal/popcorn-filter-coffee-gut-bacteria-sathish-x-dr-pal-podcast-AS_EBoiWjtY.md"
     },
     {
       "id": "9_ZMllr9jWY",
@@ -410,8 +411,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=UWQNciiRTFc",
-      "status": "pending",
-      "file": "episodes/dr-pal/the-truth-about-lab-tests-master-health-checkups-dr-velumani-explains-UWQNciiRTFc.md"
+      "status": "done",
+      "file": "episodes/dr-pal/the-truth-about-lab-tests-master-health-checkups-dr-velumani-explains-UWQNciiRTFc.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "Gf8wI-x4Tyo",
@@ -419,8 +421,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=Gf8wI-x4Tyo",
-      "status": "pending",
-      "file": "episodes/dr-pal/sunscreen-secrets-how-much-to-use-which-one-works-Gf8wI-x4Tyo.md"
+      "status": "done",
+      "file": "episodes/dr-pal/sunscreen-secrets-how-much-to-use-which-one-works-Gf8wI-x4Tyo.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "necywHeI-tU",
