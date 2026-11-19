@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**124 of 372 episodes collected** · Updated 2026-11-18
+**127 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 22 / 104 done
+- Raj Shamani (health): 25 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -133,8 +133,8 @@
 - ✅ [Reverse Ageing in Parents: Social Life, Brain Health & Loneliness | Adarsh | FO479 Raj Shamani](episodes/raj-shamani/reverse-ageing-in-parents-social-life-brain-health-loneliness-D3Fekckw9S0.md) — [YouTube](https://www.youtube.com/watch?v=D3Fekckw9S0)
 - ✅ [Simon Sinek on India’s Future, Trust Crisis, Gen Z Burnout, Anxiety & AI Friends | FO476 Raj Shamani](episodes/raj-shamani/simon-sinek-on-india-s-future-trust-crisis-gen-z-burnout-anxiety-ai-fr-etgQjtdNEtc.md) — [YouTube](https://www.youtube.com/watch?v=etgQjtdNEtc)
 - ✅ [Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear & Anxiety | FO475 Raj Shamani](episodes/raj-shamani/dr-joe-dispenza-rewire-your-brain-heal-your-mind-fear-anxiety-90lLQVZe2Nc.md) — [YouTube](https://www.youtube.com/watch?v=90lLQVZe2Nc)
-- ⏳ YUNGBLUD Unfiltered: Addictions, Insecurities, Fame, Masculinity & Childhood | FO467 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=nZrBQqxYe2A)
-- ⏳ Indian Lifestyle Problems: Belly Fat, Weight Gain & Heart Health | Karan Sarin | FO465 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=nJmkZMv85Cw)
+- ✅ [YUNGBLUD Unfiltered: Addictions, Insecurities, Fame, Masculinity & Childhood | FO467 Raj Shamani](episodes/raj-shamani/yungblud-unfiltered-addictions-insecurities-fame-masculinity-childhood-nZrBQqxYe2A.md) — [YouTube](https://www.youtube.com/watch?v=nZrBQqxYe2A)
+- ✅ [Indian Lifestyle Problems: Belly Fat, Weight Gain & Heart Health | Karan Sarin | FO465 Raj Shamani](episodes/raj-shamani/indian-lifestyle-problems-belly-fat-weight-gain-heart-health-nJmkZMv85Cw.md) — [YouTube](https://www.youtube.com/watch?v=nJmkZMv85Cw)
 - ⏳ Exposing the Indian Diet: Roti, Rice, Morning Energy & Night Habits | Sonia Narang | FO456 Raj Sh... — [YouTube](https://www.youtube.com/watch?v=z1lPXO0pv_4)
 - ⏳ Fever Can Damage Heart, Brain & Bones - Treatment & Home Remedies | Dr Navneet | FO451 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=pZB9Y3OHL1w)
 - ⏳ How Money Changes Relationships: Toxic Marriages, Men vs Women & Pain | Dr Sarthak | FO449 Raj Sh... — [YouTube](https://www.youtube.com/watch?v=483owj7dzIw)
@@ -147,7 +147,7 @@
 - ⏳ How to Get Perfect Sleep: Hacks, Pillow, Mattress, Lights & Routine | Dr. Manvir | FO419 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ixNpmM5FdlE)
 - ⏳ Organ Mafia & Hospital Scams: Dark Reality of India’s Healthcare| Dr Guru N Reddy |FO415 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=-wwcpgXmFhE)
 - ⏳ One Habit That Builds Genius: Parenting Mistakes, Brain Risk & Habits | Dr Samir | FO410 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=AQhA06A59n4)
-- ⏳ Why Humans Turn Into Monsters: Body Language, Mindset & Traumas | Gaurav Gill | FO407 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=mcp_fX9TSYg)
+- ✅ [Why Humans Turn Into Monsters: Body Language, Mindset & Traumas | Gaurav Gill | FO407 Raj Shamani](episodes/raj-shamani/why-humans-turn-into-monsters-body-language-mindset-traumas-mcp_fX9TSYg.md) — [YouTube](https://www.youtube.com/watch?v=mcp_fX9TSYg)
 - ⏳ Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=fHBR1j1kJ1I)
 - ⏳ Skincare Trends EXPOSED! Lip Care, Gua Sha, SPF & Tanning | Dr. Madhuri Agarwal | FO402 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=5nUd5md4oVA)
 - ⏳ Street Dogs: Can Detect Cancer, Depression & Anxiety - HUFT | FO399 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=-mBFOLc-Gyk)
