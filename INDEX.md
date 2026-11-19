@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**245 of 372 episodes collected** · Updated 2026-11-18
+**259 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 100 / 101 done
+- Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 42 / 167 done
+- The Diary Of A CEO (health): 55 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -99,7 +99,7 @@
 - ✅ [How Wrong Food Is Destroying Your Gut Health? ft Chef Venkatesh Bhat](episodes/dr-pal/how-wrong-food-is-destroying-your-gut-health-ft-chef-venkatesh-bhat-Swxp6RmAXlQ.md) — [YouTube](https://www.youtube.com/watch?v=Swxp6RmAXlQ)
 - ✅ [Luke Coutinho Deep Dives into Integrative & Lifestyle Medicine, Phone Addiction, and Mental Health!](episodes/dr-pal/luke-coutinho-deep-dives-into-integrative-lifestyle-medicine-phone-add-PckdPK3xuq0.md) — [YouTube](https://www.youtube.com/watch?v=PckdPK3xuq0)
 - ✅ [VJ Ramya: The Truth About Weightlifting for Women &How Fitness Helps in Overcoming Mental Challenges](episodes/dr-pal/vj-ramya-the-truth-about-weightlifting-for-women-how-fitness-helps-in-n3ZPq3ixRZY.md) — [YouTube](https://www.youtube.com/watch?v=n3ZPq3ixRZY)
-- ⏳ Revant AKA @Foodpharmer The Food Industry's Dirty Secrets Exposed! Stop Buying These Foods Right Now — [YouTube](https://www.youtube.com/watch?v=MgVqmR7AvrE)
+- ✅ [Revant AKA @Foodpharmer The Food Industry's Dirty Secrets Exposed! Stop Buying These Foods Right Now](episodes/dr-pal/revant-aka-foodpharmer-the-food-industry-s-dirty-secrets-exposed-stop-MgVqmR7AvrE.md) — [YouTube](https://www.youtube.com/watch?v=MgVqmR7AvrE)
 - ✅ [Laughter & Medicine Unite - Fun Podcast with Kenny Sebastian | MedCom Special ft.@Kenny Sebastian](episodes/dr-pal/laughter-medicine-unite-fun-podcast-with-kenny-sebastian-P3EDqj1hjKY.md) — [YouTube](https://www.youtube.com/watch?v=P3EDqj1hjKY)
 - ✅ [Don't Eat Probiotics & Fermented Food Before Watching this Video! ft. @krishashok,  Masala Lab](episodes/dr-pal/don-t-eat-probiotics-fermented-food-before-watching-this-video-ft-kris-iL1oss21Eb0.md) — [YouTube](https://www.youtube.com/watch?v=iL1oss21Eb0)
 - ✅ [Orthopedic Surgeon Dr Santhosh: Importance of Exercise, Muscle Mass, Lower Back Pain & Obesity Risks](episodes/dr-pal/orthopedic-surgeon-dr-santhosh-importance-of-exercise-muscle-mass-lowe-IJMYqtbnjmo.md) — [YouTube](https://www.youtube.com/watch?v=IJMYqtbnjmo)
@@ -221,7 +221,7 @@
 
 - ✅ [The Brain Doctor That Figured Out The Cause Of Dementia - Dr. David Perlmutter](episodes/diary-of-a-ceo/the-brain-doctor-that-figured-out-the-cause-of-dementia-dr-david-perlm-FRoQOzZRcpw.md) — [YouTube](https://www.youtube.com/watch?v=FRoQOzZRcpw)
 - ✅ [Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef](episodes/diary-of-a-ceo/phone-addiction-scientist-doing-this-gives-you-an-hour-back-every-day-yePLuwL3FbM.md) — [YouTube](https://www.youtube.com/watch?v=yePLuwL3FbM)
-- ⏳ Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted — [YouTube](https://www.youtube.com/watch?v=MGxcosNuC8k)
+- ✅ [Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted](episodes/diary-of-a-ceo/andrew-huberman-the-real-reason-you-can-t-get-deep-sleep-wake-up-exhau-MGxcosNuC8k.md) — [YouTube](https://www.youtube.com/watch?v=MGxcosNuC8k)
 - ✅ [Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!](episodes/diary-of-a-ceo/testosterone-expert-the-truth-about-dad-bod-why-women-find-fathers-mor-Ppyt3MptX5k.md) — [YouTube](https://www.youtube.com/watch?v=Ppyt3MptX5k)
 - ✅ [Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin](episodes/diary-of-a-ceo/fat-loss-scientist-it-s-easy-to-lose-weight-but-here-s-why-you-won-t-d-dmz--DQty8o.md) — [YouTube](https://www.youtube.com/watch?v=dmz--DQty8o)
 - ✅ [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak](episodes/diary-of-a-ceo/vitamin-d-expert-the-supplement-world-is-giving-the-wrong-advice-BbGv7GTbRN8.md) — [YouTube](https://www.youtube.com/watch?v=BbGv7GTbRN8)
@@ -262,23 +262,23 @@
 - ✅ [World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)](episodes/diary-of-a-ceo/world-expert-on-love-your-brain-already-picked-your-partner-but-they-r-hxsnk90VwCo.md) — [YouTube](https://www.youtube.com/watch?v=hxsnk90VwCo)
 - ✅ [Alcohol Rewires Your Brain - Dr. Sarah Wakeman](episodes/diary-of-a-ceo/alcohol-rewires-your-brain-dr-sarah-wakeman-Fg7U-BhiZGE.md) — [YouTube](https://www.youtube.com/watch?v=Fg7U-BhiZGE)
 - ✅ [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](episodes/diary-of-a-ceo/this-common-food-is-feeding-your-cancer-cells-dr-william-li-LgsJ3V9pIG0.md) — [YouTube](https://www.youtube.com/watch?v=LgsJ3V9pIG0)
-- ⏳ Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions! — [YouTube](https://www.youtube.com/watch?v=atejm2w2jWY)
+- ✅ [Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions!](episodes/diary-of-a-ceo/shaolin-warrior-master-hidden-epidemic-nobody-talks-about-this-modern-atejm2w2jWY.md) — [YouTube](https://www.youtube.com/watch?v=atejm2w2jWY)
 - ⏳ No.1  Neuroscientist: you can change who you are in 30 days — [YouTube](https://www.youtube.com/watch?v=rCtvAvZtJyE)
-- ⏳ Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You’ll Die In A Year If This Happens! — [YouTube](https://www.youtube.com/watch?v=ZxXruY7llcc)
-- ⏳ Hormone Expert: Control Your Hormones Control Your Belly Fat! Cortisol, Oestrogen, Testosterone — [YouTube](https://www.youtube.com/watch?v=0GQozcTPyO0)
-- ⏳ Secret To Living Without Fear & Anxiety Forever! Your Mind Can Heal Itself! - Dr. Joe Dispenza — [YouTube](https://www.youtube.com/watch?v=G4hkYDjPSFs)
-- ⏳ The Truth About Creatine & Exercise! 30% Of People Will Die From This! The Healthy Ageing Doctor — [YouTube](https://www.youtube.com/watch?v=ffgpqk5hZBE)
-- ⏳ Child Attachment Expert: We're Stressing Newborns & It's Causing ADHD! Hidden Dangers Of Daycare! — [YouTube](https://www.youtube.com/watch?v=cialLfVZqm4)
-- ⏳ The Sex Psychologist: We're Not Having Enough Sex! Fat Makes You Attractive! Dr Bill Von Hippel — [YouTube](https://www.youtube.com/watch?v=9gk3mNJs2FY)
-- ⏳ The No.1 Brain Doctor: This Parenting Mistake Ruins Your Kids Brain & Alcohol Will Ruin Yours! — [YouTube](https://www.youtube.com/watch?v=bOi_Y4ythYY)
-- ⏳ The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything! — [YouTube](https://www.youtube.com/watch?v=NyFSkGMWP5Q)
+- ✅ [Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You’ll Die In A Year If This Happens!](episodes/diary-of-a-ceo/peter-attia-anti-aging-cure-no-one-talks-about-50-chance-you-ll-die-in-ZxXruY7llcc.md) — [YouTube](https://www.youtube.com/watch?v=ZxXruY7llcc)
+- ✅ [Hormone Expert: Control Your Hormones Control Your Belly Fat! Cortisol, Oestrogen, Testosterone](episodes/diary-of-a-ceo/hormone-expert-control-your-hormones-control-your-belly-fat-cortisol-o-0GQozcTPyO0.md) — [YouTube](https://www.youtube.com/watch?v=0GQozcTPyO0)
+- ✅ [Secret To Living Without Fear & Anxiety Forever! Your Mind Can Heal Itself! - Dr. Joe Dispenza](episodes/diary-of-a-ceo/secret-to-living-without-fear-anxiety-forever-your-mind-can-heal-itsel-G4hkYDjPSFs.md) — [YouTube](https://www.youtube.com/watch?v=G4hkYDjPSFs)
+- ✅ [The Truth About Creatine & Exercise! 30% Of People Will Die From This! The Healthy Ageing Doctor](episodes/diary-of-a-ceo/the-truth-about-creatine-exercise-30-of-people-will-die-from-this-the-ffgpqk5hZBE.md) — [YouTube](https://www.youtube.com/watch?v=ffgpqk5hZBE)
+- ✅ [Child Attachment Expert: We're Stressing Newborns & It's Causing ADHD! Hidden Dangers Of Daycare!](episodes/diary-of-a-ceo/child-attachment-expert-we-re-stressing-newborns-it-s-causing-adhd-hid-cialLfVZqm4.md) — [YouTube](https://www.youtube.com/watch?v=cialLfVZqm4)
+- ✅ [The Sex Psychologist: We're Not Having Enough Sex! Fat Makes You Attractive! Dr Bill Von Hippel](episodes/diary-of-a-ceo/the-sex-psychologist-we-re-not-having-enough-sex-fat-makes-you-attract-9gk3mNJs2FY.md) — [YouTube](https://www.youtube.com/watch?v=9gk3mNJs2FY)
+- ✅ [The No.1 Brain Doctor: This Parenting Mistake Ruins Your Kids Brain & Alcohol Will Ruin Yours!](episodes/diary-of-a-ceo/the-no-1-brain-doctor-this-parenting-mistake-ruins-your-kids-brain-alc-bOi_Y4ythYY.md) — [YouTube](https://www.youtube.com/watch?v=bOi_Y4ythYY)
+- ✅ [The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!](episodes/diary-of-a-ceo/the-insulin-glucose-doctor-this-will-strip-your-fat-faster-than-anythi-NyFSkGMWP5Q.md) — [YouTube](https://www.youtube.com/watch?v=NyFSkGMWP5Q)
 - ⏳ The Nutritional Scientist: Do Not Eat After 9pm! Link Between Chewing & Belly Fat! — [YouTube](https://www.youtube.com/watch?v=eOnIWDMNyfE)
 - ⏳ The Keto Psychiatrist: What Keto Is Really Doing To Your Body! Can It Cure 43% Of Mental Illness? — [YouTube](https://www.youtube.com/watch?v=B7tnfSPySb0)
 - ⏳ Get Your Sex Life Back! What Everyone Gets Wrong About Sex, Libido & Erectile Dysfunction - Dr Khera — [YouTube](https://www.youtube.com/watch?v=IgW1jepnJp4)
 - ⏳ Exercise & Nutrition Scientist: The Truth About Exercise On Your Period! Take These 4 Supplements! — [YouTube](https://www.youtube.com/watch?v=It5_C6AF1pk)
-- ⏳ Dopamine Expert: Scrolling Works Just Like Alcohol, Do This For 30 Days! — [YouTube](https://www.youtube.com/watch?v=R6xbXOp7wDA)
-- ⏳ The Body Trauma Expert: This Eye Movement Trick Can Fix Your Trauma! The Body Keeps The Score! — [YouTube](https://www.youtube.com/watch?v=Qx5J5nwDBTo)
-- ⏳ Dr. Martha Beck (Oprah's Life Coach): This Weird Trick Reduces Anxiety & Fixed My Childhood Trauma! — [YouTube](https://www.youtube.com/watch?v=fajtQSCHfvE)
+- ✅ [Dopamine Expert: Scrolling Works Just Like Alcohol, Do This For 30 Days!](episodes/diary-of-a-ceo/dopamine-expert-scrolling-works-just-like-alcohol-do-this-for-30-days-R6xbXOp7wDA.md) — [YouTube](https://www.youtube.com/watch?v=R6xbXOp7wDA)
+- ✅ [The Body Trauma Expert: This Eye Movement Trick Can Fix Your Trauma! The Body Keeps The Score!](episodes/diary-of-a-ceo/the-body-trauma-expert-this-eye-movement-trick-can-fix-your-trauma-the-Qx5J5nwDBTo.md) — [YouTube](https://www.youtube.com/watch?v=Qx5J5nwDBTo)
+- ✅ [Dr. Martha Beck (Oprah's Life Coach): This Weird Trick Reduces Anxiety & Fixed My Childhood Trauma!](episodes/diary-of-a-ceo/dr-martha-beck-oprah-s-life-coach-this-weird-trick-reduces-anxiety-fix-fajtQSCHfvE.md) — [YouTube](https://www.youtube.com/watch?v=fajtQSCHfvE)
 - ⏳ Body Language Expert: Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes! — [YouTube](https://www.youtube.com/watch?v=VHUrdELKjDw)
 - ⏳ Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner! — [YouTube](https://www.youtube.com/watch?v=MGposaKNJKQ)
 - ⏳ Dr Sampson: Your Oral Microbiome Is Linked To This Disease! — [YouTube](https://www.youtube.com/watch?v=p3fSwd1cF08)
