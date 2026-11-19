@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**357 of 372 episodes collected** · Updated 2026-11-18
+**364 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 153 / 167 done
+- The Diary Of A CEO (health): 160 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -371,15 +371,15 @@
 - ✅ [Davina McCall: How To Overcome ANY Trauma & Live The Life You Deserve | E210](episodes/diary-of-a-ceo/davina-mccall-how-to-overcome-any-trauma-live-the-life-you-deserve-acjj3NsokSo.md) — [YouTube](https://www.youtube.com/watch?v=acjj3NsokSo)
 - ✅ [Doctor Tim Spector: The Shocking New Truth About Weight Loss, Calories & Diets | E209](episodes/diary-of-a-ceo/doctor-tim-spector-the-shocking-new-truth-about-weight-loss-calories-d-66hWntvp0_4.md) — [YouTube](https://www.youtube.com/watch?v=66hWntvp0_4)
 - ✅ [Liver King Responds To Steroid Accusations! | E171](episodes/diary-of-a-ceo/liver-king-responds-to-steroid-accusations-78_jmynAjLw.md) — [YouTube](https://www.youtube.com/watch?v=78_jmynAjLw)
-- ⏳ Bear Grylls: Man VS Failure, Anxiety & Imposter Syndrome | E155 — [YouTube](https://www.youtube.com/watch?v=V6mZJRb9MZY)
-- ⏳ World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 — [YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
-- ⏳ What No One Tells You About Success And Mental Health! - Building A $240M Dollar Empire! — [YouTube](https://www.youtube.com/watch?v=0KDESUdPRXs)
-- ⏳ The Happiness Expert: Retrain Your Brain For Maximum Happiness! Mo Gawdat — [YouTube](https://www.youtube.com/watch?v=8yVP1cCM4AU)
+- ✅ [Bear Grylls: Man VS Failure, Anxiety & Imposter Syndrome | E155](episodes/diary-of-a-ceo/bear-grylls-man-vs-failure-anxiety-imposter-syndrome-V6mZJRb9MZY.md) — [YouTube](https://www.youtube.com/watch?v=V6mZJRb9MZY)
+- ✅ [World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154](episodes/diary-of-a-ceo/world-leading-therapist-3-simple-steps-to-remove-your-negative-thought-bzilnhq3Mkg.md) — [YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
+- ✅ [What No One Tells You About Success And Mental Health! - Building A $240M Dollar Empire!](episodes/diary-of-a-ceo/what-no-one-tells-you-about-success-and-mental-health-building-a-240m-0KDESUdPRXs.md) — [YouTube](https://www.youtube.com/watch?v=0KDESUdPRXs)
+- ✅ [The Happiness Expert: Retrain Your Brain For Maximum Happiness! Mo Gawdat](episodes/diary-of-a-ceo/the-happiness-expert-retrain-your-brain-for-maximum-happiness-mo-gawda-8yVP1cCM4AU.md) — [YouTube](https://www.youtube.com/watch?v=8yVP1cCM4AU)
 - ⏳ Dr Rangan Chatterjee: 3 Steps To "Core" Happiness | E129 — [YouTube](https://www.youtube.com/watch?v=VYta88JUbBs)
-- ⏳ Jaackmaate: The Untold Story Of My Battle With Health Anxiety & OCD | E127 — [YouTube](https://www.youtube.com/watch?v=1DV6I5hK6ro)
-- ⏳ World Leading Psychologist: How To Detach From Overthinking & Anxiety: Dr Julie Smith | E122 — [YouTube](https://www.youtube.com/watch?v=iLlrIi9-NfQ)
+- ✅ [Jaackmaate: The Untold Story Of My Battle With Health Anxiety & OCD | E127](episodes/diary-of-a-ceo/jaackmaate-the-untold-story-of-my-battle-with-health-anxiety-ocd-1DV6I5hK6ro.md) — [YouTube](https://www.youtube.com/watch?v=1DV6I5hK6ro)
+- ✅ [World Leading Psychologist: How To Detach From Overthinking & Anxiety: Dr Julie Smith | E122](episodes/diary-of-a-ceo/world-leading-psychologist-how-to-detach-from-overthinking-anxiety-dr-iLlrIi9-NfQ.md) — [YouTube](https://www.youtube.com/watch?v=iLlrIi9-NfQ)
 - ⏳ Dr Alex George: My Hardest Day in A&E, Family Suicide & Finding TRUE Purpose. | E89 — [YouTube](https://www.youtube.com/watch?v=wdpiD1_kaUo)
-- ⏳ Monzo CEO On Death Threats, Depression & Digital Banking Wars: Tom BlomField — [YouTube](https://www.youtube.com/watch?v=gP2_QOCrVO4)
+- ✅ [Monzo CEO On Death Threats, Depression & Digital Banking Wars: Tom BlomField](episodes/diary-of-a-ceo/monzo-ceo-on-death-threats-depression-digital-banking-wars-tom-blomfie-gP2_QOCrVO4.md) — [YouTube](https://www.youtube.com/watch?v=gP2_QOCrVO4)
 - ✅ [Elizabeth Day Opens Up About Heartbreak, Miscarriage & Failure | E77](episodes/diary-of-a-ceo/elizabeth-day-opens-up-about-heartbreak-miscarriage-failure-QRTimA9lvZI.md) — [YouTube](https://www.youtube.com/watch?v=QRTimA9lvZI)
 - ⏳ World Leading Sex Therapist: How To Avoid Having Bad Sex: Kate Moyle | E73 — [YouTube](https://www.youtube.com/watch?v=R0ibd_SSXH0)
 - ⏳ A Billionaire’s Guide To Healing Your Mind And Extending Your Life: Christian Angermayer | E72 — [YouTube](https://www.youtube.com/watch?v=yH5YplNDjJM)
