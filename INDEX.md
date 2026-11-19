@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**354 of 372 episodes collected** · Updated 2026-11-18
+**357 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 150 / 167 done
+- The Diary Of A CEO (health): 153 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -339,7 +339,7 @@
 - ✅ [No.1 Neuroscientist: NEW RESEARCH Your Life, Your Work & Your Sex Life Will Get Boring! (THE FIX)](episodes/diary-of-a-ceo/no-1-neuroscientist-new-research-your-life-your-work-your-sex-life-wil-7KTwmEGsY5g.md) — [YouTube](https://www.youtube.com/watch?v=7KTwmEGsY5g)
 - ✅ [I've PROVEN This Food Keeps You Young & This Oil Reduces Inflammation by 85%! Bryan Johnson](episodes/diary-of-a-ceo/i-ve-proven-this-food-keeps-you-young-this-oil-reduces-inflammation-by-Htg3HCgrJK4.md) — [YouTube](https://www.youtube.com/watch?v=Htg3HCgrJK4)
 - ✅ [The Exercise Expert: This Popular Lifestyle Is Killing 1 Person Every 33 Seconds! Michael Easter](episodes/diary-of-a-ceo/the-exercise-expert-this-popular-lifestyle-is-killing-1-person-every-3-jnYrxVXQKS0.md) — [YouTube](https://www.youtube.com/watch?v=jnYrxVXQKS0)
-- ⏳ The ADHD Doctor: “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen — [YouTube](https://www.youtube.com/watch?v=ycTZ_t-aiuU)
+- ✅ [The ADHD Doctor: “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen](episodes/diary-of-a-ceo/the-adhd-doctor-i-ve-scanned-250-000-brains-you-steven-bartlett-have-a-ycTZ_t-aiuU.md) — [YouTube](https://www.youtube.com/watch?v=ycTZ_t-aiuU)
 - ✅ [The Junk Food Doctor: "THIS Food Is Worse Than Smoking!" - Chris Van Tulleken Ultra-Processed People](episodes/diary-of-a-ceo/the-junk-food-doctor-this-food-is-worse-than-smoking-chris-van-tulleke-dzUDhstqXbg.md) — [YouTube](https://www.youtube.com/watch?v=dzUDhstqXbg)
 - ✅ [Doctor Gabor Mate: The Shocking Link Between Kindness & Illness!](episodes/diary-of-a-ceo/doctor-gabor-mate-the-shocking-link-between-kindness-illness-L7zWT3l3DV0.md) — [YouTube](https://www.youtube.com/watch?v=L7zWT3l3DV0)
 - ✅ [The Food Doctor: Extra Protein Is Making You Fatter!? 6 Food Lies Everyone Still Believes!](episodes/diary-of-a-ceo/the-food-doctor-extra-protein-is-making-you-fatter-6-food-lies-everyon-7XrntcEUjLM.md) — [YouTube](https://www.youtube.com/watch?v=7XrntcEUjLM)
@@ -363,14 +363,14 @@
 - ✅ [Doctor & Therapist To The Worlds Superstars: Justin Bieber, Miley Cyrus, Bella Hadid! - Daniel Amen](episodes/diary-of-a-ceo/doctor-therapist-to-the-worlds-superstars-justin-bieber-miley-cyrus-be-oMwAN30FJAQ.md) — [YouTube](https://www.youtube.com/watch?v=oMwAN30FJAQ)
 - ✅ [Fix Your Gut Health! The 4 Foods Fueling Inflammation & Disease! - Dr Will Cole](episodes/diary-of-a-ceo/fix-your-gut-health-the-4-foods-fueling-inflammation-disease-dr-will-c-R-5H70SfbG8.md) — [YouTube](https://www.youtube.com/watch?v=R-5H70SfbG8)
 - ✅ [The World’s No.1 Sleep Expert: The 6 Sleep Hacks You NEED! Matthew Walker](episodes/diary-of-a-ceo/the-world-s-no-1-sleep-expert-the-6-sleep-hacks-you-need-matthew-walke-Us8n8VBQn_c.md) — [YouTube](https://www.youtube.com/watch?v=Us8n8VBQn_c)
-- ⏳ Lucy Hale Opens Up For The First Time About Eating Disorders, Relationships & Addiction | E224 — [YouTube](https://www.youtube.com/watch?v=xlYbp36HPb0)
+- ✅ [Lucy Hale Opens Up For The First Time About Eating Disorders, Relationships & Addiction | E224](episodes/diary-of-a-ceo/lucy-hale-opens-up-for-the-first-time-about-eating-disorders-relations-xlYbp36HPb0.md) — [YouTube](https://www.youtube.com/watch?v=xlYbp36HPb0)
 - ✅ [The Health Expert: The One Food (WE ALL EAT) That's Killing Us Slowly: Max Lugavere | E223](episodes/diary-of-a-ceo/the-health-expert-the-one-food-we-all-eat-that-s-killing-us-slowly-max-It5DFXULOq0.md) — [YouTube](https://www.youtube.com/watch?v=It5DFXULOq0)
 - ✅ [The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo](episodes/diary-of-a-ceo/the-weight-loss-scientist-you-ve-been-lied-to-about-calories-dieting-l-Gy_vcL1cpP8.md) — [YouTube](https://www.youtube.com/watch?v=Gy_vcL1cpP8)
 - ✅ [The Mindset Doctor: The Secret Man Behind The World's Top Performers | Professor Steve Peters](episodes/diary-of-a-ceo/the-mindset-doctor-the-secret-man-behind-the-world-s-top-performers-G1hqsr5mkzA.md) — [YouTube](https://www.youtube.com/watch?v=G1hqsr5mkzA)
 - ✅ [Feeling Lost? Neuroscience Explains Why! The Science Behind Happiness! - Dr Tali Sharot](episodes/diary-of-a-ceo/feeling-lost-neuroscience-explains-why-the-science-behind-happiness-dr-0DZK1nawEXQ.md) — [YouTube](https://www.youtube.com/watch?v=0DZK1nawEXQ)
 - ✅ [Davina McCall: How To Overcome ANY Trauma & Live The Life You Deserve | E210](episodes/diary-of-a-ceo/davina-mccall-how-to-overcome-any-trauma-live-the-life-you-deserve-acjj3NsokSo.md) — [YouTube](https://www.youtube.com/watch?v=acjj3NsokSo)
 - ✅ [Doctor Tim Spector: The Shocking New Truth About Weight Loss, Calories & Diets | E209](episodes/diary-of-a-ceo/doctor-tim-spector-the-shocking-new-truth-about-weight-loss-calories-d-66hWntvp0_4.md) — [YouTube](https://www.youtube.com/watch?v=66hWntvp0_4)
-- ⏳ Liver King Responds To Steroid Accusations! | E171 — [YouTube](https://www.youtube.com/watch?v=78_jmynAjLw)
+- ✅ [Liver King Responds To Steroid Accusations! | E171](episodes/diary-of-a-ceo/liver-king-responds-to-steroid-accusations-78_jmynAjLw.md) — [YouTube](https://www.youtube.com/watch?v=78_jmynAjLw)
 - ⏳ Bear Grylls: Man VS Failure, Anxiety & Imposter Syndrome | E155 — [YouTube](https://www.youtube.com/watch?v=V6mZJRb9MZY)
 - ⏳ World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 — [YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
 - ⏳ What No One Tells You About Success And Mental Health! - Building A $240M Dollar Empire! — [YouTube](https://www.youtube.com/watch?v=0KDESUdPRXs)
