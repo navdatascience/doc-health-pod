@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**137 of 372 episodes collected** · Updated 2026-11-18
+**148 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 35 / 104 done
+- Raj Shamani (health): 46 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -151,30 +151,30 @@
 - ✅ [Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani](episodes/raj-shamani/billionaire-s-brain-vs-your-brain-morning-routine-focus-addiction-fHBR1j1kJ1I.md) — [YouTube](https://www.youtube.com/watch?v=fHBR1j1kJ1I)
 - ⏳ Skincare Trends EXPOSED! Lip Care, Gua Sha, SPF & Tanning | Dr. Madhuri Agarwal | FO402 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=5nUd5md4oVA)
 - ⏳ Street Dogs: Can Detect Cancer, Depression & Anxiety - HUFT | FO399 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=-mBFOLc-Gyk)
-- ⏳ Newborn & Parenting Secrets: Oil Massage, Rash Care & Mom’s Diet | Dr. Nihar | FO393 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=3LhCwAyk0rM)
-- ⏳ Ravi Kishan on Politics, Childhood Trauma, Ego, PM Modi, Bhojpuri Movies & Songs | FO384 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=FDm_nKzpfYM)
-- ⏳ Why Does Gen Z Look So Old? - Makeup, Coffee & Skincare Trends - Dr Niti Gaur | FO383 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=E8QYIC6WVvY)
-- ⏳ Stress Causes Cancer? - Early Signs, Trauma Healing & Food | Dr Tarang Krishna | FO 380 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=sMuheiO3E-U)
+- ✅ [Newborn & Parenting Secrets: Oil Massage, Rash Care & Mom’s Diet | Dr. Nihar | FO393 Raj Shamani](episodes/raj-shamani/newborn-parenting-secrets-oil-massage-rash-care-mom-s-diet-3LhCwAyk0rM.md) — [YouTube](https://www.youtube.com/watch?v=3LhCwAyk0rM)
+- ✅ [Ravi Kishan on Politics, Childhood Trauma, Ego, PM Modi, Bhojpuri Movies & Songs | FO384 Raj Shamani](episodes/raj-shamani/ravi-kishan-on-politics-childhood-trauma-ego-pm-modi-bhojpuri-movies-s-FDm_nKzpfYM.md) — [YouTube](https://www.youtube.com/watch?v=FDm_nKzpfYM)
+- ✅ [Why Does Gen Z Look So Old? - Makeup, Coffee & Skincare Trends - Dr Niti Gaur | FO383 Raj Shamani](episodes/raj-shamani/why-does-gen-z-look-so-old-makeup-coffee-skincare-trends-dr-niti-gaur-E8QYIC6WVvY.md) — [YouTube](https://www.youtube.com/watch?v=E8QYIC6WVvY)
+- ✅ [Stress Causes Cancer? - Early Signs, Trauma Healing & Food | Dr Tarang Krishna | FO 380 Raj Shamani](episodes/raj-shamani/stress-causes-cancer-early-signs-trauma-healing-food-sMuheiO3E-U.md) — [YouTube](https://www.youtube.com/watch?v=sMuheiO3E-U)
 - ⏳ SECRET To Glowing Skin - Korean Vs Indian Skin, Filler & Age - Dr Mikki Singh | FO377 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=R4IDFZ3ja9k)
 - ✅ [Jackson Wang on Heartbreak, Love, Trauma, Music, China’s Rules & Ideal Partner | FO375 Raj Shamani](episodes/raj-shamani/jackson-wang-on-heartbreak-love-trauma-music-china-s-rules-ideal-partn-XzMcJR2UFE4.md) — [YouTube](https://www.youtube.com/watch?v=XzMcJR2UFE4)
-- ⏳ What Your Skin Really Needs – Serums, Moisturizer & Skincare | Dr Geetanjali | FO369 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xh2tA8yf3hU)
-- ⏳ Decode Love, Lies & Leadership Through Body Language | Kanan Tandi | FO366 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=we9VSegCFyo)
+- ✅ [What Your Skin Really Needs – Serums, Moisturizer & Skincare | Dr Geetanjali | FO369 Raj Shamani](episodes/raj-shamani/what-your-skin-really-needs-serums-moisturizer-skincare-xh2tA8yf3hU.md) — [YouTube](https://www.youtube.com/watch?v=xh2tA8yf3hU)
+- ✅ [Decode Love, Lies & Leadership Through Body Language | Kanan Tandi | FO366 Raj Shamani](episodes/raj-shamani/decode-love-lies-leadership-through-body-language-we9VSegCFyo.md) — [YouTube](https://www.youtube.com/watch?v=we9VSegCFyo)
 - ⏳ Live 10 Years Longer: Brain & Heart Health, Workouts & Fitness Business | Gabit | FO357 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=jtgxSDACnyU)
 - ⏳ Love Vs Arranged Marriage, Lust, Soulmate & Red Flags | Dr Madhumati Singh | FO354 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=z5KAKDuvXD4)
 - ⏳ Karan Johar On Love, SRK, Dharma, Weight Loss, Nepotism & Quitting Bollywood | FO351 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ndTkM5X7msg)
 - ⏳ Celebrity Skincare SECRETS - Remove Acne, Diet & Treatments | Dr. Koushik Lahiri | FO348 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=rdc-toYy_90)
 - ⏳ Are Supplements Useless? Ozempic, Collagen & Fat Loss Myths - OZiva Founder | FO344 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=_yxZkzJFZIQ)
-- ⏳ Body Language Secrets: How to Command Any Room with Confidence | Kanan Tandi | FO337 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=r33vEVmjmTk)
-- ⏳ Skin Mistakes You Didn’t Know! Tanning & Sunburn EXPOSED | Dr. Manjot Marwah | FO336 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=QXlcH4QCbGk)
+- ✅ [Body Language Secrets: How to Command Any Room with Confidence | Kanan Tandi | FO337 Raj Shamani](episodes/raj-shamani/body-language-secrets-how-to-command-any-room-with-confidence-r33vEVmjmTk.md) — [YouTube](https://www.youtube.com/watch?v=r33vEVmjmTk)
+- ✅ [Skin Mistakes You Didn’t Know! Tanning & Sunburn EXPOSED | Dr. Manjot Marwah | FO336 Raj Shamani](episodes/raj-shamani/skin-mistakes-you-didn-t-know-tanning-sunburn-exposed-QXlcH4QCbGk.md) — [YouTube](https://www.youtube.com/watch?v=QXlcH4QCbGk)
 - ⏳ Metropolis Founder on Non Certified Labs, Diseases & Future of Indian Healthcare | FO330 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=nfdkEKNadEE)
 - ⏳ WATCH THIS To Avoid Heart Attack: Lifestyle, Food & Painkillers – Dr. Ramakanta | FO328 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=G0Iibyfxwis)
 - ⏳ Heal Painful Memories, Increase Willpower, Superfoods & Liver Disease – Ram Verma |FO325 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=VAa_x7-3Cp4)
 - ⏳ Avoid These Baby Care Mistakes - Diapers, Rashes & Best Products | Dr Arpit Gupta |FO324 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=yP-fJMqWYCI)
 - ⏳ WATCH THIS To Avoid Cancer - Symptoms, Myths, Treatment, Diet & Food - Dr Tarang | FO322 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=e1B-bSvVg5M)
 - ⏳ How This One Habit Is Destroying Your Health, Sleep & Stress Levels – Ashdin Doc | FO321 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=kH-ih06rmpI)
-- ⏳ Expert Eye Doctor On Eye Drops, Specs, Phone Screen Hacks & Myopia | Dr Rahil | FO312 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=5jlAFt84v7o)
-- ⏳ Dr. Umesh Wadhavani on Homeopathy, Healthy Diet, Junk Food & Mental Health | FO 302 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=wWOx3RYi_0w)
-- ⏳ Narcissism,Toxic Relationship, Manipulation, Therapy & Elon Musk - Havovi H. | FO290 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=A9kYEGFU49k)
+- ✅ [Expert Eye Doctor On Eye Drops, Specs, Phone Screen Hacks & Myopia | Dr Rahil | FO312 Raj Shamani](episodes/raj-shamani/expert-eye-doctor-on-eye-drops-specs-phone-screen-hacks-myopia-5jlAFt84v7o.md) — [YouTube](https://www.youtube.com/watch?v=5jlAFt84v7o)
+- ✅ [Dr. Umesh Wadhavani on Homeopathy, Healthy Diet, Junk Food & Mental Health | FO 302 Raj Shamani](episodes/raj-shamani/dr-umesh-wadhavani-on-homeopathy-healthy-diet-junk-food-mental-health-wWOx3RYi_0w.md) — [YouTube](https://www.youtube.com/watch?v=wWOx3RYi_0w)
+- ✅ [Narcissism,Toxic Relationship, Manipulation, Therapy & Elon Musk - Havovi H. | FO290 Raj Shamani](episodes/raj-shamani/narcissism-toxic-relationship-manipulation-therapy-elon-musk-havovi-h-A9kYEGFU49k.md) — [YouTube](https://www.youtube.com/watch?v=A9kYEGFU49k)
 - ⏳ Lung Health Expert: Air Pollution, Vape, Lung Cancer, Passive Smoking & Exercise | FO289 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=S4j8-10TXsU)
 - ⏳ Breast Cancer, Symptoms, Treatment, Stages, Chemotherapy & Myths - Dr Mandar | FO286 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=k3HIsDtvFWE)
 - ⏳ Cosmetic Procedures, Melasma, Fat Reduction, Male Bo*bs - Sr. Surgeon Rajasekhar | FO277 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=1l-5kCivLdE)
