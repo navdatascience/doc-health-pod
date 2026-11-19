@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**364 of 372 episodes collected** · Updated 2026-11-18
+**365 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 160 / 167 done
+- The Diary Of A CEO (health): 161 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -381,7 +381,7 @@
 - ⏳ Dr Alex George: My Hardest Day in A&E, Family Suicide & Finding TRUE Purpose. | E89 — [YouTube](https://www.youtube.com/watch?v=wdpiD1_kaUo)
 - ✅ [Monzo CEO On Death Threats, Depression & Digital Banking Wars: Tom BlomField](episodes/diary-of-a-ceo/monzo-ceo-on-death-threats-depression-digital-banking-wars-tom-blomfie-gP2_QOCrVO4.md) — [YouTube](https://www.youtube.com/watch?v=gP2_QOCrVO4)
 - ✅ [Elizabeth Day Opens Up About Heartbreak, Miscarriage & Failure | E77](episodes/diary-of-a-ceo/elizabeth-day-opens-up-about-heartbreak-miscarriage-failure-QRTimA9lvZI.md) — [YouTube](https://www.youtube.com/watch?v=QRTimA9lvZI)
-- ⏳ World Leading Sex Therapist: How To Avoid Having Bad Sex: Kate Moyle | E73 — [YouTube](https://www.youtube.com/watch?v=R0ibd_SSXH0)
+- ✅ [World Leading Sex Therapist: How To Avoid Having Bad Sex: Kate Moyle | E73](episodes/diary-of-a-ceo/world-leading-sex-therapist-how-to-avoid-having-bad-sex-kate-moyle-R0ibd_SSXH0.md) — [YouTube](https://www.youtube.com/watch?v=R0ibd_SSXH0)
 - ⏳ A Billionaire’s Guide To Healing Your Mind And Extending Your Life: Christian Angermayer | E72 — [YouTube](https://www.youtube.com/watch?v=yH5YplNDjJM)
 - ⏳ The Secret To A Good Nights Sleep with Stephanie Romiszewski | E64 — [YouTube](https://www.youtube.com/watch?v=18iBvgUbSMk)
 - ⏳ Addiction, Childhood Trauma And Depression With Joe Wicks (The Body Coach) | E60 — [YouTube](https://www.youtube.com/watch?v=OZN7xRCAz58)

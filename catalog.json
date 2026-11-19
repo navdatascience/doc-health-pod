@@ -3680,8 +3680,9 @@
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=R0ibd_SSXH0",
-      "status": "pending",
-      "file": "episodes/diary-of-a-ceo/world-leading-sex-therapist-how-to-avoid-having-bad-sex-kate-moyle-R0ibd_SSXH0.md"
+      "status": "done",
+      "file": "episodes/diary-of-a-ceo/world-leading-sex-therapist-how-to-avoid-having-bad-sex-kate-moyle-R0ibd_SSXH0.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "yH5YplNDjJM",
