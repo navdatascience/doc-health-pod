@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**291 of 372 episodes collected** · Updated 2026-11-18
+**300 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 87 / 167 done
+- The Diary Of A CEO (health): 96 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -306,16 +306,16 @@
 - ✅ [Dr Mike: The Top 10 Lies Health Experts Have Told You!](episodes/diary-of-a-ceo/dr-mike-the-top-10-lies-health-experts-have-told-you-ToUpAWW7u4c.md) — [YouTube](https://www.youtube.com/watch?v=ToUpAWW7u4c)
 - ✅ [Charlamagne tha God Opens Up About His Depression & Childhood Trauma!](episodes/diary-of-a-ceo/charlamagne-tha-god-opens-up-about-his-depression-childhood-trauma-1Rd9Iuxjb5k.md) — [YouTube](https://www.youtube.com/watch?v=1Rd9Iuxjb5k)
 - ✅ [The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!](episodes/diary-of-a-ceo/the-exercise-neuroscientist-new-research-the-shocking-link-between-exe-5o-tRub-0pQ.md) — [YouTube](https://www.youtube.com/watch?v=5o-tRub-0pQ)
-- ⏳ The Glucose Expert: The Only Proven Way To Lose Weight Fast! Calorie Counting Is A Load of BS! — [YouTube](https://www.youtube.com/watch?v=4DWKf5RqU-s)
-- ⏳ The Male Fertility Doctor: Delaying Having Kids Is Impacting Your Future Kids! Dr Michael Eisenberg — [YouTube](https://www.youtube.com/watch?v=uTs6SFeny5Q)
-- ⏳ Rebel Wilson: I Used My Weight To My Advantage! — [YouTube](https://www.youtube.com/watch?v=-xjneW1XZBs)
-- ⏳ Johann Hari: They’re Lying To You About The Side Effects Of Ozempic! — [YouTube](https://www.youtube.com/watch?v=0YMnHNIuK3M)
-- ⏳ Mo Gawdat: A WARNING about Stress & Anxiety! This Is Causing 70% Of Heart Attacks In Young People! — [YouTube](https://www.youtube.com/watch?v=IxVNR0Om-lA)
-- ⏳ I Tested 100,000 People's DNA. This Diet Will Kill You - Gary Brecka — [YouTube](https://www.youtube.com/watch?v=10enqcw2Qiw)
-- ⏳ Jocko Willink (Former Navy Seal): Use This Weird Trick To Overcome Fear, Anxiety & Self-Doubt! — [YouTube](https://www.youtube.com/watch?v=3eZJ_y68wsg)
+- ✅ [The Glucose Expert: The Only Proven Way To Lose Weight Fast! Calorie Counting Is A Load of BS!](episodes/diary-of-a-ceo/the-glucose-expert-the-only-proven-way-to-lose-weight-fast-calorie-cou-4DWKf5RqU-s.md) — [YouTube](https://www.youtube.com/watch?v=4DWKf5RqU-s)
+- ✅ [The Male Fertility Doctor: Delaying Having Kids Is Impacting Your Future Kids! Dr Michael Eisenberg](episodes/diary-of-a-ceo/the-male-fertility-doctor-delaying-having-kids-is-impacting-your-futur-uTs6SFeny5Q.md) — [YouTube](https://www.youtube.com/watch?v=uTs6SFeny5Q)
+- ✅ [Rebel Wilson: I Used My Weight To My Advantage!](episodes/diary-of-a-ceo/rebel-wilson-i-used-my-weight-to-my-advantage--xjneW1XZBs.md) — [YouTube](https://www.youtube.com/watch?v=-xjneW1XZBs)
+- ✅ [Johann Hari: They’re Lying To You About The Side Effects Of Ozempic!](episodes/diary-of-a-ceo/johann-hari-they-re-lying-to-you-about-the-side-effects-of-ozempic-0YMnHNIuK3M.md) — [YouTube](https://www.youtube.com/watch?v=0YMnHNIuK3M)
+- ✅ [Mo Gawdat: A WARNING about Stress & Anxiety! This Is Causing 70% Of Heart Attacks In Young People!](episodes/diary-of-a-ceo/mo-gawdat-a-warning-about-stress-anxiety-this-is-causing-70-of-heart-a-IxVNR0Om-lA.md) — [YouTube](https://www.youtube.com/watch?v=IxVNR0Om-lA)
+- ✅ [I Tested 100,000 People's DNA. This Diet Will Kill You - Gary Brecka](episodes/diary-of-a-ceo/i-tested-100-000-people-s-dna-this-diet-will-kill-you-gary-brecka-10enqcw2Qiw.md) — [YouTube](https://www.youtube.com/watch?v=10enqcw2Qiw)
+- ✅ [Jocko Willink (Former Navy Seal): Use This Weird Trick To Overcome Fear, Anxiety & Self-Doubt!](episodes/diary-of-a-ceo/jocko-willink-former-navy-seal-use-this-weird-trick-to-overcome-fear-a-3eZJ_y68wsg.md) — [YouTube](https://www.youtube.com/watch?v=3eZJ_y68wsg)
 - ⏳ The Longevity Expert: Is There A Link Between Milk & Cancer? + Ozempic Can Really Mess You Up! — [YouTube](https://www.youtube.com/watch?v=lbzn5iz8Mbo)
-- ⏳ The Better-Sex Doctor: The Link Between Masturbating & Prostate Cancer! Dr Rena Malik — [YouTube](https://www.youtube.com/watch?v=HUoPA6oP6do)
-- ⏳ The Gottman Doctors: Women Tend to Be More Unhappily Married & Non-Cuddlers Have an Awful Sex Life! — [YouTube](https://www.youtube.com/watch?v=mS3bfCt0K88)
+- ✅ [The Better-Sex Doctor: The Link Between Masturbating & Prostate Cancer! Dr Rena Malik](episodes/diary-of-a-ceo/the-better-sex-doctor-the-link-between-masturbating-prostate-cancer-dr-HUoPA6oP6do.md) — [YouTube](https://www.youtube.com/watch?v=HUoPA6oP6do)
+- ✅ [The Gottman Doctors: Women Tend to Be More Unhappily Married & Non-Cuddlers Have an Awful Sex Life!](episodes/diary-of-a-ceo/the-gottman-doctors-women-tend-to-be-more-unhappily-married-non-cuddle-mS3bfCt0K88.md) — [YouTube](https://www.youtube.com/watch?v=mS3bfCt0K88)
 - ⏳ Leading Childhood Trauma Doctor: 10 Lies They Told You About Your Childhood Trauma! - Paul Conti — [YouTube](https://www.youtube.com/watch?v=USE89i0kiiQ)
 - ⏳ The Calories Expert: Health Experts Are Wrong About Calories & Diet Coke! Layne Norton — [YouTube](https://www.youtube.com/watch?v=Znoi6tBtYRc)
 - ⏳ Dr K: "There Is A Crisis Going On With Men!", “We’ve Produced Millions Of Lonely, Addicted Males!” — [YouTube](https://www.youtube.com/watch?v=B_5N_aDu3u0)
