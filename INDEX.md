@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**235 of 372 episodes collected** · Updated 2026-11-18
+**245 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 32 / 167 done
+- The Diary Of A CEO (health): 42 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -242,14 +242,14 @@
 - ✅ [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](episodes/diary-of-a-ceo/insulin-expert-how-to-drain-your-liver-of-fat-do-this-C7LL7VwP8Nc.md) — [YouTube](https://www.youtube.com/watch?v=C7LL7VwP8Nc)
 - ✅ [Dopamine Expert: How TikTok Is Physically Rewiring Your Brain (Permanent Damage?)](episodes/diary-of-a-ceo/dopamine-expert-how-tiktok-is-physically-rewiring-your-brain-permanent-2ZKLaUbB33o.md) — [YouTube](https://www.youtube.com/watch?v=2ZKLaUbB33o)
 - ✅ [The Poo Doctor: This Cheap Spice Fixes A Damaged Gut!](episodes/diary-of-a-ceo/the-poo-doctor-this-cheap-spice-fixes-a-damaged-gut-5Tr7AhkOEj4.md) — [YouTube](https://www.youtube.com/watch?v=5Tr7AhkOEj4)
-- ⏳ The 6 Science Backed Brain Fixes Most People Are Ignoring! — [YouTube](https://www.youtube.com/watch?v=Oipkl53n938)
-- ⏳ Insulin Doctor: This Is The First Sign Of Dementia! The Shocking Link Between Keto & Brain Decline! — [YouTube](https://www.youtube.com/watch?v=KVXnVe8eOkM)
-- ⏳ World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%! — [YouTube](https://www.youtube.com/watch?v=qxxnRMT9C-8)
-- ⏳ Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain! — [YouTube](https://www.youtube.com/watch?v=GFyijjy1KdU)
+- ✅ [The 6 Science Backed Brain Fixes Most People Are Ignoring!](episodes/diary-of-a-ceo/the-6-science-backed-brain-fixes-most-people-are-ignoring-Oipkl53n938.md) — [YouTube](https://www.youtube.com/watch?v=Oipkl53n938)
+- ✅ [Insulin Doctor: This Is The First Sign Of Dementia! The Shocking Link Between Keto & Brain Decline!](episodes/diary-of-a-ceo/insulin-doctor-this-is-the-first-sign-of-dementia-the-shocking-link-be-KVXnVe8eOkM.md) — [YouTube](https://www.youtube.com/watch?v=KVXnVe8eOkM)
+- ✅ [World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!](episodes/diary-of-a-ceo/world-no-1-sleep-expert-magnesium-isn-t-helping-you-sleep-this-habit-i-qxxnRMT9C-8.md) — [YouTube](https://www.youtube.com/watch?v=qxxnRMT9C-8)
+- ✅ [Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain!](episodes/diary-of-a-ceo/tim-ferriss-the-hidden-nerve-that-controls-trauma-mood-emotional-pain-GFyijjy1KdU.md) — [YouTube](https://www.youtube.com/watch?v=GFyijjy1KdU)
 - ✅ [No.1 Brain Scientist: Your Brain Is Lying To You! Here's How I Discovered The Truth!](episodes/diary-of-a-ceo/no-1-brain-scientist-your-brain-is-lying-to-you-here-s-how-i-discovere-hQaN5w3YwtM.md) — [YouTube](https://www.youtube.com/watch?v=hQaN5w3YwtM)
 - ✅ [Women's Exercise Debate: The 7 Weight Loss Lies Women Believe!](episodes/diary-of-a-ceo/women-s-exercise-debate-the-7-weight-loss-lies-women-believe-P1CeHGJOX5g.md) — [YouTube](https://www.youtube.com/watch?v=P1CeHGJOX5g)
-- ⏳ Hormone & Fertility Experts: We've Been Lied To About Women's Health! If This Happens, Call A Doctor — [YouTube](https://www.youtube.com/watch?v=kizDk8idpT8)
-- ⏳ No. 1 Sugar Expert: You've Been Sold A Lie About "Healthy" Food! — [YouTube](https://www.youtube.com/watch?v=ZE_H7rijrVk)
+- ✅ [Hormone & Fertility Experts: We've Been Lied To About Women's Health! If This Happens, Call A Doctor](episodes/diary-of-a-ceo/hormone-fertility-experts-we-ve-been-lied-to-about-women-s-health-if-t-kizDk8idpT8.md) — [YouTube](https://www.youtube.com/watch?v=kizDk8idpT8)
+- ✅ [No. 1 Sugar Expert: You've Been Sold A Lie About "Healthy" Food!](episodes/diary-of-a-ceo/no-1-sugar-expert-you-ve-been-sold-a-lie-about-healthy-food-ZE_H7rijrVk.md) — [YouTube](https://www.youtube.com/watch?v=ZE_H7rijrVk)
 - ✅ [Insulin Doctor: The Fastest Way To Burn Dangerous Visceral Fat! I'm Finding Mould In My Patients!](episodes/diary-of-a-ceo/insulin-doctor-the-fastest-way-to-burn-dangerous-visceral-fat-i-m-find-gryta3KZKU4.md) — [YouTube](https://www.youtube.com/watch?v=gryta3KZKU4)
 - ✅ [The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!](episodes/diary-of-a-ceo/the-sugar-doctor-the-simple-diet-that-prevents-80-of-disease-QXUNnXHXeVQ.md) — [YouTube](https://www.youtube.com/watch?v=QXUNnXHXeVQ)
 - ✅ [World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You!](episodes/diary-of-a-ceo/world-no-1-fasting-expert-the-link-between-cancer-fasting-that-they-re-jDG1m_b5Ih0.md) — [YouTube](https://www.youtube.com/watch?v=jDG1m_b5Ih0)
@@ -257,11 +257,11 @@
 - ✅ [Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death!](episodes/diary-of-a-ceo/neuroscientist-dr-tara-swart-evidence-we-can-communicate-after-death-yfEQRqFo2bI.md) — [YouTube](https://www.youtube.com/watch?v=yfEQRqFo2bI)
 - ✅ [Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!](episodes/diary-of-a-ceo/top-psychologist-donald-hoffman-seeing-true-reality-would-kill-us-i-ca-W0vTZrZny6A.md) — [YouTube](https://www.youtube.com/watch?v=W0vTZrZny6A)
 - ✅ [Anti-Aging Expert: Missing This Vitamin Is Like Smoking! The Truth About Creatine! - Rhonda Patrick](episodes/diary-of-a-ceo/anti-aging-expert-missing-this-vitamin-is-like-smoking-the-truth-about-JCTb3QSrGMQ.md) — [YouTube](https://www.youtube.com/watch?v=JCTb3QSrGMQ)
-- ⏳ Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight! — [YouTube](https://www.youtube.com/watch?v=wQJlGHVmdrA)
+- ✅ [Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!](episodes/diary-of-a-ceo/vitamin-d-expert-the-fastest-way-to-dementia-the-big-lie-about-sunligh-wQJlGHVmdrA.md) — [YouTube](https://www.youtube.com/watch?v=wQJlGHVmdrA)
 - ✅ [The Porn Addiction Crisis No One Wants to Talk About – Dr. K](episodes/diary-of-a-ceo/the-porn-addiction-crisis-no-one-wants-to-talk-about-dr-k-dm2qDrb3UVo.md) — [YouTube](https://www.youtube.com/watch?v=dm2qDrb3UVo)
-- ⏳ World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy) — [YouTube](https://www.youtube.com/watch?v=hxsnk90VwCo)
-- ⏳ Alcohol Rewires Your Brain - Dr. Sarah Wakeman — [YouTube](https://www.youtube.com/watch?v=Fg7U-BhiZGE)
-- ⏳ This Common Food Is Feeding Your Cancer Cells - Dr. William Li — [YouTube](https://www.youtube.com/watch?v=LgsJ3V9pIG0)
+- ✅ [World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)](episodes/diary-of-a-ceo/world-expert-on-love-your-brain-already-picked-your-partner-but-they-r-hxsnk90VwCo.md) — [YouTube](https://www.youtube.com/watch?v=hxsnk90VwCo)
+- ✅ [Alcohol Rewires Your Brain - Dr. Sarah Wakeman](episodes/diary-of-a-ceo/alcohol-rewires-your-brain-dr-sarah-wakeman-Fg7U-BhiZGE.md) — [YouTube](https://www.youtube.com/watch?v=Fg7U-BhiZGE)
+- ✅ [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](episodes/diary-of-a-ceo/this-common-food-is-feeding-your-cancer-cells-dr-william-li-LgsJ3V9pIG0.md) — [YouTube](https://www.youtube.com/watch?v=LgsJ3V9pIG0)
 - ⏳ Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions! — [YouTube](https://www.youtube.com/watch?v=atejm2w2jWY)
 - ⏳ No.1  Neuroscientist: you can change who you are in 30 days — [YouTube](https://www.youtube.com/watch?v=rCtvAvZtJyE)
 - ⏳ Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You’ll Die In A Year If This Happens! — [YouTube](https://www.youtube.com/watch?v=ZxXruY7llcc)
