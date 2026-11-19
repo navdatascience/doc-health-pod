@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**187 of 372 episodes collected** · Updated 2026-11-18
+**204 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 65 / 104 done
+- Raj Shamani (health): 82 / 104 done
 - The Diary Of A CEO (health): 22 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -155,7 +155,7 @@
 - ✅ [Ravi Kishan on Politics, Childhood Trauma, Ego, PM Modi, Bhojpuri Movies & Songs | FO384 Raj Shamani](episodes/raj-shamani/ravi-kishan-on-politics-childhood-trauma-ego-pm-modi-bhojpuri-movies-s-FDm_nKzpfYM.md) — [YouTube](https://www.youtube.com/watch?v=FDm_nKzpfYM)
 - ✅ [Why Does Gen Z Look So Old? - Makeup, Coffee & Skincare Trends - Dr Niti Gaur | FO383 Raj Shamani](episodes/raj-shamani/why-does-gen-z-look-so-old-makeup-coffee-skincare-trends-dr-niti-gaur-E8QYIC6WVvY.md) — [YouTube](https://www.youtube.com/watch?v=E8QYIC6WVvY)
 - ✅ [Stress Causes Cancer? - Early Signs, Trauma Healing & Food | Dr Tarang Krishna | FO 380 Raj Shamani](episodes/raj-shamani/stress-causes-cancer-early-signs-trauma-healing-food-sMuheiO3E-U.md) — [YouTube](https://www.youtube.com/watch?v=sMuheiO3E-U)
-- ⏳ SECRET To Glowing Skin - Korean Vs Indian Skin, Filler & Age - Dr Mikki Singh | FO377 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=R4IDFZ3ja9k)
+- ✅ [SECRET To Glowing Skin - Korean Vs Indian Skin, Filler & Age - Dr Mikki Singh | FO377 Raj Shamani](episodes/raj-shamani/secret-to-glowing-skin-korean-vs-indian-skin-filler-age-dr-mikki-singh-R4IDFZ3ja9k.md) — [YouTube](https://www.youtube.com/watch?v=R4IDFZ3ja9k)
 - ✅ [Jackson Wang on Heartbreak, Love, Trauma, Music, China’s Rules & Ideal Partner | FO375 Raj Shamani](episodes/raj-shamani/jackson-wang-on-heartbreak-love-trauma-music-china-s-rules-ideal-partn-XzMcJR2UFE4.md) — [YouTube](https://www.youtube.com/watch?v=XzMcJR2UFE4)
 - ✅ [What Your Skin Really Needs – Serums, Moisturizer & Skincare | Dr Geetanjali | FO369 Raj Shamani](episodes/raj-shamani/what-your-skin-really-needs-serums-moisturizer-skincare-xh2tA8yf3hU.md) — [YouTube](https://www.youtube.com/watch?v=xh2tA8yf3hU)
 - ✅ [Decode Love, Lies & Leadership Through Body Language | Kanan Tandi | FO366 Raj Shamani](episodes/raj-shamani/decode-love-lies-leadership-through-body-language-we9VSegCFyo.md) — [YouTube](https://www.youtube.com/watch?v=we9VSegCFyo)
@@ -176,25 +176,25 @@
 - ✅ [Dr. Umesh Wadhavani on Homeopathy, Healthy Diet, Junk Food & Mental Health | FO 302 Raj Shamani](episodes/raj-shamani/dr-umesh-wadhavani-on-homeopathy-healthy-diet-junk-food-mental-health-wWOx3RYi_0w.md) — [YouTube](https://www.youtube.com/watch?v=wWOx3RYi_0w)
 - ✅ [Narcissism,Toxic Relationship, Manipulation, Therapy & Elon Musk - Havovi H. | FO290 Raj Shamani](episodes/raj-shamani/narcissism-toxic-relationship-manipulation-therapy-elon-musk-havovi-h-A9kYEGFU49k.md) — [YouTube](https://www.youtube.com/watch?v=A9kYEGFU49k)
 - ✅ [Lung Health Expert: Air Pollution, Vape, Lung Cancer, Passive Smoking & Exercise | FO289 Raj Shamani](episodes/raj-shamani/lung-health-expert-air-pollution-vape-lung-cancer-passive-smoking-exer-S4j8-10TXsU.md) — [YouTube](https://www.youtube.com/watch?v=S4j8-10TXsU)
-- ⏳ Breast Cancer, Symptoms, Treatment, Stages, Chemotherapy & Myths - Dr Mandar | FO286 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=k3HIsDtvFWE)
-- ⏳ Cosmetic Procedures, Melasma, Fat Reduction, Male Bo*bs - Sr. Surgeon Rajasekhar | FO277 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=1l-5kCivLdE)
-- ⏳ Weight Loss, Dieting, Calories, Food, Exercise & Obesity - Prashant Desai | FO 276 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=1lQ4bfQqRRo)
-- ⏳ Chiropractor On Back & Neck Pain, Sleep & Exercises - @Dr. Harish Grover |FO266 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Xb1cpM463qo)
-- ⏳ Parenting Mistakes, Raising A Child, Ideal Routine & Psychology - Schweta Gandhi |FO264 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=8B3jyCIr3X4)
-- ⏳ Bad Oral Health, Pregnancy Issues, Dentists In India, Gum Problems - Dr Ajay | FO261 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=JezGSAcVPDI)
+- ✅ [Breast Cancer, Symptoms, Treatment, Stages, Chemotherapy & Myths - Dr Mandar | FO286 Raj Shamani](episodes/raj-shamani/breast-cancer-symptoms-treatment-stages-chemotherapy-myths-dr-mandar-k3HIsDtvFWE.md) — [YouTube](https://www.youtube.com/watch?v=k3HIsDtvFWE)
+- ✅ [Cosmetic Procedures, Melasma, Fat Reduction, Male Bo*bs - Sr. Surgeon Rajasekhar | FO277 Raj Shamani](episodes/raj-shamani/cosmetic-procedures-melasma-fat-reduction-male-bo-bs-sr-surgeon-rajase-1l-5kCivLdE.md) — [YouTube](https://www.youtube.com/watch?v=1l-5kCivLdE)
+- ✅ [Weight Loss, Dieting, Calories, Food, Exercise & Obesity - Prashant Desai | FO 276 Raj Shamani](episodes/raj-shamani/weight-loss-dieting-calories-food-exercise-obesity-prashant-desai-1lQ4bfQqRRo.md) — [YouTube](https://www.youtube.com/watch?v=1lQ4bfQqRRo)
+- ✅ [Chiropractor On Back & Neck Pain, Sleep & Exercises - @Dr. Harish Grover |FO266 Raj Shamani](episodes/raj-shamani/chiropractor-on-back-neck-pain-sleep-exercises-dr-harish-grover-Xb1cpM463qo.md) — [YouTube](https://www.youtube.com/watch?v=Xb1cpM463qo)
+- ✅ [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology - Schweta Gandhi |FO264 Raj Shamani](episodes/raj-shamani/parenting-mistakes-raising-a-child-ideal-routine-psychology-schweta-ga-8B3jyCIr3X4.md) — [YouTube](https://www.youtube.com/watch?v=8B3jyCIr3X4)
+- ✅ [Bad Oral Health, Pregnancy Issues, Dentists In India, Gum Problems - Dr Ajay | FO261 Raj Shamani](episodes/raj-shamani/bad-oral-health-pregnancy-issues-dentists-in-india-gum-problems-dr-aja-JezGSAcVPDI.md) — [YouTube](https://www.youtube.com/watch?v=JezGSAcVPDI)
 - ⏳ Addiction, Alcohol, Dr*gs, Caffeine, Symptoms & Prevention - Dr Anirudh Kala | FO 260 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Z-aR18f4aKg)
-- ⏳ Prevent Heart Attack, Life Saving Tips, Exercise, Treatment & Diet - Dr Ravinder | FO256 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=gdopuuYVCSo)
-- ⏳ STOP Damaging Your Body! Fix Your Sleep and Fitness with Yoga - Hansaji Yogendra | FO249 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=23AnNZRoEuM)
+- ✅ [Prevent Heart Attack, Life Saving Tips, Exercise, Treatment & Diet - Dr Ravinder | FO256 Raj Shamani](episodes/raj-shamani/prevent-heart-attack-life-saving-tips-exercise-treatment-diet-dr-ravin-gdopuuYVCSo.md) — [YouTube](https://www.youtube.com/watch?v=gdopuuYVCSo)
+- ✅ [STOP Damaging Your Body! Fix Your Sleep and Fitness with Yoga - Hansaji Yogendra | FO249 Raj Shamani](episodes/raj-shamani/stop-damaging-your-body-fix-your-sleep-and-fitness-with-yoga-hansaji-y-23AnNZRoEuM.md) — [YouTube](https://www.youtube.com/watch?v=23AnNZRoEuM)
 - ⏳ Oral Health, Cancer, Gum Bleeding, Dry Mouth, Saliva, Toothpaste - Dr Anil Kohli |FO245 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=cHvwEpok3fc)
 - ⏳ How To Deal With Childhood Trauma, Toxic Parents & Toxic Partner - Riri Trivedi |FO237 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=NznN6df13FU)
 - ✅ [Infertility, Mast*rbation, P*rn, S*xual Health & Andropause -‪@Drvijayantgovinda |FO233 Raj Shamani](episodes/raj-shamani/infertility-mast-rbation-p-rn-s-xual-health-andropause-drvijayantgovin-9Kj4T05UdMA.md) — [YouTube](https://www.youtube.com/watch?v=9Kj4T05UdMA)
-- ⏳ How To Deal With Breakup, Trauma, Toxic Relationship & Loneliness - Psychiatrist FO230 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=1STb_sXwm9E)
-- ⏳ New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - Dr Imran | FO224 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ULsBP-AZZuI)
+- ✅ [How To Deal With Breakup, Trauma, Toxic Relationship & Loneliness - Psychiatrist FO230 Raj Shamani](episodes/raj-shamani/how-to-deal-with-breakup-trauma-toxic-relationship-loneliness-psychiat-1STb_sXwm9E.md) — [YouTube](https://www.youtube.com/watch?v=1STb_sXwm9E)
+- ✅ [New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - Dr Imran | FO224 Raj Shamani](episodes/raj-shamani/new-born-baby-tips-parenting-health-pregnancy-baby-food-vaccine-dr-imr-ULsBP-AZZuI.md) — [YouTube](https://www.youtube.com/watch?v=ULsBP-AZZuI)
 - ⏳ Reality Of Protein, Supplements, Liver Detox, Bullet Coffee & Myths - Miduty | FO 222 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Feknej-oYVI)
-- ⏳ Physiotherapy, Cricketers Training, Earthing, Brain Mapping & SRK - Dr Ali Irani | FO218 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=_IFCOYAReyU)
-- ⏳ Exposing Indian Diet, Processed Food, Microwave & Cooking Utensils- @krishashok| FO212 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Zf0idCv5BGU)
-- ⏳ Skin Care Secrets, Fillers, Botox, Acne, Sunscreen - Celeb Dermat Jaishree | FO 208 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=g93IhHW600U)
-- ⏳ Fall Of Aircel, Losing Money, Ratan Tata, Telecom & Health Sector -C Sivasankaran |FO204 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=l__uXGsUIFQ)
+- ✅ [Physiotherapy, Cricketers Training, Earthing, Brain Mapping & SRK - Dr Ali Irani | FO218 Raj Shamani](episodes/raj-shamani/physiotherapy-cricketers-training-earthing-brain-mapping-srk-dr-ali-ir-_IFCOYAReyU.md) — [YouTube](https://www.youtube.com/watch?v=_IFCOYAReyU)
+- ✅ [Exposing Indian Diet, Processed Food, Microwave & Cooking Utensils- @krishashok| FO212 Raj Shamani](episodes/raj-shamani/exposing-indian-diet-processed-food-microwave-cooking-utensils-krishas-Zf0idCv5BGU.md) — [YouTube](https://www.youtube.com/watch?v=Zf0idCv5BGU)
+- ✅ [Skin Care Secrets, Fillers, Botox, Acne, Sunscreen - Celeb Dermat Jaishree | FO 208 Raj Shamani](episodes/raj-shamani/skin-care-secrets-fillers-botox-acne-sunscreen-celeb-dermat-jaishree-g93IhHW600U.md) — [YouTube](https://www.youtube.com/watch?v=g93IhHW600U)
+- ✅ [Fall Of Aircel, Losing Money, Ratan Tata, Telecom & Health Sector -C Sivasankaran |FO204 Raj Shamani](episodes/raj-shamani/fall-of-aircel-losing-money-ratan-tata-telecom-health-sector-c-sivasan-l__uXGsUIFQ.md) — [YouTube](https://www.youtube.com/watch?v=l__uXGsUIFQ)
 - ⏳ Back & Knee Pain: Sitting For Long, Surgery, Posture & Exercise - Dr Venkatesh | FO199 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=jtAddPTc1q8)
 - ⏳ Improve Your Sleep, Impact Of Less Sleep, Diabetes & Cancer - Prashant Desai | FO195 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=1MrXqUNeXs8)
 - ⏳ WATCH THIS To Improve Your Brain Performance, Focus, Sleep & Health - Dr Arvind | FO 193 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=D74vLgMYOxM)
@@ -204,8 +204,8 @@
 - ⏳ Diabetes, Fasting, Nutrition, Stress, Sleep Hacks & Supplements - Dr Vishakha | FO183 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=3A8DXwqzQrw)
 - ✅ [@Dr Pal On Gut Health, Weight Loss, Belly Fat, Fatty Liver, Digestion, Food & Diet |FO180Raj Shamani](episodes/raj-shamani/dr-pal-on-gut-health-weight-loss-belly-fat-fatty-liver-digestion-food-fLx9y6wE0LM.md) — [YouTube](https://www.youtube.com/watch?v=fLx9y6wE0LM)
 - ⏳ Mouth Cancer, Teeth Brushing, Bad Breath, Cavity & Oral Health - Celebrity Dentist |FO177Raj Shamani — [YouTube](https://www.youtube.com/watch?v=H_Caofv95a4)
-- ⏳ Dr. Velumani On Building ₹5000 Crore Business, Poverty, Risk & Success | FO174 | Raj Shamani — [YouTube](https://www.youtube.com/watch?v=zZ-VeqYPxoA)
-- ⏳ Skin Care Products Exposed - Acne, Pimple, Skin Lightening, Fillers | Dr Gurjot | FO 170 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=oiI3ee6j9iE)
+- ✅ [Dr. Velumani On Building ₹5000 Crore Business, Poverty, Risk & Success | FO174 | Raj Shamani](episodes/raj-shamani/dr-velumani-on-building-5000-crore-business-poverty-risk-success-zZ-VeqYPxoA.md) — [YouTube](https://www.youtube.com/watch?v=zZ-VeqYPxoA)
+- ✅ [Skin Care Products Exposed - Acne, Pimple, Skin Lightening, Fillers | Dr Gurjot | FO 170 Raj Shamani](episodes/raj-shamani/skin-care-products-exposed-acne-pimple-skin-lightening-fillers-oiI3ee6j9iE.md) — [YouTube](https://www.youtube.com/watch?v=oiI3ee6j9iE)
 - ⏳ Exposing Indian Healthcare Industry - Surgery, Insurance, Service | Pristyn Care | FO167 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=VhvVGZuV8CA)
 - ⏳ Watch This To Avoid Heart Attack - Lifestyle, Food & Treatment - Dr Bimal Chhajer |FO164 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xGUfA5wyNXk)
 - ⏳ The Science Of Eating For Brain Power, Sex Life & Better Sleep - Ryan Fernando | FO 161 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=wIo7IJxsg3A)
