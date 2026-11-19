@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**215 of 372 episodes collected** · Updated 2026-11-18
+**223 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 93 / 104 done
+- Raj Shamani (health): 101 / 104 done
 - The Diary Of A CEO (health): 22 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -185,8 +185,8 @@
 - ⏳ Addiction, Alcohol, Dr*gs, Caffeine, Symptoms & Prevention - Dr Anirudh Kala | FO 260 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Z-aR18f4aKg)
 - ✅ [Prevent Heart Attack, Life Saving Tips, Exercise, Treatment & Diet - Dr Ravinder | FO256 Raj Shamani](episodes/raj-shamani/prevent-heart-attack-life-saving-tips-exercise-treatment-diet-dr-ravin-gdopuuYVCSo.md) — [YouTube](https://www.youtube.com/watch?v=gdopuuYVCSo)
 - ✅ [STOP Damaging Your Body! Fix Your Sleep and Fitness with Yoga - Hansaji Yogendra | FO249 Raj Shamani](episodes/raj-shamani/stop-damaging-your-body-fix-your-sleep-and-fitness-with-yoga-hansaji-y-23AnNZRoEuM.md) — [YouTube](https://www.youtube.com/watch?v=23AnNZRoEuM)
-- ⏳ Oral Health, Cancer, Gum Bleeding, Dry Mouth, Saliva, Toothpaste - Dr Anil Kohli |FO245 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=cHvwEpok3fc)
-- ⏳ How To Deal With Childhood Trauma, Toxic Parents & Toxic Partner - Riri Trivedi |FO237 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=NznN6df13FU)
+- ✅ [Oral Health, Cancer, Gum Bleeding, Dry Mouth, Saliva, Toothpaste - Dr Anil Kohli |FO245 Raj Shamani](episodes/raj-shamani/oral-health-cancer-gum-bleeding-dry-mouth-saliva-toothpaste-dr-anil-ko-cHvwEpok3fc.md) — [YouTube](https://www.youtube.com/watch?v=cHvwEpok3fc)
+- ✅ [How To Deal With Childhood Trauma, Toxic Parents & Toxic Partner - Riri Trivedi |FO237 Raj Shamani](episodes/raj-shamani/how-to-deal-with-childhood-trauma-toxic-parents-toxic-partner-riri-tri-NznN6df13FU.md) — [YouTube](https://www.youtube.com/watch?v=NznN6df13FU)
 - ✅ [Infertility, Mast*rbation, P*rn, S*xual Health & Andropause -‪@Drvijayantgovinda |FO233 Raj Shamani](episodes/raj-shamani/infertility-mast-rbation-p-rn-s-xual-health-andropause-drvijayantgovin-9Kj4T05UdMA.md) — [YouTube](https://www.youtube.com/watch?v=9Kj4T05UdMA)
 - ✅ [How To Deal With Breakup, Trauma, Toxic Relationship & Loneliness - Psychiatrist FO230 Raj Shamani](episodes/raj-shamani/how-to-deal-with-breakup-trauma-toxic-relationship-loneliness-psychiat-1STb_sXwm9E.md) — [YouTube](https://www.youtube.com/watch?v=1STb_sXwm9E)
 - ✅ [New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - Dr Imran | FO224 Raj Shamani](episodes/raj-shamani/new-born-baby-tips-parenting-health-pregnancy-baby-food-vaccine-dr-imr-ULsBP-AZZuI.md) — [YouTube](https://www.youtube.com/watch?v=ULsBP-AZZuI)
@@ -197,8 +197,8 @@
 - ✅ [Fall Of Aircel, Losing Money, Ratan Tata, Telecom & Health Sector -C Sivasankaran |FO204 Raj Shamani](episodes/raj-shamani/fall-of-aircel-losing-money-ratan-tata-telecom-health-sector-c-sivasan-l__uXGsUIFQ.md) — [YouTube](https://www.youtube.com/watch?v=l__uXGsUIFQ)
 - ✅ [Back & Knee Pain: Sitting For Long, Surgery, Posture & Exercise - Dr Venkatesh | FO199 Raj Shamani](episodes/raj-shamani/back-knee-pain-sitting-for-long-surgery-posture-exercise-dr-venkatesh-jtAddPTc1q8.md) — [YouTube](https://www.youtube.com/watch?v=jtAddPTc1q8)
 - ✅ [Improve Your Sleep, Impact Of Less Sleep, Diabetes & Cancer - Prashant Desai | FO195 Raj Shamani](episodes/raj-shamani/improve-your-sleep-impact-of-less-sleep-diabetes-cancer-prashant-desai-1MrXqUNeXs8.md) — [YouTube](https://www.youtube.com/watch?v=1MrXqUNeXs8)
-- ⏳ WATCH THIS To Improve Your Brain Performance, Focus, Sleep & Health - Dr Arvind | FO 193 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=D74vLgMYOxM)
-- ⏳ Ayurvedic Eye Treatment, Specs Removal, Vision, Lasik & Lenses - Dr Mandeep Basu | FO189 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=QwLBIiUnhEQ)
+- ✅ [WATCH THIS To Improve Your Brain Performance, Focus, Sleep & Health - Dr Arvind | FO 193 Raj Shamani](episodes/raj-shamani/watch-this-to-improve-your-brain-performance-focus-sleep-health-dr-arv-D74vLgMYOxM.md) — [YouTube](https://www.youtube.com/watch?v=D74vLgMYOxM)
+- ✅ [Ayurvedic Eye Treatment, Specs Removal, Vision, Lasik & Lenses - Dr Mandeep Basu | FO189 Raj Shamani](episodes/raj-shamani/ayurvedic-eye-treatment-specs-removal-vision-lasik-lenses-dr-mandeep-b-QwLBIiUnhEQ.md) — [YouTube](https://www.youtube.com/watch?v=QwLBIiUnhEQ)
 - ✅ [Men's Sexual Health, Testosterone, Infertility, NoFap & Orgasm - Dr Prateek | FO186 Raj Shamani](episodes/raj-shamani/men-s-sexual-health-testosterone-infertility-nofap-orgasm-dr-prateek-6nWMxRV2Y-c.md) — [YouTube](https://www.youtube.com/watch?v=6nWMxRV2Y-c)
 - ✅ [Indian Skincare & Beauty Brand, Marketing & Customer Insights - Minimalist | FO185 Raj Shamani](episodes/raj-shamani/indian-skincare-beauty-brand-marketing-customer-insights-minimalist-Vk7GsG5yJZw.md) — [YouTube](https://www.youtube.com/watch?v=Vk7GsG5yJZw)
 - ✅ [Diabetes, Fasting, Nutrition, Stress, Sleep Hacks & Supplements - Dr Vishakha | FO183 Raj Shamani](episodes/raj-shamani/diabetes-fasting-nutrition-stress-sleep-hacks-supplements-dr-vishakha-3A8DXwqzQrw.md) — [YouTube](https://www.youtube.com/watch?v=3A8DXwqzQrw)
@@ -208,10 +208,10 @@
 - ✅ [Skin Care Products Exposed - Acne, Pimple, Skin Lightening, Fillers | Dr Gurjot | FO 170 Raj Shamani](episodes/raj-shamani/skin-care-products-exposed-acne-pimple-skin-lightening-fillers-oiI3ee6j9iE.md) — [YouTube](https://www.youtube.com/watch?v=oiI3ee6j9iE)
 - ⏳ Exposing Indian Healthcare Industry - Surgery, Insurance, Service | Pristyn Care | FO167 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=VhvVGZuV8CA)
 - ⏳ Watch This To Avoid Heart Attack - Lifestyle, Food & Treatment - Dr Bimal Chhajer |FO164 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xGUfA5wyNXk)
-- ⏳ The Science Of Eating For Brain Power, Sex Life & Better Sleep - Ryan Fernando | FO 161 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=wIo7IJxsg3A)
-- ⏳ Win 2024 With My Top 24 Hacks For New Year, Relationship, Money & Health | FO 153 | Raj Shamani — [YouTube](https://www.youtube.com/watch?v=KDdiQqyeza4)
-- ⏳ India's Future, Women In Workforce Chandrayaan 3, Dr Abdul Kalam - Srijan Pal | FO149 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xDReFV_IiP8)
-- ⏳ @dr_cuterus On Sexual Health, Orgasm, G-Spot, Oral Sex , NoFap & Infertility | FO 147 | Raj Shamani — [YouTube](https://www.youtube.com/watch?v=JepLZh_dMeY)
+- ✅ [The Science Of Eating For Brain Power, Sex Life & Better Sleep - Ryan Fernando | FO 161 Raj Shamani](episodes/raj-shamani/the-science-of-eating-for-brain-power-sex-life-better-sleep-ryan-ferna-wIo7IJxsg3A.md) — [YouTube](https://www.youtube.com/watch?v=wIo7IJxsg3A)
+- ✅ [Win 2024 With My Top 24 Hacks For New Year, Relationship, Money & Health | FO 153 | Raj Shamani](episodes/raj-shamani/win-2024-with-my-top-24-hacks-for-new-year-relationship-money-health-KDdiQqyeza4.md) — [YouTube](https://www.youtube.com/watch?v=KDdiQqyeza4)
+- ✅ [India's Future, Women In Workforce Chandrayaan 3, Dr Abdul Kalam - Srijan Pal | FO149 Raj Shamani](episodes/raj-shamani/india-s-future-women-in-workforce-chandrayaan-3-dr-abdul-kalam-srijan-xDReFV_IiP8.md) — [YouTube](https://www.youtube.com/watch?v=xDReFV_IiP8)
+- ✅ [@dr_cuterus On Sexual Health, Orgasm, G-Spot, Oral Sex , NoFap & Infertility | FO 147 | Raj Shamani](episodes/raj-shamani/dr-cuterus-on-sexual-health-orgasm-g-spot-oral-sex-nofap-infertility-JepLZh_dMeY.md) — [YouTube](https://www.youtube.com/watch?v=JepLZh_dMeY)
 - ✅ [Reality of Contact Lens, Ayurvedic Medicine & Lasik Surgeries | Ft. Dr. Rahil | FO136 Raj Shamani  ](episodes/raj-shamani/reality-of-contact-lens-ayurvedic-medicine-lasik-surgeries-kqOmz7rCeUQ.md) — [YouTube](https://www.youtube.com/watch?v=kqOmz7rCeUQ)
 - ✅ [Indian S*xual Wellness Business Explained by Pee Safe Founder Vikas Bagaria | Raj Shamani | FO 120](episodes/raj-shamani/indian-s-xual-wellness-business-explained-by-pee-safe-founder-vikas-ba-hDagG-59YNQ.md) — [YouTube](https://www.youtube.com/watch?v=hDagG-59YNQ)
 - ✅ [From Fashion To Fitness - Building Billion Dollar Businesses ft. Mukesh Bansal | FO 78 - Raj Shamani](episodes/raj-shamani/from-fashion-to-fitness-building-billion-dollar-businesses-ft-mukesh-b-2Sbwnn2ZgLc.md) — [YouTube](https://www.youtube.com/watch?v=2Sbwnn2ZgLc)
