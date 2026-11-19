@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**341 of 372 episodes collected** · Updated 2026-11-18
+**354 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 137 / 167 done
+- The Diary Of A CEO (health): 150 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -337,8 +337,8 @@
 - ✅ [Busta Rhymes Finally Opens Up About His Grief, Depression & Recovery!](episodes/diary-of-a-ceo/busta-rhymes-finally-opens-up-about-his-grief-depression-recovery-cRjzQuzX-tg.md) — [YouTube](https://www.youtube.com/watch?v=cRjzQuzX-tg)
 - ✅ [The Coffee Expert: The Surprising Link Between Coffee & Your Mental Health! James Hoffmann](episodes/diary-of-a-ceo/the-coffee-expert-the-surprising-link-between-coffee-your-mental-healt-TqNrJNhcf5g.md) — [YouTube](https://www.youtube.com/watch?v=TqNrJNhcf5g)
 - ✅ [No.1 Neuroscientist: NEW RESEARCH Your Life, Your Work & Your Sex Life Will Get Boring! (THE FIX)](episodes/diary-of-a-ceo/no-1-neuroscientist-new-research-your-life-your-work-your-sex-life-wil-7KTwmEGsY5g.md) — [YouTube](https://www.youtube.com/watch?v=7KTwmEGsY5g)
-- ⏳ I've PROVEN This Food Keeps You Young & This Oil Reduces Inflammation by 85%! Bryan Johnson — [YouTube](https://www.youtube.com/watch?v=Htg3HCgrJK4)
-- ⏳ The Exercise Expert: This Popular Lifestyle Is Killing 1 Person Every 33 Seconds! Michael Easter — [YouTube](https://www.youtube.com/watch?v=jnYrxVXQKS0)
+- ✅ [I've PROVEN This Food Keeps You Young & This Oil Reduces Inflammation by 85%! Bryan Johnson](episodes/diary-of-a-ceo/i-ve-proven-this-food-keeps-you-young-this-oil-reduces-inflammation-by-Htg3HCgrJK4.md) — [YouTube](https://www.youtube.com/watch?v=Htg3HCgrJK4)
+- ✅ [The Exercise Expert: This Popular Lifestyle Is Killing 1 Person Every 33 Seconds! Michael Easter](episodes/diary-of-a-ceo/the-exercise-expert-this-popular-lifestyle-is-killing-1-person-every-3-jnYrxVXQKS0.md) — [YouTube](https://www.youtube.com/watch?v=jnYrxVXQKS0)
 - ⏳ The ADHD Doctor: “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen — [YouTube](https://www.youtube.com/watch?v=ycTZ_t-aiuU)
 - ✅ [The Junk Food Doctor: "THIS Food Is Worse Than Smoking!" - Chris Van Tulleken Ultra-Processed People](episodes/diary-of-a-ceo/the-junk-food-doctor-this-food-is-worse-than-smoking-chris-van-tulleke-dzUDhstqXbg.md) — [YouTube](https://www.youtube.com/watch?v=dzUDhstqXbg)
 - ✅ [Doctor Gabor Mate: The Shocking Link Between Kindness & Illness!](episodes/diary-of-a-ceo/doctor-gabor-mate-the-shocking-link-between-kindness-illness-L7zWT3l3DV0.md) — [YouTube](https://www.youtube.com/watch?v=L7zWT3l3DV0)
@@ -356,20 +356,20 @@
 - ✅ [Steve-O: Childhood Trauma, Addiction, Mocking Death & Craving Attention!](episodes/diary-of-a-ceo/steve-o-childhood-trauma-addiction-mocking-death-craving-attention-YSWvtGdmUA4.md) — [YouTube](https://www.youtube.com/watch?v=YSWvtGdmUA4)
 - ✅ [The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz | E256](episodes/diary-of-a-ceo/the-miracle-doctor-get-your-sex-life-back-melt-belly-fat-heal-your-inj-e2mQOGzHtQc.md) — [YouTube](https://www.youtube.com/watch?v=e2mQOGzHtQc)
 - ✅ [No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted!](episodes/diary-of-a-ceo/no-1-habit-procrastination-expert-we-ve-got-adhd-wrong-break-any-habit-rDdoUbCFn24.md) — [YouTube](https://www.youtube.com/watch?v=rDdoUbCFn24)
-- ⏳ 10 Life-changing Lessons From The Longest Ever Study On Human Happiness! Dr. Robert Waldinger | E246 — [YouTube](https://www.youtube.com/watch?v=Itg00I2q8lk)
-- ⏳ The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243 — [YouTube](https://www.youtube.com/watch?v=DnEJrgc1BCk)
-- ⏳ The Heart Surgeon: Your Body Cancels Out Your Workout! This Is The Exercise That Actually Works! — [YouTube](https://www.youtube.com/watch?v=V7a8X8AB8yU)
-- ⏳ Josh Peck: The Surprising Truth Behind The 127lb Weight Loss | E238 — [YouTube](https://www.youtube.com/watch?v=ULSEjCKTGZ0)
+- ✅ [10 Life-changing Lessons From The Longest Ever Study On Human Happiness! Dr. Robert Waldinger | E246](episodes/diary-of-a-ceo/10-life-changing-lessons-from-the-longest-ever-study-on-human-happines-Itg00I2q8lk.md) — [YouTube](https://www.youtube.com/watch?v=Itg00I2q8lk)
+- ✅ [The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](episodes/diary-of-a-ceo/the-scary-new-research-on-sugar-how-they-made-you-addicted-to-it-jessi-DnEJrgc1BCk.md) — [YouTube](https://www.youtube.com/watch?v=DnEJrgc1BCk)
+- ✅ [The Heart Surgeon: Your Body Cancels Out Your Workout! This Is The Exercise That Actually Works!](episodes/diary-of-a-ceo/the-heart-surgeon-your-body-cancels-out-your-workout-this-is-the-exerc-V7a8X8AB8yU.md) — [YouTube](https://www.youtube.com/watch?v=V7a8X8AB8yU)
+- ✅ [Josh Peck: The Surprising Truth Behind The 127lb Weight Loss | E238](episodes/diary-of-a-ceo/josh-peck-the-surprising-truth-behind-the-127lb-weight-loss-ULSEjCKTGZ0.md) — [YouTube](https://www.youtube.com/watch?v=ULSEjCKTGZ0)
 - ✅ [Doctor & Therapist To The Worlds Superstars: Justin Bieber, Miley Cyrus, Bella Hadid! - Daniel Amen](episodes/diary-of-a-ceo/doctor-therapist-to-the-worlds-superstars-justin-bieber-miley-cyrus-be-oMwAN30FJAQ.md) — [YouTube](https://www.youtube.com/watch?v=oMwAN30FJAQ)
 - ✅ [Fix Your Gut Health! The 4 Foods Fueling Inflammation & Disease! - Dr Will Cole](episodes/diary-of-a-ceo/fix-your-gut-health-the-4-foods-fueling-inflammation-disease-dr-will-c-R-5H70SfbG8.md) — [YouTube](https://www.youtube.com/watch?v=R-5H70SfbG8)
-- ⏳ The World’s No.1 Sleep Expert: The 6 Sleep Hacks You NEED! Matthew Walker — [YouTube](https://www.youtube.com/watch?v=Us8n8VBQn_c)
+- ✅ [The World’s No.1 Sleep Expert: The 6 Sleep Hacks You NEED! Matthew Walker](episodes/diary-of-a-ceo/the-world-s-no-1-sleep-expert-the-6-sleep-hacks-you-need-matthew-walke-Us8n8VBQn_c.md) — [YouTube](https://www.youtube.com/watch?v=Us8n8VBQn_c)
 - ⏳ Lucy Hale Opens Up For The First Time About Eating Disorders, Relationships & Addiction | E224 — [YouTube](https://www.youtube.com/watch?v=xlYbp36HPb0)
-- ⏳ The Health Expert: The One Food (WE ALL EAT) That's Killing Us Slowly: Max Lugavere | E223 — [YouTube](https://www.youtube.com/watch?v=It5DFXULOq0)
-- ⏳ The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo — [YouTube](https://www.youtube.com/watch?v=Gy_vcL1cpP8)
-- ⏳ The Mindset Doctor: The Secret Man Behind The World's Top Performers | Professor Steve Peters — [YouTube](https://www.youtube.com/watch?v=G1hqsr5mkzA)
-- ⏳ Feeling Lost? Neuroscience Explains Why! The Science Behind Happiness! - Dr Tali Sharot — [YouTube](https://www.youtube.com/watch?v=0DZK1nawEXQ)
+- ✅ [The Health Expert: The One Food (WE ALL EAT) That's Killing Us Slowly: Max Lugavere | E223](episodes/diary-of-a-ceo/the-health-expert-the-one-food-we-all-eat-that-s-killing-us-slowly-max-It5DFXULOq0.md) — [YouTube](https://www.youtube.com/watch?v=It5DFXULOq0)
+- ✅ [The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo](episodes/diary-of-a-ceo/the-weight-loss-scientist-you-ve-been-lied-to-about-calories-dieting-l-Gy_vcL1cpP8.md) — [YouTube](https://www.youtube.com/watch?v=Gy_vcL1cpP8)
+- ✅ [The Mindset Doctor: The Secret Man Behind The World's Top Performers | Professor Steve Peters](episodes/diary-of-a-ceo/the-mindset-doctor-the-secret-man-behind-the-world-s-top-performers-G1hqsr5mkzA.md) — [YouTube](https://www.youtube.com/watch?v=G1hqsr5mkzA)
+- ✅ [Feeling Lost? Neuroscience Explains Why! The Science Behind Happiness! - Dr Tali Sharot](episodes/diary-of-a-ceo/feeling-lost-neuroscience-explains-why-the-science-behind-happiness-dr-0DZK1nawEXQ.md) — [YouTube](https://www.youtube.com/watch?v=0DZK1nawEXQ)
 - ✅ [Davina McCall: How To Overcome ANY Trauma & Live The Life You Deserve | E210](episodes/diary-of-a-ceo/davina-mccall-how-to-overcome-any-trauma-live-the-life-you-deserve-acjj3NsokSo.md) — [YouTube](https://www.youtube.com/watch?v=acjj3NsokSo)
-- ⏳ Doctor Tim Spector: The Shocking New Truth About Weight Loss, Calories & Diets | E209 — [YouTube](https://www.youtube.com/watch?v=66hWntvp0_4)
+- ✅ [Doctor Tim Spector: The Shocking New Truth About Weight Loss, Calories & Diets | E209](episodes/diary-of-a-ceo/doctor-tim-spector-the-shocking-new-truth-about-weight-loss-calories-d-66hWntvp0_4.md) — [YouTube](https://www.youtube.com/watch?v=66hWntvp0_4)
 - ⏳ Liver King Responds To Steroid Accusations! | E171 — [YouTube](https://www.youtube.com/watch?v=78_jmynAjLw)
 - ⏳ Bear Grylls: Man VS Failure, Anxiety & Imposter Syndrome | E155 — [YouTube](https://www.youtube.com/watch?v=V6mZJRb9MZY)
 - ⏳ World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 — [YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
@@ -380,7 +380,7 @@
 - ⏳ World Leading Psychologist: How To Detach From Overthinking & Anxiety: Dr Julie Smith | E122 — [YouTube](https://www.youtube.com/watch?v=iLlrIi9-NfQ)
 - ⏳ Dr Alex George: My Hardest Day in A&E, Family Suicide & Finding TRUE Purpose. | E89 — [YouTube](https://www.youtube.com/watch?v=wdpiD1_kaUo)
 - ⏳ Monzo CEO On Death Threats, Depression & Digital Banking Wars: Tom BlomField — [YouTube](https://www.youtube.com/watch?v=gP2_QOCrVO4)
-- ⏳ Elizabeth Day Opens Up About Heartbreak, Miscarriage & Failure | E77 — [YouTube](https://www.youtube.com/watch?v=QRTimA9lvZI)
+- ✅ [Elizabeth Day Opens Up About Heartbreak, Miscarriage & Failure | E77](episodes/diary-of-a-ceo/elizabeth-day-opens-up-about-heartbreak-miscarriage-failure-QRTimA9lvZI.md) — [YouTube](https://www.youtube.com/watch?v=QRTimA9lvZI)
 - ⏳ World Leading Sex Therapist: How To Avoid Having Bad Sex: Kate Moyle | E73 — [YouTube](https://www.youtube.com/watch?v=R0ibd_SSXH0)
 - ⏳ A Billionaire’s Guide To Healing Your Mind And Extending Your Life: Christian Angermayer | E72 — [YouTube](https://www.youtube.com/watch?v=yH5YplNDjJM)
 - ⏳ The Secret To A Good Nights Sleep with Stephanie Romiszewski | E64 — [YouTube](https://www.youtube.com/watch?v=18iBvgUbSMk)
