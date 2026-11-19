@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**78 of 372 episodes collected** · Updated 2026-11-18
+**84 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 74 / 101 done
+- Dr Pal Podcast Playlist: 80 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -70,10 +70,10 @@
 - ✅ [99% of Women Don’t Know This About Pregnancy! | Dr. Pal | Dr. Sandhya Vasan | #drpal #pregnancy](episodes/dr-pal/99-of-women-don-t-know-this-about-pregnancy-gi9FMDfCO8U.md) — [YouTube](https://www.youtube.com/watch?v=gi9FMDfCO8U)
 - ✅ [The #1 Mistake in Your Skincare Routine That No One Talks About! | Dr. Renita Rajan | Dr Pal](episodes/dr-pal/the-1-mistake-in-your-skincare-routine-that-no-one-talks-about-0BtvfsjD3Vc.md) — [YouTube](https://www.youtube.com/watch?v=0BtvfsjD3Vc)
 - ✅ [The Diet Fix You NEED ! | Celebrity Nutritionist - Shiny Surendran | Dr Pal](episodes/dr-pal/the-diet-fix-you-need-rsvXAsUP42c.md) — [YouTube](https://www.youtube.com/watch?v=rsvXAsUP42c)
-- ⏳ Actress Anu Hasan Breaking Myths on Life, Mental Wellbeing and Fitness | Dr Pal — [YouTube](https://www.youtube.com/watch?v=K7AlmyFl1Xs)
-- ⏳ PCOS & Fertility: What Every Woman Needs to Know! — [YouTube](https://www.youtube.com/watch?v=vJDvYiMbH4A)
-- ⏳ Shocking Truths about Ear Health | Dr Shree Rao - Dr. Rao’s ENT Hospitals | Dr Pal — [YouTube](https://www.youtube.com/watch?v=CAnhyA54tHw)
-- ⏳ Your habits are killing your gut| ft. Sivasankaran I Dr Pal — [YouTube](https://www.youtube.com/watch?v=nOHWKso7KmY)
+- ✅ [Actress Anu Hasan Breaking Myths on Life, Mental Wellbeing and Fitness | Dr Pal](episodes/dr-pal/actress-anu-hasan-breaking-myths-on-life-mental-wellbeing-and-fitness-K7AlmyFl1Xs.md) — [YouTube](https://www.youtube.com/watch?v=K7AlmyFl1Xs)
+- ✅ [PCOS & Fertility: What Every Woman Needs to Know!](episodes/dr-pal/pcos-fertility-what-every-woman-needs-to-know-vJDvYiMbH4A.md) — [YouTube](https://www.youtube.com/watch?v=vJDvYiMbH4A)
+- ✅ [Shocking Truths about Ear Health | Dr Shree Rao - Dr. Rao’s ENT Hospitals | Dr Pal](episodes/dr-pal/shocking-truths-about-ear-health-CAnhyA54tHw.md) — [YouTube](https://www.youtube.com/watch?v=CAnhyA54tHw)
+- ✅ [Your habits are killing your gut| ft. Sivasankaran I Dr Pal](episodes/dr-pal/your-habits-are-killing-your-gut-nOHWKso7KmY.md) — [YouTube](https://www.youtube.com/watch?v=nOHWKso7KmY)
 - ✅ [Don’t ignore these Health Red Flags—Time for a Wake-Up Call! | Dr Pal](episodes/dr-pal/don-t-ignore-these-health-red-flags-time-for-a-wake-up-call-zUHHl0kWRuQ.md) — [YouTube](https://www.youtube.com/watch?v=zUHHl0kWRuQ)
 - ✅ [The Silent Killers of Eye Health – Shocking Facts Revealed by Dr. Ashvin | India's Top Eye Expert](episodes/dr-pal/the-silent-killers-of-eye-health-shocking-facts-revealed-by-dr-ashvin-oH7N44ssCcw.md) — [YouTube](https://www.youtube.com/watch?v=oH7N44ssCcw)
 - ✅ [Heart Attacks in Young People - Is Your Lifestyle to Blame?! Top Cardiologist, Dr Anup](episodes/dr-pal/heart-attacks-in-young-people-is-your-lifestyle-to-blame-top-cardiolog-Evt_Mm5bwpU.md) — [YouTube](https://www.youtube.com/watch?v=Evt_Mm5bwpU)
@@ -84,11 +84,11 @@
 - ✅ [How can Dance Help with PCOS? Deepti, Dancer | Fitness Mentor](episodes/dr-pal/how-can-dance-help-with-pcos-deepti-dancer-nTSWSCLCyK4.md) — [YouTube](https://www.youtube.com/watch?v=nTSWSCLCyK4)
 - ✅ [DON'T START any DIET without watching this❗ Roshni Sanghvi, Holistic Nutritionist,Wellness Expert!](episodes/dr-pal/don-t-start-any-diet-without-watching-this-roshni-sanghvi-holistic-nut-hI2TZW9H5iA.md) — [YouTube](https://www.youtube.com/watch?v=hI2TZW9H5iA)
 - ✅ [What Causes Constipation? - Shocking Facts Behind Constipation | Dr.Ali, Gastroenterologist](episodes/dr-pal/what-causes-constipation-shocking-facts-behind-constipation-t2euI0VLoDM.md) — [YouTube](https://www.youtube.com/watch?v=t2euI0VLoDM)
-- ⏳ Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup — [YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
+- ✅ [Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup](episodes/dr-pal/save-yourself-from-heart-attack-fix-these-habits-before-it-s-too-late-uR0xpHMz3Ls.md) — [YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
 - ⏳ The Gut-Skin Connection: How to Fix Your Skin from the Inside Out! No. 1 Dermatologist, Dr. Rashmi — [YouTube](https://www.youtube.com/watch?v=bzSmSWG75PQ)
 - ✅ [Why Heart Attack Rates Have Increased Post-COVID: The Shocking Truth | Dr Parimal, Pulmonologist](episodes/dr-pal/why-heart-attack-rates-have-increased-post-covid-the-shocking-truth-ZxvFuHw--3g.md) — [YouTube](https://www.youtube.com/watch?v=ZxvFuHw--3g)
 - ✅ [Indian Diet Exposed: Vegetarian & Vegan Vs Nonveg Diet Debate with Sangeetha Aiyer, Top Nutritionist](episodes/dr-pal/indian-diet-exposed-vegetarian-vegan-vs-nonveg-diet-debate-with-sangee-N5GTiHWh32A.md) — [YouTube](https://www.youtube.com/watch?v=N5GTiHWh32A)
-- ⏳ This One Exercise Will Change Your Life, START FROM HERE! - World's Top Yogic Guru Hansaji — [YouTube](https://www.youtube.com/watch?v=StA5DOel7Pw)
+- ✅ [This One Exercise Will Change Your Life, START FROM HERE! - World's Top Yogic Guru Hansaji](episodes/dr-pal/this-one-exercise-will-change-your-life-start-from-here-world-s-top-yo-StA5DOel7Pw.md) — [YouTube](https://www.youtube.com/watch?v=StA5DOel7Pw)
 - ⏳ ⚠️ Urgent Eye Health Warning from India’s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know) — [YouTube](https://www.youtube.com/watch?v=sx5OWArFbkM)
 - ⏳ The Best Podcast for Women of All Ages, 10-60 Years | Dr Anjali Kumar, India's Top Gynaecologist — [YouTube](https://www.youtube.com/watch?v=vq2ZUSvWjJ0)
 - ⏳ Arvind Bhateja, Neurosurgeon: India's Leading Brain Expert -The Shocking Link Between Sleep & Stroke — [YouTube](https://www.youtube.com/watch?v=yeWHSGpfQ-4)
