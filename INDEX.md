@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**223 of 372 episodes collected** · Updated 2026-11-18
+**227 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 101 / 104 done
-- The Diary Of A CEO (health): 22 / 167 done
+- Raj Shamani (health): 103 / 104 done
+- The Diary Of A CEO (health): 24 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -206,8 +206,8 @@
 - ✅ [Mouth Cancer, Teeth Brushing, Bad Breath, Cavity & Oral Health - Celebrity Dentist |FO177Raj Shamani](episodes/raj-shamani/mouth-cancer-teeth-brushing-bad-breath-cavity-oral-health-celebrity-de-H_Caofv95a4.md) — [YouTube](https://www.youtube.com/watch?v=H_Caofv95a4)
 - ✅ [Dr. Velumani On Building ₹5000 Crore Business, Poverty, Risk & Success | FO174 | Raj Shamani](episodes/raj-shamani/dr-velumani-on-building-5000-crore-business-poverty-risk-success-zZ-VeqYPxoA.md) — [YouTube](https://www.youtube.com/watch?v=zZ-VeqYPxoA)
 - ✅ [Skin Care Products Exposed - Acne, Pimple, Skin Lightening, Fillers | Dr Gurjot | FO 170 Raj Shamani](episodes/raj-shamani/skin-care-products-exposed-acne-pimple-skin-lightening-fillers-oiI3ee6j9iE.md) — [YouTube](https://www.youtube.com/watch?v=oiI3ee6j9iE)
-- ⏳ Exposing Indian Healthcare Industry - Surgery, Insurance, Service | Pristyn Care | FO167 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=VhvVGZuV8CA)
-- ⏳ Watch This To Avoid Heart Attack - Lifestyle, Food & Treatment - Dr Bimal Chhajer |FO164 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xGUfA5wyNXk)
+- ✅ [Exposing Indian Healthcare Industry - Surgery, Insurance, Service | Pristyn Care | FO167 Raj Shamani](episodes/raj-shamani/exposing-indian-healthcare-industry-surgery-insurance-service-VhvVGZuV8CA.md) — [YouTube](https://www.youtube.com/watch?v=VhvVGZuV8CA)
+- ✅ [Watch This To Avoid Heart Attack - Lifestyle, Food & Treatment - Dr Bimal Chhajer |FO164 Raj Shamani](episodes/raj-shamani/watch-this-to-avoid-heart-attack-lifestyle-food-treatment-dr-bimal-chh-xGUfA5wyNXk.md) — [YouTube](https://www.youtube.com/watch?v=xGUfA5wyNXk)
 - ✅ [The Science Of Eating For Brain Power, Sex Life & Better Sleep - Ryan Fernando | FO 161 Raj Shamani](episodes/raj-shamani/the-science-of-eating-for-brain-power-sex-life-better-sleep-ryan-ferna-wIo7IJxsg3A.md) — [YouTube](https://www.youtube.com/watch?v=wIo7IJxsg3A)
 - ✅ [Win 2024 With My Top 24 Hacks For New Year, Relationship, Money & Health | FO 153 | Raj Shamani](episodes/raj-shamani/win-2024-with-my-top-24-hacks-for-new-year-relationship-money-health-KDdiQqyeza4.md) — [YouTube](https://www.youtube.com/watch?v=KDdiQqyeza4)
 - ✅ [India's Future, Women In Workforce Chandrayaan 3, Dr Abdul Kalam - Srijan Pal | FO149 Raj Shamani](episodes/raj-shamani/india-s-future-women-in-workforce-chandrayaan-3-dr-abdul-kalam-srijan-xDReFV_IiP8.md) — [YouTube](https://www.youtube.com/watch?v=xDReFV_IiP8)
@@ -254,8 +254,8 @@
 - ⏳ The Sugar Doctor: The Simple Diet That Prevents 80% of Disease! — [YouTube](https://www.youtube.com/watch?v=QXUNnXHXeVQ)
 - ⏳ World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You! — [YouTube](https://www.youtube.com/watch?v=jDG1m_b5Ih0)
 - ⏳ Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery) — [YouTube](https://www.youtube.com/watch?v=5wXlmlIXJOI)
-- ⏳ Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death! — [YouTube](https://www.youtube.com/watch?v=yfEQRqFo2bI)
-- ⏳ Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You! — [YouTube](https://www.youtube.com/watch?v=W0vTZrZny6A)
+- ✅ [Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death!](episodes/diary-of-a-ceo/neuroscientist-dr-tara-swart-evidence-we-can-communicate-after-death-yfEQRqFo2bI.md) — [YouTube](https://www.youtube.com/watch?v=yfEQRqFo2bI)
+- ✅ [Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!](episodes/diary-of-a-ceo/top-psychologist-donald-hoffman-seeing-true-reality-would-kill-us-i-ca-W0vTZrZny6A.md) — [YouTube](https://www.youtube.com/watch?v=W0vTZrZny6A)
 - ⏳ Anti-Aging Expert: Missing This Vitamin Is Like Smoking! The Truth About Creatine! - Rhonda Patrick — [YouTube](https://www.youtube.com/watch?v=JCTb3QSrGMQ)
 - ⏳ Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight! — [YouTube](https://www.youtube.com/watch?v=wQJlGHVmdrA)
 - ⏳ The Porn Addiction Crisis No One Wants to Talk About – Dr. K — [YouTube](https://www.youtube.com/watch?v=dm2qDrb3UVo)
