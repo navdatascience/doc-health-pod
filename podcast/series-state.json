@@ -1,1 +1,34 @@
-{"covered_source_video_ids":["Us8n8VBQn_c"],"episodes":[{"audio":"podcast/episodes/ep001-sleep-matthew-walker.mp3","date":"2026-11-18","duration_secs":267,"notes":"podcast/episodes/ep001-sleep-matthew-walker.md","number":1,"source_video_id":"Us8n8VBQn_c","title":"Sleep Like It Matters — Matthew Walker's Best Ideas"}],"hosts":[{"name":"Mimi","voice_id":"avocado_v2:vdc_11859"},{"name":"Alex","voice_id":"avocado_v2:MAI_01"}],"next_episode_number":2,"series":"Health Tidbits","series_id":"health-tidbits-daily","target_minutes":"4-5"}
+{
+ "covered_source_video_ids": [
+  "Us8n8VBQn_c"
+ ],
+ "episodes": [
+  {
+   "audio": "podcast/episodes/ep001-sleep-matthew-walker.mp3",
+   "audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-5d849ac7-da4c-4b67-a938-06e87d721645.mp3",
+   "date": "2026-11-18",
+   "duration_secs": 267,
+   "notes": "podcast/episodes/ep001-sleep-matthew-walker.md",
+   "number": 1,
+   "source_video_id": "Us8n8VBQn_c",
+   "title": "Sleep Like It Matters \u2014 Matthew Walker's Best Ideas"
+  }
+ ],
+ "feed_format": "Daily AI Drop pattern: repo feed.xml enclosures use muse.ai media URLs; registry in podcast/episodes.json",
+ "hosts": [
+  {
+   "name": "Mimi",
+   "voice_id": "avocado_v2:vdc_11859"
+  },
+  {
+   "name": "Alex",
+   "voice_id": "avocado_v2:MAI_01"
+  }
+ ],
+ "muse_feed_id": "b60b1ed2-543c-4352-b959-023166e8181e",
+ "muse_feed_url": "https://muse.ai/podcasts/feed/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e",
+ "next_episode_number": 2,
+ "series": "Health Tidbits",
+ "series_id": "health-tidbits-daily",
+ "target_minutes": "4-5"
+}

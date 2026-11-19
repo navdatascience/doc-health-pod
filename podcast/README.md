@@ -4,7 +4,7 @@ A daily 4–5 minute podcast distilled from the [Doctor Health Podcast Library](
 
 - **Hosts:** Mimi and Alex
 - **Cadence:** one episode daily
-- **Feed:** [feed.xml](feed.xml) (RSS — point any podcast app at the raw GitHub URL of that file)
+- **Feed:** [feed.xml](feed.xml) (RSS in the Daily AI Drop format — episode audio is served from Muse.ai media links, the same pattern as navdatascience/daily-ai-drop; the episode registry is in [episodes.json](episodes.json), and the canonical Muse feed is https://muse.ai/podcasts/feed/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e)
 - **Cover:** [cover.webp](cover.webp)
 
 ## Episodes
