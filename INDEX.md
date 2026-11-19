@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**106 of 372 episodes collected** · Updated 2026-11-18
+**118 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 4 / 104 done
+- Raj Shamani (health): 16 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -114,23 +114,23 @@
 
 - ✅ [Psychology Of Billionaires, Extreme Ambition & Secrets Of Success | Joe Hudson | FO586 Raj Shamani](episodes/raj-shamani/psychology-of-billionaires-extreme-ambition-secrets-of-success-g9zGQdrAlMw.md) — [YouTube](https://www.youtube.com/watch?v=g9zGQdrAlMw)
 - ✅ [Memory Scientist’s Guide To Building A 100X Sharper Brain | Nikolay Kukushkin | FO571 Raj Shamani](episodes/raj-shamani/memory-scientist-s-guide-to-building-a-100x-sharper-brain-vNvCQpGYdLo.md) — [YouTube](https://www.youtube.com/watch?v=vNvCQpGYdLo)
-- ⏳ How To Escape A Dark Place, Beat Anxiety & Take Back Control | Scott Galloway | FO570 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=d6mAi5kHsxc)
-- ⏳ TOP Harvard Scientist: These 5 Habits Are Aging You Faster | David Sinclair | FO562 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=gfCg5srOjN0)
-- ⏳ Neuroscientist's Guide To 10X Your Focus & Memory | Dr Sahar Yousef | FO559 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=4Vz6L8B73i4)
+- ✅ [How To Escape A Dark Place, Beat Anxiety & Take Back Control | Scott Galloway | FO570 Raj Shamani](episodes/raj-shamani/how-to-escape-a-dark-place-beat-anxiety-take-back-control-d6mAi5kHsxc.md) — [YouTube](https://www.youtube.com/watch?v=d6mAi5kHsxc)
+- ✅ [TOP Harvard Scientist: These 5 Habits Are Aging You Faster | David Sinclair | FO562 Raj Shamani](episodes/raj-shamani/top-harvard-scientist-these-5-habits-are-aging-you-faster-gfCg5srOjN0.md) — [YouTube](https://www.youtube.com/watch?v=gfCg5srOjN0)
+- ✅ [Neuroscientist's Guide To 10X Your Focus & Memory | Dr Sahar Yousef | FO559 Raj Shamani](episodes/raj-shamani/neuroscientist-s-guide-to-10x-your-focus-memory-4Vz6L8B73i4.md) — [YouTube](https://www.youtube.com/watch?v=4Vz6L8B73i4)
 - ⏳ How AI Makes Him Crores: Second Brain, Automations & Systems | Vaibhav Sisinty | FO557 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=LqY6hFLMEJw)
-- ⏳ Why This Generation Is In Worse Health Than The Last | Deepak Sahni | FO552 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=eOFLyP5SOEQ)
-- ⏳ Psychiatrist Explains: Psychology Behind Cheating & Choosing Wrong Partner |Dr. K |FO541 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=t8sS6Lk3cYo)
-- ⏳ Astronaut Shubhanshu Shukla On Space, ISS, Zero Gravity & Human Body | FO536 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=a3UVcK612iU)
+- ✅ [Why This Generation Is In Worse Health Than The Last | Deepak Sahni | FO552 Raj Shamani](episodes/raj-shamani/why-this-generation-is-in-worse-health-than-the-last-eOFLyP5SOEQ.md) — [YouTube](https://www.youtube.com/watch?v=eOFLyP5SOEQ)
+- ✅ [Psychiatrist Explains: Psychology Behind Cheating & Choosing Wrong Partner |Dr. K |FO541 Raj Shamani](episodes/raj-shamani/psychiatrist-explains-psychology-behind-cheating-choosing-wrong-partne-t8sS6Lk3cYo.md) — [YouTube](https://www.youtube.com/watch?v=t8sS6Lk3cYo)
+- ✅ [Astronaut Shubhanshu Shukla On Space, ISS, Zero Gravity & Human Body | FO536 Raj Shamani](episodes/raj-shamani/astronaut-shubhanshu-shukla-on-space-iss-zero-gravity-human-body-a3UVcK612iU.md) — [YouTube](https://www.youtube.com/watch?v=a3UVcK612iU)
 - ✅ [Why Indians Get Diabetes So Young: Sugar, Diet & Genetics | Dr. V Mohan | FO534 Raj Shamani](episodes/raj-shamani/why-indians-get-diabetes-so-young-sugar-diet-genetics-6jBaJkwfL1s.md) — [YouTube](https://www.youtube.com/watch?v=6jBaJkwfL1s)
 - ⏳ Top Brain Scientist: Billionaire Brain, Anxiety & Addictions | Vidita Vaidya | FO518 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=lacFcgcHx6I)
-- ⏳ NEET, Medical Colleges, Doctor Salaries & Organ Trafficking | Dr. Nachiket | FO513 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=phCov5GMOl4)
-- ⏳ How Hospitals Make Money: KIMS, Costs & Hospital Business Truth | Dr. Bhaskar | FO511 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=bRR9Hzi60YA)
+- ✅ [NEET, Medical Colleges, Doctor Salaries & Organ Trafficking | Dr. Nachiket | FO513 Raj Shamani](episodes/raj-shamani/neet-medical-colleges-doctor-salaries-organ-trafficking-phCov5GMOl4.md) — [YouTube](https://www.youtube.com/watch?v=phCov5GMOl4)
+- ✅ [How Hospitals Make Money: KIMS, Costs & Hospital Business Truth | Dr. Bhaskar | FO511 Raj Shamani](episodes/raj-shamani/how-hospitals-make-money-kims-costs-hospital-business-truth-bRR9Hzi60YA.md) — [YouTube](https://www.youtube.com/watch?v=bRR9Hzi60YA)
 - ⏳ Psychology of Love: Narcissism, Toxic Love & Male Identity | Mark Manson | FO503 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ig1VtIEFkcI)
 - ⏳ ⁠Indian Diet Problem: Low Protein, High Calories & Muscle Loss | Prashant Desai | FO501 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=rb9536WrfDA)
-- ⏳ Punjab Dr*g Crisis Explained: Mafia Network, Ground Reality & Black Money| Mukul | FO489 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=FOShWdqVbeI)
-- ⏳ Perfect Skin Is a Lie: Boosters, Fillers & Hidden Risks | Dr Rajat | FO486 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=mGpaIjdRDdw)
-- ⏳ Are Successful People Broken? Dark Traits, AI Evolution & Loneliness | Dr. K | FO481 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=R878NxqapRA)
-- ⏳ Reverse Ageing in Parents: Social Life, Brain Health & Loneliness | Adarsh | FO479 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=D3Fekckw9S0)
+- ✅ [Punjab Dr*g Crisis Explained: Mafia Network, Ground Reality & Black Money| Mukul | FO489 Raj Shamani](episodes/raj-shamani/punjab-dr-g-crisis-explained-mafia-network-ground-reality-black-money-FOShWdqVbeI.md) — [YouTube](https://www.youtube.com/watch?v=FOShWdqVbeI)
+- ✅ [Perfect Skin Is a Lie: Boosters, Fillers & Hidden Risks | Dr Rajat | FO486 Raj Shamani](episodes/raj-shamani/perfect-skin-is-a-lie-boosters-fillers-hidden-risks-mGpaIjdRDdw.md) — [YouTube](https://www.youtube.com/watch?v=mGpaIjdRDdw)
+- ✅ [Are Successful People Broken? Dark Traits, AI Evolution & Loneliness | Dr. K | FO481 Raj Shamani](episodes/raj-shamani/are-successful-people-broken-dark-traits-ai-evolution-loneliness-R878NxqapRA.md) — [YouTube](https://www.youtube.com/watch?v=R878NxqapRA)
+- ✅ [Reverse Ageing in Parents: Social Life, Brain Health & Loneliness | Adarsh | FO479 Raj Shamani](episodes/raj-shamani/reverse-ageing-in-parents-social-life-brain-health-loneliness-D3Fekckw9S0.md) — [YouTube](https://www.youtube.com/watch?v=D3Fekckw9S0)
 - ⏳ Simon Sinek on India’s Future, Trust Crisis, Gen Z Burnout, Anxiety & AI Friends | FO476 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=etgQjtdNEtc)
 - ⏳ Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear & Anxiety | FO475 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=90lLQVZe2Nc)
 - ⏳ YUNGBLUD Unfiltered: Addictions, Insecurities, Fame, Masculinity & Childhood | FO467 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=nZrBQqxYe2A)
