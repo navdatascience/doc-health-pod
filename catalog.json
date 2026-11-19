@@ -777,8 +777,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=ZxvFuHw--3g",
-      "status": "pending",
-      "file": "episodes/dr-pal/why-heart-attack-rates-have-increased-post-covid-the-shocking-truth-ZxvFuHw--3g.md"
+      "status": "done",
+      "file": "episodes/dr-pal/why-heart-attack-rates-have-increased-post-covid-the-shocking-truth-ZxvFuHw--3g.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "N5GTiHWh32A",

@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**66 of 372 episodes collected** · Updated 2026-11-18
+**67 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 62 / 101 done
+- Dr Pal Podcast Playlist: 63 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -86,7 +86,7 @@
 - ⏳ What Causes Constipation? - Shocking Facts Behind Constipation | Dr.Ali, Gastroenterologist — [YouTube](https://www.youtube.com/watch?v=t2euI0VLoDM)
 - ⏳ Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup — [YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
 - ⏳ The Gut-Skin Connection: How to Fix Your Skin from the Inside Out! No. 1 Dermatologist, Dr. Rashmi — [YouTube](https://www.youtube.com/watch?v=bzSmSWG75PQ)
-- ⏳ Why Heart Attack Rates Have Increased Post-COVID: The Shocking Truth | Dr Parimal, Pulmonologist — [YouTube](https://www.youtube.com/watch?v=ZxvFuHw--3g)
+- ✅ [Why Heart Attack Rates Have Increased Post-COVID: The Shocking Truth | Dr Parimal, Pulmonologist](episodes/dr-pal/why-heart-attack-rates-have-increased-post-covid-the-shocking-truth-ZxvFuHw--3g.md) — [YouTube](https://www.youtube.com/watch?v=ZxvFuHw--3g)
 - ⏳ Indian Diet Exposed: Vegetarian & Vegan Vs Nonveg Diet Debate with Sangeetha Aiyer, Top Nutritionist — [YouTube](https://www.youtube.com/watch?v=N5GTiHWh32A)
 - ⏳ This One Exercise Will Change Your Life, START FROM HERE! - World's Top Yogic Guru Hansaji — [YouTube](https://www.youtube.com/watch?v=StA5DOel7Pw)
 - ⏳ ⚠️ Urgent Eye Health Warning from India’s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know) — [YouTube](https://www.youtube.com/watch?v=sx5OWArFbkM)
