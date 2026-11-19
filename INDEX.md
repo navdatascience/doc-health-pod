@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**185 of 372 episodes collected** · Updated 2026-11-18
+**187 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 64 / 104 done
-- The Diary Of A CEO (health): 21 / 167 done
+- Raj Shamani (health): 65 / 104 done
+- The Diary Of A CEO (health): 22 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -187,7 +187,7 @@
 - ⏳ STOP Damaging Your Body! Fix Your Sleep and Fitness with Yoga - Hansaji Yogendra | FO249 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=23AnNZRoEuM)
 - ⏳ Oral Health, Cancer, Gum Bleeding, Dry Mouth, Saliva, Toothpaste - Dr Anil Kohli |FO245 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=cHvwEpok3fc)
 - ⏳ How To Deal With Childhood Trauma, Toxic Parents & Toxic Partner - Riri Trivedi |FO237 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=NznN6df13FU)
-- ⏳ Infertility, Mast*rbation, P*rn, S*xual Health & Andropause -‪@Drvijayantgovinda |FO233 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=9Kj4T05UdMA)
+- ✅ [Infertility, Mast*rbation, P*rn, S*xual Health & Andropause -‪@Drvijayantgovinda |FO233 Raj Shamani](episodes/raj-shamani/infertility-mast-rbation-p-rn-s-xual-health-andropause-drvijayantgovin-9Kj4T05UdMA.md) — [YouTube](https://www.youtube.com/watch?v=9Kj4T05UdMA)
 - ⏳ How To Deal With Breakup, Trauma, Toxic Relationship & Loneliness - Psychiatrist FO230 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=1STb_sXwm9E)
 - ⏳ New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - Dr Imran | FO224 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ULsBP-AZZuI)
 - ⏳ Reality Of Protein, Supplements, Liver Detox, Bullet Coffee & Myths - Miduty | FO 222 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Feknej-oYVI)
@@ -236,7 +236,7 @@
 - ✅ [Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat!](episodes/diary-of-a-ceo/anti-aging-expert-stop-touching-receipts-immediately-the-fast-way-to-s-PyhmvAL-iYw.md) — [YouTube](https://www.youtube.com/watch?v=PyhmvAL-iYw)
 - ✅ [Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!](episodes/diary-of-a-ceo/dr-david-sinclair-can-aging-be-reversed-after-8-weeks-cells-appeared-7-DnvWAP99r3Y.md) — [YouTube](https://www.youtube.com/watch?v=DnvWAP99r3Y)
 - ✅ [They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You](episodes/diary-of-a-ceo/they-re-lying-about-healthy-foods-sugar-shocking-new-research-that-s-h-Xm_PHZXGe-w.md) — [YouTube](https://www.youtube.com/watch?v=Xm_PHZXGe-w)
-- ⏳ Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This! — [YouTube](https://www.youtube.com/watch?v=pXlMKzcZlwM)
+- ✅ [Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This!](episodes/diary-of-a-ceo/sleep-doctor-if-you-wake-up-at-3am-do-not-do-this-pXlMKzcZlwM.md) — [YouTube](https://www.youtube.com/watch?v=pXlMKzcZlwM)
 - ✅ [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](episodes/diary-of-a-ceo/cognitive-decline-expert-the-disease-that-starts-in-your-30s-but-kills-0t_DD5568RA.md) — [YouTube](https://www.youtube.com/watch?v=0t_DD5568RA)
 - ✅ [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](episodes/diary-of-a-ceo/the-microbiome-doctor-doctors-were-wrong-the-3-foods-you-should-eat-fo-w3dTmyZq4Qk.md) — [YouTube](https://www.youtube.com/watch?v=w3dTmyZq4Qk)
 - ✅ [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](episodes/diary-of-a-ceo/insulin-expert-how-to-drain-your-liver-of-fat-do-this-C7LL7VwP8Nc.md) — [YouTube](https://www.youtube.com/watch?v=C7LL7VwP8Nc)
