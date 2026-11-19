@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**84 of 372 episodes collected** · Updated 2026-11-18
+**86 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 80 / 101 done
+- Dr Pal Podcast Playlist: 82 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -85,11 +85,11 @@
 - ✅ [DON'T START any DIET without watching this❗ Roshni Sanghvi, Holistic Nutritionist,Wellness Expert!](episodes/dr-pal/don-t-start-any-diet-without-watching-this-roshni-sanghvi-holistic-nut-hI2TZW9H5iA.md) — [YouTube](https://www.youtube.com/watch?v=hI2TZW9H5iA)
 - ✅ [What Causes Constipation? - Shocking Facts Behind Constipation | Dr.Ali, Gastroenterologist](episodes/dr-pal/what-causes-constipation-shocking-facts-behind-constipation-t2euI0VLoDM.md) — [YouTube](https://www.youtube.com/watch?v=t2euI0VLoDM)
 - ✅ [Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup](episodes/dr-pal/save-yourself-from-heart-attack-fix-these-habits-before-it-s-too-late-uR0xpHMz3Ls.md) — [YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
-- ⏳ The Gut-Skin Connection: How to Fix Your Skin from the Inside Out! No. 1 Dermatologist, Dr. Rashmi — [YouTube](https://www.youtube.com/watch?v=bzSmSWG75PQ)
+- ✅ [The Gut-Skin Connection: How to Fix Your Skin from the Inside Out! No. 1 Dermatologist, Dr. Rashmi](episodes/dr-pal/the-gut-skin-connection-how-to-fix-your-skin-from-the-inside-out-no-1-bzSmSWG75PQ.md) — [YouTube](https://www.youtube.com/watch?v=bzSmSWG75PQ)
 - ✅ [Why Heart Attack Rates Have Increased Post-COVID: The Shocking Truth | Dr Parimal, Pulmonologist](episodes/dr-pal/why-heart-attack-rates-have-increased-post-covid-the-shocking-truth-ZxvFuHw--3g.md) — [YouTube](https://www.youtube.com/watch?v=ZxvFuHw--3g)
 - ✅ [Indian Diet Exposed: Vegetarian & Vegan Vs Nonveg Diet Debate with Sangeetha Aiyer, Top Nutritionist](episodes/dr-pal/indian-diet-exposed-vegetarian-vegan-vs-nonveg-diet-debate-with-sangee-N5GTiHWh32A.md) — [YouTube](https://www.youtube.com/watch?v=N5GTiHWh32A)
 - ✅ [This One Exercise Will Change Your Life, START FROM HERE! - World's Top Yogic Guru Hansaji](episodes/dr-pal/this-one-exercise-will-change-your-life-start-from-here-world-s-top-yo-StA5DOel7Pw.md) — [YouTube](https://www.youtube.com/watch?v=StA5DOel7Pw)
-- ⏳ ⚠️ Urgent Eye Health Warning from India’s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know) — [YouTube](https://www.youtube.com/watch?v=sx5OWArFbkM)
+- ✅ [⚠️ Urgent Eye Health Warning from India’s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know)](episodes/dr-pal/urgent-eye-health-warning-from-india-s-top-eye-expert-dr-ashvin-agarwa-sx5OWArFbkM.md) — [YouTube](https://www.youtube.com/watch?v=sx5OWArFbkM)
 - ⏳ The Best Podcast for Women of All Ages, 10-60 Years | Dr Anjali Kumar, India's Top Gynaecologist — [YouTube](https://www.youtube.com/watch?v=vq2ZUSvWjJ0)
 - ⏳ Arvind Bhateja, Neurosurgeon: India's Leading Brain Expert -The Shocking Link Between Sleep & Stroke — [YouTube](https://www.youtube.com/watch?v=yeWHSGpfQ-4)
 - ⏳ All About How & When to Eat Millets - Health Benefits & Side Effects of Millets Explained by Dr Rao — [YouTube](https://www.youtube.com/watch?v=gKBwKbunTJA)
