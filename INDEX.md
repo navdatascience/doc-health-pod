@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**277 of 372 episodes collected** · Updated 2026-11-18
+**283 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 73 / 167 done
+- The Diary Of A CEO (health): 79 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -284,8 +284,8 @@
 - ✅ [Dr Sampson: Your Oral Microbiome Is Linked To This Disease!](episodes/diary-of-a-ceo/dr-sampson-your-oral-microbiome-is-linked-to-this-disease-p3fSwd1cF08.md) — [YouTube](https://www.youtube.com/watch?v=p3fSwd1cF08)
 - ✅ [Explicit Content Debate: The Unseen Dangers Of Nofap & The Adult Industry Is Exploiting Our Brains!](episodes/diary-of-a-ceo/explicit-content-debate-the-unseen-dangers-of-nofap-the-adult-industry-8LjNUabIJOk.md) — [YouTube](https://www.youtube.com/watch?v=8LjNUabIJOk)
 - ✅ [Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show!](episodes/diary-of-a-ceo/trevor-noah-my-depression-was-linked-to-adhd-why-i-left-the-daily-show-FsztuzyXdhY.md) — [YouTube](https://www.youtube.com/watch?v=FsztuzyXdhY)
-- ⏳ The Cancer Doctor: "This Common Food Is Making Cancer Worse!" — [YouTube](https://www.youtube.com/watch?v=VaVC3PAWqLk)
-- ⏳ The No.1 Eye Doctor: They’re Lying To You About Blue Light! The Truth About Floaters! — [YouTube](https://www.youtube.com/watch?v=SWjzjClBCO4)
+- ✅ [The Cancer Doctor: "This Common Food Is Making Cancer Worse!"](episodes/diary-of-a-ceo/the-cancer-doctor-this-common-food-is-making-cancer-worse-VaVC3PAWqLk.md) — [YouTube](https://www.youtube.com/watch?v=VaVC3PAWqLk)
+- ✅ [The No.1 Eye Doctor: They’re Lying To You About Blue Light! The Truth About Floaters!](episodes/diary-of-a-ceo/the-no-1-eye-doctor-they-re-lying-to-you-about-blue-light-the-truth-ab-SWjzjClBCO4.md) — [YouTube](https://www.youtube.com/watch?v=SWjzjClBCO4)
 - ⏳ Dr K: We Are Producing Millions Of Lonely, Addicted, Purposeless Men & Women! — [YouTube](https://www.youtube.com/watch?v=P1ALkQMfkjc)
 - ⏳ The Anti-Obesity Doctor: If You Don't Exercise, This Is What's Happening To You! - Gabrielle Lyon — [YouTube](https://www.youtube.com/watch?v=2j3T4oYJPfI)
 - ✅ [Glucose Goddess: The 10 Glucose Hacks!](episodes/diary-of-a-ceo/glucose-goddess-the-10-glucose-hacks-3esF-pNAM9c.md) — [YouTube](https://www.youtube.com/watch?v=3esF-pNAM9c)
@@ -294,12 +294,12 @@
 - ✅ [Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth Behind Cold Showers!](episodes/diary-of-a-ceo/andrew-huberman-you-must-control-your-dopamine-the-shocking-truth-behi-jSqCL7Npln0.md) — [YouTube](https://www.youtube.com/watch?v=jSqCL7Npln0)
 - ✅ [The Professor Banned From Speaking Out: "We Need To Start Preparing” - Dr Bret Weinstein](episodes/diary-of-a-ceo/the-professor-banned-from-speaking-out-we-need-to-start-preparing-dr-b-_cFu-b5lTMU.md) — [YouTube](https://www.youtube.com/watch?v=_cFu-b5lTMU)
 - ✅ [The Woman Who Helps NBA Stars To Sleep: Stop Having Showers Just Before Bed! Dr Cheri Mah](episodes/diary-of-a-ceo/the-woman-who-helps-nba-stars-to-sleep-stop-having-showers-just-before-fybq6V74qRk.md) — [YouTube](https://www.youtube.com/watch?v=fybq6V74qRk)
-- ⏳ The Doctor That Got Banned For Speaking Out:“We've Been Lied To About Medication!” Dr Aseem Malhotra — [YouTube](https://www.youtube.com/watch?v=R87QLweXl1A)
-- ⏳ The Healthy Ageing Doctor: Doing This For 30s Will Burn More Fat Than A Long Run! Dr Vonda Wright — [YouTube](https://www.youtube.com/watch?v=D6wTuogebU8)
+- ✅ [The Doctor That Got Banned For Speaking Out:“We've Been Lied To About Medication!” Dr Aseem Malhotra](episodes/diary-of-a-ceo/the-doctor-that-got-banned-for-speaking-out-we-ve-been-lied-to-about-m-R87QLweXl1A.md) — [YouTube](https://www.youtube.com/watch?v=R87QLweXl1A)
+- ✅ [The Healthy Ageing Doctor: Doing This For 30s Will Burn More Fat Than A Long Run! Dr Vonda Wright](episodes/diary-of-a-ceo/the-healthy-ageing-doctor-doing-this-for-30s-will-burn-more-fat-than-a-D6wTuogebU8.md) — [YouTube](https://www.youtube.com/watch?v=D6wTuogebU8)
 - ✅ [The Ozempic Expert: Ozempic Transforms Your Gut Microbiome! People Are Being Overdosed On Ozempic!](episodes/diary-of-a-ceo/the-ozempic-expert-ozempic-transforms-your-gut-microbiome-people-are-b-XDcESvzX58Y.md) — [YouTube](https://www.youtube.com/watch?v=XDcESvzX58Y)
 - ✅ [The Extreme Sleep Scientist: The Painful Trick To Fix Insomnia And Poor Sleep!](episodes/diary-of-a-ceo/the-extreme-sleep-scientist-the-painful-trick-to-fix-insomnia-and-poor-Desm53JJVMA.md) — [YouTube](https://www.youtube.com/watch?v=Desm53JJVMA)
-- ⏳ The Fasting Expert: "The Truth About Ozempic", These 3 Foods Are Leading To Cancer! - Dr Mindy Pelz — [YouTube](https://www.youtube.com/watch?v=MrjIXLQ_OdA)
-- ⏳ Wim Hof: They’re Lying To You About Disease & Inflammation! — [YouTube](https://www.youtube.com/watch?v=_vX-_fq-c50)
+- ✅ [The Fasting Expert: "The Truth About Ozempic", These 3 Foods Are Leading To Cancer! - Dr Mindy Pelz](episodes/diary-of-a-ceo/the-fasting-expert-the-truth-about-ozempic-these-3-foods-are-leading-t-MrjIXLQ_OdA.md) — [YouTube](https://www.youtube.com/watch?v=MrjIXLQ_OdA)
+- ✅ [Wim Hof: They’re Lying To You About Disease & Inflammation!](episodes/diary-of-a-ceo/wim-hof-they-re-lying-to-you-about-disease-inflammation-_vX-_fq-c50.md) — [YouTube](https://www.youtube.com/watch?v=_vX-_fq-c50)
 - ⏳ Simon Sinek: "Strong Thigh Muscles = More friends", This Is Why You Can't Make Friends! — [YouTube](https://www.youtube.com/watch?v=I3WUiD8HYn8)
 - ⏳ The Menopause Doctor: This Diet Delays Menopause! Menopause Is Shrinking Your Brain! Dr Lisa Mosconi — [YouTube](https://www.youtube.com/watch?v=Cgo2mD4Pc54)
 - ⏳ The Pregnancy Doctor: Pregnancy Is Halved Every Year After Age 32! If You Want 2+ Children, DO THIS! — [YouTube](https://www.youtube.com/watch?v=w8h4qksd6Yw)

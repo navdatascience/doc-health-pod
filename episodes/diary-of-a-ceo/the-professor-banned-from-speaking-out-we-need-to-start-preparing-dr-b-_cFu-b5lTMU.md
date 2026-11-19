@@ -1,4 +1,4 @@
-# {{TITLE}}
+# The Professor Banned From Speaking Out: "We Need To Start Preparing” - Dr Bret Weinstein
 
 - **Source:** The Diary Of A CEO
 - **Guest:** Dr Bret Weinstein, evolutionary biologist and former professor at The Evergreen State College; co-author with his wife Heather Heying of *A Hunter-Gatherer's Guide to the 21st Century*
