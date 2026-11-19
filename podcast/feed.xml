@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health Tidbits</title>
+    <link>https://github.com/navdatascience/doc-health-pod</link>
+    <atom:link href="https://raw.githubusercontent.com/navdatascience/doc-health-pod/main/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily 4-5 minute podcast distilled from the Doctor Health Podcast Library: one doctor or health-expert conversation a day, turned into its most important tidbits. Hosted by Mimi and Alex.</description>
+    <language>en-us</language>
+    <itunes:author>Naveen Chatlapalli</itunes:author>
+    <itunes:category text="Health &amp; Fitness"/>
+    <itunes:image href="https://raw.githubusercontent.com/navdatascience/doc-health-pod/main/podcast/cover.webp"/>
+    <item>
+      <title>Ep 1: Sleep Like It Matters — Matthew Walker's Best Ideas</title>
+      <description>Mimi and Alex distill Matthew Walker's Diary Of A CEO sleep episode: caffeine's three hidden costs, why sleep debt can't be banked, NASA nap rules, sleep and weight loss, and the 2 a.m. playbook. Source transcript and analysis are in the doc-health-pod library.</description>
+      <pubDate>Wed, 18 Nov 2026 21:50:00 -0600</pubDate>
+      <guid isPermaLink="false">health-tidbits-ep001</guid>
+      <enclosure url="https://raw.githubusercontent.com/navdatascience/doc-health-pod/main/podcast/episodes/ep001-sleep-matthew-walker.mp3" length="2136229" type="audio/mpeg"/>
+      <itunes:duration>4:27</itunes:duration>
+    </item>
+  </channel>
+</rss>
