@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**317 of 372 episodes collected** · Updated 2026-11-18
+**321 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 113 / 167 done
+- The Diary Of A CEO (health): 117 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -319,7 +319,7 @@
 - ✅ [Leading Childhood Trauma Doctor: 10 Lies They Told You About Your Childhood Trauma! - Paul Conti](episodes/diary-of-a-ceo/leading-childhood-trauma-doctor-10-lies-they-told-you-about-your-child-USE89i0kiiQ.md) — [YouTube](https://www.youtube.com/watch?v=USE89i0kiiQ)
 - ✅ [The Calories Expert: Health Experts Are Wrong About Calories & Diet Coke! Layne Norton](episodes/diary-of-a-ceo/the-calories-expert-health-experts-are-wrong-about-calories-diet-coke-Znoi6tBtYRc.md) — [YouTube](https://www.youtube.com/watch?v=Znoi6tBtYRc)
 - ✅ [Dr K: "There Is A Crisis Going On With Men!", “We’ve Produced Millions Of Lonely, Addicted Males!”](episodes/diary-of-a-ceo/dr-k-there-is-a-crisis-going-on-with-men-we-ve-produced-millions-of-lo-B_5N_aDu3u0.md) — [YouTube](https://www.youtube.com/watch?v=B_5N_aDu3u0)
-- ⏳ The Narcissism Doctor: What Beats A Narcissist! Their One Weak Spot — [YouTube](https://www.youtube.com/watch?v=hTkKXDvSJvo)
+- ✅ [The Narcissism Doctor: What Beats A Narcissist! Their One Weak Spot](episodes/diary-of-a-ceo/the-narcissism-doctor-what-beats-a-narcissist-their-one-weak-spot-hTkKXDvSJvo.md) — [YouTube](https://www.youtube.com/watch?v=hTkKXDvSJvo)
 - ✅ [The Muscle Growth Doctor: Exercise At Night Is A Terrible Idea! Grip Strength = Disease! Andy Galpin](episodes/diary-of-a-ceo/the-muscle-growth-doctor-exercise-at-night-is-a-terrible-idea-grip-str-hQ78Hpwrt80.md) — [YouTube](https://www.youtube.com/watch?v=hQ78Hpwrt80)
 - ✅ [The Brain Doctor: 5 Popular Habits That Will Kill Your Brain Health!](episodes/diary-of-a-ceo/the-brain-doctor-5-popular-habits-that-will-kill-your-brain-health-WLWbFVKFffM.md) — [YouTube](https://www.youtube.com/watch?v=WLWbFVKFffM)
 - ✅ [Harvard Professor: They’re Lying To You About Running, Breathing & Sitting! - Daniel Lieberman](episodes/diary-of-a-ceo/harvard-professor-they-re-lying-to-you-about-running-breathing-sitting-A-8tPmQtYqs.md) — [YouTube](https://www.youtube.com/watch?v=A-8tPmQtYqs)
@@ -330,12 +330,12 @@
 - ✅ [Thierry Henry: I Was Depressed, Crying & Dealing With Trauma!](episodes/diary-of-a-ceo/thierry-henry-i-was-depressed-crying-dealing-with-trauma-aivpDPCP7Q8.md) — [YouTube](https://www.youtube.com/watch?v=aivpDPCP7Q8)
 - ✅ [The Fitness Scientist: "Even A Little Alcohol Is Hurting Your Health!" Kristen Holmes](episodes/diary-of-a-ceo/the-fitness-scientist-even-a-little-alcohol-is-hurting-your-health-kri--Hwlvkfp698.md) — [YouTube](https://www.youtube.com/watch?v=-Hwlvkfp698)
 - ✅ [The No.1 Poo & Gut Scientist: If Your Poo Looks Like This Go To A Doctor! Dr Will Bulsiewicz](episodes/diary-of-a-ceo/the-no-1-poo-gut-scientist-if-your-poo-looks-like-this-go-to-a-doctor-qqabbfk9wV8.md) — [YouTube](https://www.youtube.com/watch?v=qqabbfk9wV8)
-- ⏳ Michael Buble: "I Will NEVER Be Carefree Again!", Rejection, Cancer & Stealing! — [YouTube](https://www.youtube.com/watch?v=2bUfUN9wUrs)
-- ⏳ The No.1 Menopause Doctor: They’re Lying To You About Menopause! Mary Claire Haver — [YouTube](https://www.youtube.com/watch?v=oQqcnYcKx68)
+- ✅ [Michael Buble: "I Will NEVER Be Carefree Again!", Rejection, Cancer & Stealing!](episodes/diary-of-a-ceo/michael-buble-i-will-never-be-carefree-again-rejection-cancer-stealing-2bUfUN9wUrs.md) — [YouTube](https://www.youtube.com/watch?v=2bUfUN9wUrs)
+- ✅ [The No.1 Menopause Doctor: They’re Lying To You About Menopause! Mary Claire Haver](episodes/diary-of-a-ceo/the-no-1-menopause-doctor-they-re-lying-to-you-about-menopause-mary-cl-oQqcnYcKx68.md) — [YouTube](https://www.youtube.com/watch?v=oQqcnYcKx68)
 - ✅ [“Dynamo Is Dead!” The Heartbreaking True Story Of Why Dynamo Vanished For Years!](episodes/diary-of-a-ceo/dynamo-is-dead-the-heartbreaking-true-story-of-why-dynamo-vanished-for-TTzgD6Tn9DY.md) — [YouTube](https://www.youtube.com/watch?v=TTzgD6Tn9DY)
 - ✅ [Mel Robbins: Saying These 2 Words Could Fix Your Anxiety! (Brand New Trick)](episodes/diary-of-a-ceo/mel-robbins-saying-these-2-words-could-fix-your-anxiety-brand-new-tric-iEo48f_Rs4w.md) — [YouTube](https://www.youtube.com/watch?v=iEo48f_Rs4w)
 - ✅ [Busta Rhymes Finally Opens Up About His Grief, Depression & Recovery!](episodes/diary-of-a-ceo/busta-rhymes-finally-opens-up-about-his-grief-depression-recovery-cRjzQuzX-tg.md) — [YouTube](https://www.youtube.com/watch?v=cRjzQuzX-tg)
-- ⏳ The Coffee Expert: The Surprising Link Between Coffee & Your Mental Health! James Hoffmann — [YouTube](https://www.youtube.com/watch?v=TqNrJNhcf5g)
+- ✅ [The Coffee Expert: The Surprising Link Between Coffee & Your Mental Health! James Hoffmann](episodes/diary-of-a-ceo/the-coffee-expert-the-surprising-link-between-coffee-your-mental-healt-TqNrJNhcf5g.md) — [YouTube](https://www.youtube.com/watch?v=TqNrJNhcf5g)
 - ⏳ No.1 Neuroscientist: NEW RESEARCH Your Life, Your Work & Your Sex Life Will Get Boring! (THE FIX) — [YouTube](https://www.youtube.com/watch?v=7KTwmEGsY5g)
 - ⏳ I've PROVEN This Food Keeps You Young & This Oil Reduces Inflammation by 85%! Bryan Johnson — [YouTube](https://www.youtube.com/watch?v=Htg3HCgrJK4)
 - ⏳ The Exercise Expert: This Popular Lifestyle Is Killing 1 Person Every 33 Seconds! Michael Easter — [YouTube](https://www.youtube.com/watch?v=jnYrxVXQKS0)
