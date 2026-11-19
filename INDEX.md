@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**265 of 372 episodes collected** · Updated 2026-11-18
+**277 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 61 / 167 done
+- The Diary Of A CEO (health): 73 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -280,24 +280,24 @@
 - ✅ [The Body Trauma Expert: This Eye Movement Trick Can Fix Your Trauma! The Body Keeps The Score!](episodes/diary-of-a-ceo/the-body-trauma-expert-this-eye-movement-trick-can-fix-your-trauma-the-Qx5J5nwDBTo.md) — [YouTube](https://www.youtube.com/watch?v=Qx5J5nwDBTo)
 - ✅ [Dr. Martha Beck (Oprah's Life Coach): This Weird Trick Reduces Anxiety & Fixed My Childhood Trauma!](episodes/diary-of-a-ceo/dr-martha-beck-oprah-s-life-coach-this-weird-trick-reduces-anxiety-fix-fajtQSCHfvE.md) — [YouTube](https://www.youtube.com/watch?v=fajtQSCHfvE)
 - ✅ [Body Language Expert: Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes!](episodes/diary-of-a-ceo/body-language-expert-stop-using-this-it-s-making-people-dislike-you-so-VHUrdELKjDw.md) — [YouTube](https://www.youtube.com/watch?v=VHUrdELKjDw)
-- ⏳ Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner! — [YouTube](https://www.youtube.com/watch?v=MGposaKNJKQ)
-- ⏳ Dr Sampson: Your Oral Microbiome Is Linked To This Disease! — [YouTube](https://www.youtube.com/watch?v=p3fSwd1cF08)
-- ⏳ Explicit Content Debate: The Unseen Dangers Of Nofap & The Adult Industry Is Exploiting Our Brains! — [YouTube](https://www.youtube.com/watch?v=8LjNUabIJOk)
-- ⏳ Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show! — [YouTube](https://www.youtube.com/watch?v=FsztuzyXdhY)
+- ✅ [Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner!](episodes/diary-of-a-ceo/women-health-expert-birth-control-changes-who-you-are-how-you-feel-abo-MGposaKNJKQ.md) — [YouTube](https://www.youtube.com/watch?v=MGposaKNJKQ)
+- ✅ [Dr Sampson: Your Oral Microbiome Is Linked To This Disease!](episodes/diary-of-a-ceo/dr-sampson-your-oral-microbiome-is-linked-to-this-disease-p3fSwd1cF08.md) — [YouTube](https://www.youtube.com/watch?v=p3fSwd1cF08)
+- ✅ [Explicit Content Debate: The Unseen Dangers Of Nofap & The Adult Industry Is Exploiting Our Brains!](episodes/diary-of-a-ceo/explicit-content-debate-the-unseen-dangers-of-nofap-the-adult-industry-8LjNUabIJOk.md) — [YouTube](https://www.youtube.com/watch?v=8LjNUabIJOk)
+- ✅ [Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show!](episodes/diary-of-a-ceo/trevor-noah-my-depression-was-linked-to-adhd-why-i-left-the-daily-show-FsztuzyXdhY.md) — [YouTube](https://www.youtube.com/watch?v=FsztuzyXdhY)
 - ⏳ The Cancer Doctor: "This Common Food Is Making Cancer Worse!" — [YouTube](https://www.youtube.com/watch?v=VaVC3PAWqLk)
 - ⏳ The No.1 Eye Doctor: They’re Lying To You About Blue Light! The Truth About Floaters! — [YouTube](https://www.youtube.com/watch?v=SWjzjClBCO4)
 - ⏳ Dr K: We Are Producing Millions Of Lonely, Addicted, Purposeless Men & Women! — [YouTube](https://www.youtube.com/watch?v=P1ALkQMfkjc)
 - ⏳ The Anti-Obesity Doctor: If You Don't Exercise, This Is What's Happening To You! - Gabrielle Lyon — [YouTube](https://www.youtube.com/watch?v=2j3T4oYJPfI)
-- ⏳ Glucose Goddess: The 10 Glucose Hacks! — [YouTube](https://www.youtube.com/watch?v=3esF-pNAM9c)
-- ⏳ The Gottman Doctors: Affairs Can Save Your Relationship! If You See This, Walk Away! — [YouTube](https://www.youtube.com/watch?v=H9kPmiV0B34)
-- ⏳ The Muscle Building Expert: They’re Lying To You About Workout Hours! Dr Michael Israetel — [YouTube](https://www.youtube.com/watch?v=OTrTqs9FLq0)
-- ⏳ Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth Behind Cold Showers! — [YouTube](https://www.youtube.com/watch?v=jSqCL7Npln0)
-- ⏳ The Professor Banned From Speaking Out: "We Need To Start Preparing” - Dr Bret Weinstein — [YouTube](https://www.youtube.com/watch?v=_cFu-b5lTMU)
-- ⏳ The Woman Who Helps NBA Stars To Sleep: Stop Having Showers Just Before Bed! Dr Cheri Mah — [YouTube](https://www.youtube.com/watch?v=fybq6V74qRk)
+- ✅ [Glucose Goddess: The 10 Glucose Hacks!](episodes/diary-of-a-ceo/glucose-goddess-the-10-glucose-hacks-3esF-pNAM9c.md) — [YouTube](https://www.youtube.com/watch?v=3esF-pNAM9c)
+- ✅ [The Gottman Doctors: Affairs Can Save Your Relationship! If You See This, Walk Away!](episodes/diary-of-a-ceo/the-gottman-doctors-affairs-can-save-your-relationship-if-you-see-this-H9kPmiV0B34.md) — [YouTube](https://www.youtube.com/watch?v=H9kPmiV0B34)
+- ✅ [The Muscle Building Expert: They’re Lying To You About Workout Hours! Dr Michael Israetel](episodes/diary-of-a-ceo/the-muscle-building-expert-they-re-lying-to-you-about-workout-hours-dr-OTrTqs9FLq0.md) — [YouTube](https://www.youtube.com/watch?v=OTrTqs9FLq0)
+- ✅ [Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth Behind Cold Showers!](episodes/diary-of-a-ceo/andrew-huberman-you-must-control-your-dopamine-the-shocking-truth-behi-jSqCL7Npln0.md) — [YouTube](https://www.youtube.com/watch?v=jSqCL7Npln0)
+- ✅ [The Professor Banned From Speaking Out: "We Need To Start Preparing” - Dr Bret Weinstein](episodes/diary-of-a-ceo/the-professor-banned-from-speaking-out-we-need-to-start-preparing-dr-b-_cFu-b5lTMU.md) — [YouTube](https://www.youtube.com/watch?v=_cFu-b5lTMU)
+- ✅ [The Woman Who Helps NBA Stars To Sleep: Stop Having Showers Just Before Bed! Dr Cheri Mah](episodes/diary-of-a-ceo/the-woman-who-helps-nba-stars-to-sleep-stop-having-showers-just-before-fybq6V74qRk.md) — [YouTube](https://www.youtube.com/watch?v=fybq6V74qRk)
 - ⏳ The Doctor That Got Banned For Speaking Out:“We've Been Lied To About Medication!” Dr Aseem Malhotra — [YouTube](https://www.youtube.com/watch?v=R87QLweXl1A)
 - ⏳ The Healthy Ageing Doctor: Doing This For 30s Will Burn More Fat Than A Long Run! Dr Vonda Wright — [YouTube](https://www.youtube.com/watch?v=D6wTuogebU8)
-- ⏳ The Ozempic Expert: Ozempic Transforms Your Gut Microbiome! People Are Being Overdosed On Ozempic! — [YouTube](https://www.youtube.com/watch?v=XDcESvzX58Y)
-- ⏳ The Extreme Sleep Scientist: The Painful Trick To Fix Insomnia And Poor Sleep! — [YouTube](https://www.youtube.com/watch?v=Desm53JJVMA)
+- ✅ [The Ozempic Expert: Ozempic Transforms Your Gut Microbiome! People Are Being Overdosed On Ozempic!](episodes/diary-of-a-ceo/the-ozempic-expert-ozempic-transforms-your-gut-microbiome-people-are-b-XDcESvzX58Y.md) — [YouTube](https://www.youtube.com/watch?v=XDcESvzX58Y)
+- ✅ [The Extreme Sleep Scientist: The Painful Trick To Fix Insomnia And Poor Sleep!](episodes/diary-of-a-ceo/the-extreme-sleep-scientist-the-painful-trick-to-fix-insomnia-and-poor-Desm53JJVMA.md) — [YouTube](https://www.youtube.com/watch?v=Desm53JJVMA)
 - ⏳ The Fasting Expert: "The Truth About Ozempic", These 3 Foods Are Leading To Cancer! - Dr Mindy Pelz — [YouTube](https://www.youtube.com/watch?v=MrjIXLQ_OdA)
 - ⏳ Wim Hof: They’re Lying To You About Disease & Inflammation! — [YouTube](https://www.youtube.com/watch?v=_vX-_fq-c50)
 - ⏳ Simon Sinek: "Strong Thigh Muscles = More friends", This Is Why You Can't Make Friends! — [YouTube](https://www.youtube.com/watch?v=I3WUiD8HYn8)
