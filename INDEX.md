@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**177 of 372 episodes collected** · Updated 2026-11-18
+**185 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 62 / 104 done
-- The Diary Of A CEO (health): 15 / 167 done
+- Raj Shamani (health): 64 / 104 done
+- The Diary Of A CEO (health): 21 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -141,8 +141,8 @@
 - ✅ [Healthy Food Is Slowly Poisoning Your Body | Dimple Jangda | FO448 Raj Shamani](episodes/raj-shamani/healthy-food-is-slowly-poisoning-your-body-n-PkAPZZwn0.md) — [YouTube](https://www.youtube.com/watch?v=n-PkAPZZwn0)
 - ✅ [Gut Health & Sex Connection: Anxiety, Sex Life & Health Risk | Anant Agarwal | FO445 Raj Shamani](episodes/raj-shamani/gut-health-sex-connection-anxiety-sex-life-health-risk-x3qyh9XpqAk.md) — [YouTube](https://www.youtube.com/watch?v=x3qyh9XpqAk)
 - ✅ [The Cancer Expert: How To Detect & Beat Cancer & Which Foods Are Causing Cancer? | FO436 Raj Shamani](episodes/raj-shamani/the-cancer-expert-how-to-detect-beat-cancer-which-foods-are-causing-ca-ejiePMck88s.md) — [YouTube](https://www.youtube.com/watch?v=ejiePMck88s)
-- ⏳ Use 100% of Your Brain: Power Foods, Discipline, Focus & Lifestyle | Dr. Sajeev | FO434 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=zrdFjOltFJ0)
-- ⏳ Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat | Pooja Makhija | FO433 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)
+- ✅ [Use 100% of Your Brain: Power Foods, Discipline, Focus & Lifestyle | Dr. Sajeev | FO434 Raj Shamani](episodes/raj-shamani/use-100-of-your-brain-power-foods-discipline-focus-lifestyle-zrdFjOltFJ0.md) — [YouTube](https://www.youtube.com/watch?v=zrdFjOltFJ0)
+- ✅ [Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat | Pooja Makhija | FO433 Raj Shamani](episodes/raj-shamani/diet-expert-weight-loss-calories-digestion-sugar-belly-fat-xi-zHJL5bnI.md) — [YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)
 - ✅ [Your Family is at Risk: Harmful Gases from Kitchen, Walls & Car | BreatheEasy | FO426 Raj Shamani](episodes/raj-shamani/your-family-is-at-risk-harmful-gases-from-kitchen-walls-car-RKxuKMhaMnI.md) — [YouTube](https://www.youtube.com/watch?v=RKxuKMhaMnI)
 - ✅ [How to Get Perfect Sleep: Hacks, Pillow, Mattress, Lights & Routine | Dr. Manvir | FO419 Raj Shamani](episodes/raj-shamani/how-to-get-perfect-sleep-hacks-pillow-mattress-lights-routine-ixNpmM5FdlE.md) — [YouTube](https://www.youtube.com/watch?v=ixNpmM5FdlE)
 - ✅ [Organ Mafia & Hospital Scams: Dark Reality of India’s Healthcare| Dr Guru N Reddy |FO415 Raj Shamani](episodes/raj-shamani/organ-mafia-hospital-scams-dark-reality-of-india-s-healthcare--wwcpgXmFhE.md) — [YouTube](https://www.youtube.com/watch?v=-wwcpgXmFhE)
@@ -232,16 +232,16 @@
 - ✅ [Creatine Expert: Creatine Is The Secret To Weight Loss](episodes/diary-of-a-ceo/creatine-expert-creatine-is-the-secret-to-weight-loss-Jk7RAkFN4vk.md) — [YouTube](https://www.youtube.com/watch?v=Jk7RAkFN4vk)
 - ✅ [Fatty Liver Expert: The Toxic Ingredient Silently Filling Your Liver With Fat - Dr David Unwin](episodes/diary-of-a-ceo/fatty-liver-expert-the-toxic-ingredient-silently-filling-your-liver-wi-zc8Nh4TMB1s.md) — [YouTube](https://www.youtube.com/watch?v=zc8Nh4TMB1s)
 - ✅ [Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!](episodes/diary-of-a-ceo/stanford-neuroscientist-can-t-remember-your-dreams-your-brain-may-be-w-m-nnyNZ0TQ0.md) — [YouTube](https://www.youtube.com/watch?v=m-nnyNZ0TQ0)
-- ⏳ Peptide Expert: What Do Peptides Actually Do? (EXPLAINED) - Dr Alex Tatem — [YouTube](https://www.youtube.com/watch?v=jt5hHb6kzYM)
+- ✅ [Peptide Expert: What Do Peptides Actually Do? (EXPLAINED) - Dr Alex Tatem](episodes/diary-of-a-ceo/peptide-expert-what-do-peptides-actually-do-explained-dr-alex-tatem-jt5hHb6kzYM.md) — [YouTube](https://www.youtube.com/watch?v=jt5hHb6kzYM)
 - ✅ [Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat!](episodes/diary-of-a-ceo/anti-aging-expert-stop-touching-receipts-immediately-the-fast-way-to-s-PyhmvAL-iYw.md) — [YouTube](https://www.youtube.com/watch?v=PyhmvAL-iYw)
 - ✅ [Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!](episodes/diary-of-a-ceo/dr-david-sinclair-can-aging-be-reversed-after-8-weeks-cells-appeared-7-DnvWAP99r3Y.md) — [YouTube](https://www.youtube.com/watch?v=DnvWAP99r3Y)
-- ⏳ They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You — [YouTube](https://www.youtube.com/watch?v=Xm_PHZXGe-w)
+- ✅ [They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You](episodes/diary-of-a-ceo/they-re-lying-about-healthy-foods-sugar-shocking-new-research-that-s-h-Xm_PHZXGe-w.md) — [YouTube](https://www.youtube.com/watch?v=Xm_PHZXGe-w)
 - ⏳ Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This! — [YouTube](https://www.youtube.com/watch?v=pXlMKzcZlwM)
-- ⏳ Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s — [YouTube](https://www.youtube.com/watch?v=0t_DD5568RA)
+- ✅ [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](episodes/diary-of-a-ceo/cognitive-decline-expert-the-disease-that-starts-in-your-30s-but-kills-0t_DD5568RA.md) — [YouTube](https://www.youtube.com/watch?v=0t_DD5568RA)
 - ✅ [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](episodes/diary-of-a-ceo/the-microbiome-doctor-doctors-were-wrong-the-3-foods-you-should-eat-fo-w3dTmyZq4Qk.md) — [YouTube](https://www.youtube.com/watch?v=w3dTmyZq4Qk)
-- ⏳ Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!) — [YouTube](https://www.youtube.com/watch?v=C7LL7VwP8Nc)
-- ⏳ Dopamine Expert: How TikTok Is Physically Rewiring Your Brain (Permanent Damage?) — [YouTube](https://www.youtube.com/watch?v=2ZKLaUbB33o)
-- ⏳ The Poo Doctor: This Cheap Spice Fixes A Damaged Gut! — [YouTube](https://www.youtube.com/watch?v=5Tr7AhkOEj4)
+- ✅ [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](episodes/diary-of-a-ceo/insulin-expert-how-to-drain-your-liver-of-fat-do-this-C7LL7VwP8Nc.md) — [YouTube](https://www.youtube.com/watch?v=C7LL7VwP8Nc)
+- ✅ [Dopamine Expert: How TikTok Is Physically Rewiring Your Brain (Permanent Damage?)](episodes/diary-of-a-ceo/dopamine-expert-how-tiktok-is-physically-rewiring-your-brain-permanent-2ZKLaUbB33o.md) — [YouTube](https://www.youtube.com/watch?v=2ZKLaUbB33o)
+- ✅ [The Poo Doctor: This Cheap Spice Fixes A Damaged Gut!](episodes/diary-of-a-ceo/the-poo-doctor-this-cheap-spice-fixes-a-damaged-gut-5Tr7AhkOEj4.md) — [YouTube](https://www.youtube.com/watch?v=5Tr7AhkOEj4)
 - ⏳ The 6 Science Backed Brain Fixes Most People Are Ignoring! — [YouTube](https://www.youtube.com/watch?v=Oipkl53n938)
 - ⏳ Insulin Doctor: This Is The First Sign Of Dementia! The Shocking Link Between Keto & Brain Decline! — [YouTube](https://www.youtube.com/watch?v=KVXnVe8eOkM)
 - ⏳ World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%! — [YouTube](https://www.youtube.com/watch?v=qxxnRMT9C-8)
