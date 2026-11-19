@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**131 of 372 episodes collected** · Updated 2026-11-18
+**137 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 29 / 104 done
+- Raj Shamani (health): 35 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -135,10 +135,10 @@
 - ✅ [Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear & Anxiety | FO475 Raj Shamani](episodes/raj-shamani/dr-joe-dispenza-rewire-your-brain-heal-your-mind-fear-anxiety-90lLQVZe2Nc.md) — [YouTube](https://www.youtube.com/watch?v=90lLQVZe2Nc)
 - ✅ [YUNGBLUD Unfiltered: Addictions, Insecurities, Fame, Masculinity & Childhood | FO467 Raj Shamani](episodes/raj-shamani/yungblud-unfiltered-addictions-insecurities-fame-masculinity-childhood-nZrBQqxYe2A.md) — [YouTube](https://www.youtube.com/watch?v=nZrBQqxYe2A)
 - ✅ [Indian Lifestyle Problems: Belly Fat, Weight Gain & Heart Health | Karan Sarin | FO465 Raj Shamani](episodes/raj-shamani/indian-lifestyle-problems-belly-fat-weight-gain-heart-health-nJmkZMv85Cw.md) — [YouTube](https://www.youtube.com/watch?v=nJmkZMv85Cw)
-- ⏳ Exposing the Indian Diet: Roti, Rice, Morning Energy & Night Habits | Sonia Narang | FO456 Raj Sh... — [YouTube](https://www.youtube.com/watch?v=z1lPXO0pv_4)
-- ⏳ Fever Can Damage Heart, Brain & Bones - Treatment & Home Remedies | Dr Navneet | FO451 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=pZB9Y3OHL1w)
-- ⏳ How Money Changes Relationships: Toxic Marriages, Men vs Women & Pain | Dr Sarthak | FO449 Raj Sh... — [YouTube](https://www.youtube.com/watch?v=483owj7dzIw)
-- ⏳ Healthy Food Is Slowly Poisoning Your Body | Dimple Jangda | FO448 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=n-PkAPZZwn0)
+- ✅ [Exposing the Indian Diet: Roti, Rice, Morning Energy & Night Habits | Sonia Narang | FO456 Raj Sh...](episodes/raj-shamani/exposing-the-indian-diet-roti-rice-morning-energy-night-habits-z1lPXO0pv_4.md) — [YouTube](https://www.youtube.com/watch?v=z1lPXO0pv_4)
+- ✅ [Fever Can Damage Heart, Brain & Bones - Treatment & Home Remedies | Dr Navneet | FO451 Raj Shamani](episodes/raj-shamani/fever-can-damage-heart-brain-bones-treatment-home-remedies-pZB9Y3OHL1w.md) — [YouTube](https://www.youtube.com/watch?v=pZB9Y3OHL1w)
+- ✅ [How Money Changes Relationships: Toxic Marriages, Men vs Women & Pain | Dr Sarthak | FO449 Raj Sh...](episodes/raj-shamani/how-money-changes-relationships-toxic-marriages-men-vs-women-pain-483owj7dzIw.md) — [YouTube](https://www.youtube.com/watch?v=483owj7dzIw)
+- ✅ [Healthy Food Is Slowly Poisoning Your Body | Dimple Jangda | FO448 Raj Shamani](episodes/raj-shamani/healthy-food-is-slowly-poisoning-your-body-n-PkAPZZwn0.md) — [YouTube](https://www.youtube.com/watch?v=n-PkAPZZwn0)
 - ⏳ Gut Health & Sex Connection: Anxiety, Sex Life & Health Risk | Anant Agarwal | FO445 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=x3qyh9XpqAk)
 - ⏳ The Cancer Expert: How To Detect & Beat Cancer & Which Foods Are Causing Cancer? | FO436 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ejiePMck88s)
 - ⏳ Use 100% of Your Brain: Power Foods, Discipline, Focus & Lifestyle | Dr. Sajeev | FO434 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=zrdFjOltFJ0)
@@ -148,7 +148,7 @@
 - ✅ [Organ Mafia & Hospital Scams: Dark Reality of India’s Healthcare| Dr Guru N Reddy |FO415 Raj Shamani](episodes/raj-shamani/organ-mafia-hospital-scams-dark-reality-of-india-s-healthcare--wwcpgXmFhE.md) — [YouTube](https://www.youtube.com/watch?v=-wwcpgXmFhE)
 - ✅ [One Habit That Builds Genius: Parenting Mistakes, Brain Risk & Habits | Dr Samir | FO410 Raj Shamani](episodes/raj-shamani/one-habit-that-builds-genius-parenting-mistakes-brain-risk-habits-AQhA06A59n4.md) — [YouTube](https://www.youtube.com/watch?v=AQhA06A59n4)
 - ✅ [Why Humans Turn Into Monsters: Body Language, Mindset & Traumas | Gaurav Gill | FO407 Raj Shamani](episodes/raj-shamani/why-humans-turn-into-monsters-body-language-mindset-traumas-mcp_fX9TSYg.md) — [YouTube](https://www.youtube.com/watch?v=mcp_fX9TSYg)
-- ⏳ Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=fHBR1j1kJ1I)
+- ✅ [Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani](episodes/raj-shamani/billionaire-s-brain-vs-your-brain-morning-routine-focus-addiction-fHBR1j1kJ1I.md) — [YouTube](https://www.youtube.com/watch?v=fHBR1j1kJ1I)
 - ⏳ Skincare Trends EXPOSED! Lip Care, Gua Sha, SPF & Tanning | Dr. Madhuri Agarwal | FO402 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=5nUd5md4oVA)
 - ⏳ Street Dogs: Can Detect Cancer, Depression & Anxiety - HUFT | FO399 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=-mBFOLc-Gyk)
 - ⏳ Newborn & Parenting Secrets: Oil Massage, Rash Care & Mom’s Diet | Dr. Nihar | FO393 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=3LhCwAyk0rM)
@@ -156,7 +156,7 @@
 - ⏳ Why Does Gen Z Look So Old? - Makeup, Coffee & Skincare Trends - Dr Niti Gaur | FO383 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=E8QYIC6WVvY)
 - ⏳ Stress Causes Cancer? - Early Signs, Trauma Healing & Food | Dr Tarang Krishna | FO 380 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=sMuheiO3E-U)
 - ⏳ SECRET To Glowing Skin - Korean Vs Indian Skin, Filler & Age - Dr Mikki Singh | FO377 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=R4IDFZ3ja9k)
-- ⏳ Jackson Wang on Heartbreak, Love, Trauma, Music, China’s Rules & Ideal Partner | FO375 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=XzMcJR2UFE4)
+- ✅ [Jackson Wang on Heartbreak, Love, Trauma, Music, China’s Rules & Ideal Partner | FO375 Raj Shamani](episodes/raj-shamani/jackson-wang-on-heartbreak-love-trauma-music-china-s-rules-ideal-partn-XzMcJR2UFE4.md) — [YouTube](https://www.youtube.com/watch?v=XzMcJR2UFE4)
 - ⏳ What Your Skin Really Needs – Serums, Moisturizer & Skincare | Dr Geetanjali | FO369 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xh2tA8yf3hU)
 - ⏳ Decode Love, Lies & Leadership Through Body Language | Kanan Tandi | FO366 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=we9VSegCFyo)
 - ⏳ Live 10 Years Longer: Brain & Heart Health, Workouts & Fitness Business | Gabit | FO357 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=jtgxSDACnyU)
