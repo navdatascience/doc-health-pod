@@ -1,9 +1,9 @@
 # Index — Doctor Health Podcast Library
 
-**204 of 372 episodes collected** · Updated 2026-11-18
+**215 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 82 / 104 done
+- Raj Shamani (health): 93 / 104 done
 - The Diary Of A CEO (health): 22 / 167 done
 
 ## Dr Pal Podcast Playlist
@@ -190,20 +190,20 @@
 - ✅ [Infertility, Mast*rbation, P*rn, S*xual Health & Andropause -‪@Drvijayantgovinda |FO233 Raj Shamani](episodes/raj-shamani/infertility-mast-rbation-p-rn-s-xual-health-andropause-drvijayantgovin-9Kj4T05UdMA.md) — [YouTube](https://www.youtube.com/watch?v=9Kj4T05UdMA)
 - ✅ [How To Deal With Breakup, Trauma, Toxic Relationship & Loneliness - Psychiatrist FO230 Raj Shamani](episodes/raj-shamani/how-to-deal-with-breakup-trauma-toxic-relationship-loneliness-psychiat-1STb_sXwm9E.md) — [YouTube](https://www.youtube.com/watch?v=1STb_sXwm9E)
 - ✅ [New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - Dr Imran | FO224 Raj Shamani](episodes/raj-shamani/new-born-baby-tips-parenting-health-pregnancy-baby-food-vaccine-dr-imr-ULsBP-AZZuI.md) — [YouTube](https://www.youtube.com/watch?v=ULsBP-AZZuI)
-- ⏳ Reality Of Protein, Supplements, Liver Detox, Bullet Coffee & Myths - Miduty | FO 222 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Feknej-oYVI)
+- ✅ [Reality Of Protein, Supplements, Liver Detox, Bullet Coffee & Myths - Miduty | FO 222 Raj Shamani](episodes/raj-shamani/reality-of-protein-supplements-liver-detox-bullet-coffee-myths-miduty-Feknej-oYVI.md) — [YouTube](https://www.youtube.com/watch?v=Feknej-oYVI)
 - ✅ [Physiotherapy, Cricketers Training, Earthing, Brain Mapping & SRK - Dr Ali Irani | FO218 Raj Shamani](episodes/raj-shamani/physiotherapy-cricketers-training-earthing-brain-mapping-srk-dr-ali-ir-_IFCOYAReyU.md) — [YouTube](https://www.youtube.com/watch?v=_IFCOYAReyU)
 - ✅ [Exposing Indian Diet, Processed Food, Microwave & Cooking Utensils- @krishashok| FO212 Raj Shamani](episodes/raj-shamani/exposing-indian-diet-processed-food-microwave-cooking-utensils-krishas-Zf0idCv5BGU.md) — [YouTube](https://www.youtube.com/watch?v=Zf0idCv5BGU)
 - ✅ [Skin Care Secrets, Fillers, Botox, Acne, Sunscreen - Celeb Dermat Jaishree | FO 208 Raj Shamani](episodes/raj-shamani/skin-care-secrets-fillers-botox-acne-sunscreen-celeb-dermat-jaishree-g93IhHW600U.md) — [YouTube](https://www.youtube.com/watch?v=g93IhHW600U)
 - ✅ [Fall Of Aircel, Losing Money, Ratan Tata, Telecom & Health Sector -C Sivasankaran |FO204 Raj Shamani](episodes/raj-shamani/fall-of-aircel-losing-money-ratan-tata-telecom-health-sector-c-sivasan-l__uXGsUIFQ.md) — [YouTube](https://www.youtube.com/watch?v=l__uXGsUIFQ)
-- ⏳ Back & Knee Pain: Sitting For Long, Surgery, Posture & Exercise - Dr Venkatesh | FO199 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=jtAddPTc1q8)
-- ⏳ Improve Your Sleep, Impact Of Less Sleep, Diabetes & Cancer - Prashant Desai | FO195 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=1MrXqUNeXs8)
+- ✅ [Back & Knee Pain: Sitting For Long, Surgery, Posture & Exercise - Dr Venkatesh | FO199 Raj Shamani](episodes/raj-shamani/back-knee-pain-sitting-for-long-surgery-posture-exercise-dr-venkatesh-jtAddPTc1q8.md) — [YouTube](https://www.youtube.com/watch?v=jtAddPTc1q8)
+- ✅ [Improve Your Sleep, Impact Of Less Sleep, Diabetes & Cancer - Prashant Desai | FO195 Raj Shamani](episodes/raj-shamani/improve-your-sleep-impact-of-less-sleep-diabetes-cancer-prashant-desai-1MrXqUNeXs8.md) — [YouTube](https://www.youtube.com/watch?v=1MrXqUNeXs8)
 - ⏳ WATCH THIS To Improve Your Brain Performance, Focus, Sleep & Health - Dr Arvind | FO 193 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=D74vLgMYOxM)
 - ⏳ Ayurvedic Eye Treatment, Specs Removal, Vision, Lasik & Lenses - Dr Mandeep Basu | FO189 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=QwLBIiUnhEQ)
-- ⏳ Men's Sexual Health, Testosterone, Infertility, NoFap & Orgasm - Dr Prateek | FO186 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=6nWMxRV2Y-c)
-- ⏳ Indian Skincare & Beauty Brand, Marketing & Customer Insights - Minimalist | FO185 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=Vk7GsG5yJZw)
-- ⏳ Diabetes, Fasting, Nutrition, Stress, Sleep Hacks & Supplements - Dr Vishakha | FO183 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=3A8DXwqzQrw)
+- ✅ [Men's Sexual Health, Testosterone, Infertility, NoFap & Orgasm - Dr Prateek | FO186 Raj Shamani](episodes/raj-shamani/men-s-sexual-health-testosterone-infertility-nofap-orgasm-dr-prateek-6nWMxRV2Y-c.md) — [YouTube](https://www.youtube.com/watch?v=6nWMxRV2Y-c)
+- ✅ [Indian Skincare & Beauty Brand, Marketing & Customer Insights - Minimalist | FO185 Raj Shamani](episodes/raj-shamani/indian-skincare-beauty-brand-marketing-customer-insights-minimalist-Vk7GsG5yJZw.md) — [YouTube](https://www.youtube.com/watch?v=Vk7GsG5yJZw)
+- ✅ [Diabetes, Fasting, Nutrition, Stress, Sleep Hacks & Supplements - Dr Vishakha | FO183 Raj Shamani](episodes/raj-shamani/diabetes-fasting-nutrition-stress-sleep-hacks-supplements-dr-vishakha-3A8DXwqzQrw.md) — [YouTube](https://www.youtube.com/watch?v=3A8DXwqzQrw)
 - ✅ [@Dr Pal On Gut Health, Weight Loss, Belly Fat, Fatty Liver, Digestion, Food & Diet |FO180Raj Shamani](episodes/raj-shamani/dr-pal-on-gut-health-weight-loss-belly-fat-fatty-liver-digestion-food-fLx9y6wE0LM.md) — [YouTube](https://www.youtube.com/watch?v=fLx9y6wE0LM)
-- ⏳ Mouth Cancer, Teeth Brushing, Bad Breath, Cavity & Oral Health - Celebrity Dentist |FO177Raj Shamani — [YouTube](https://www.youtube.com/watch?v=H_Caofv95a4)
+- ✅ [Mouth Cancer, Teeth Brushing, Bad Breath, Cavity & Oral Health - Celebrity Dentist |FO177Raj Shamani](episodes/raj-shamani/mouth-cancer-teeth-brushing-bad-breath-cavity-oral-health-celebrity-de-H_Caofv95a4.md) — [YouTube](https://www.youtube.com/watch?v=H_Caofv95a4)
 - ✅ [Dr. Velumani On Building ₹5000 Crore Business, Poverty, Risk & Success | FO174 | Raj Shamani](episodes/raj-shamani/dr-velumani-on-building-5000-crore-business-poverty-risk-success-zZ-VeqYPxoA.md) — [YouTube](https://www.youtube.com/watch?v=zZ-VeqYPxoA)
 - ✅ [Skin Care Products Exposed - Acne, Pimple, Skin Lightening, Fillers | Dr Gurjot | FO 170 Raj Shamani](episodes/raj-shamani/skin-care-products-exposed-acne-pimple-skin-lightening-fillers-oiI3ee6j9iE.md) — [YouTube](https://www.youtube.com/watch?v=oiI3ee6j9iE)
 - ⏳ Exposing Indian Healthcare Industry - Surgery, Insurance, Service | Pristyn Care | FO167 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=VhvVGZuV8CA)
@@ -212,10 +212,10 @@
 - ⏳ Win 2024 With My Top 24 Hacks For New Year, Relationship, Money & Health | FO 153 | Raj Shamani — [YouTube](https://www.youtube.com/watch?v=KDdiQqyeza4)
 - ⏳ India's Future, Women In Workforce Chandrayaan 3, Dr Abdul Kalam - Srijan Pal | FO149 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xDReFV_IiP8)
 - ⏳ @dr_cuterus On Sexual Health, Orgasm, G-Spot, Oral Sex , NoFap & Infertility | FO 147 | Raj Shamani — [YouTube](https://www.youtube.com/watch?v=JepLZh_dMeY)
-- ⏳ Reality of Contact Lens, Ayurvedic Medicine & Lasik Surgeries | Ft. Dr. Rahil | FO136 Raj Shamani   — [YouTube](https://www.youtube.com/watch?v=kqOmz7rCeUQ)
-- ⏳ Indian S*xual Wellness Business Explained by Pee Safe Founder Vikas Bagaria | Raj Shamani | FO 120 — [YouTube](https://www.youtube.com/watch?v=hDagG-59YNQ)
-- ⏳ From Fashion To Fitness - Building Billion Dollar Businesses ft. Mukesh Bansal | FO 78 - Raj Shamani — [YouTube](https://www.youtube.com/watch?v=2Sbwnn2ZgLc)
-- ⏳ Have you heard about the 37 days fitness challenge with Pranit Shilimkar yet? | Fitness trainer — [YouTube](https://www.youtube.com/watch?v=0yeG7vcPYx0)
+- ✅ [Reality of Contact Lens, Ayurvedic Medicine & Lasik Surgeries | Ft. Dr. Rahil | FO136 Raj Shamani  ](episodes/raj-shamani/reality-of-contact-lens-ayurvedic-medicine-lasik-surgeries-kqOmz7rCeUQ.md) — [YouTube](https://www.youtube.com/watch?v=kqOmz7rCeUQ)
+- ✅ [Indian S*xual Wellness Business Explained by Pee Safe Founder Vikas Bagaria | Raj Shamani | FO 120](episodes/raj-shamani/indian-s-xual-wellness-business-explained-by-pee-safe-founder-vikas-ba-hDagG-59YNQ.md) — [YouTube](https://www.youtube.com/watch?v=hDagG-59YNQ)
+- ✅ [From Fashion To Fitness - Building Billion Dollar Businesses ft. Mukesh Bansal | FO 78 - Raj Shamani](episodes/raj-shamani/from-fashion-to-fitness-building-billion-dollar-businesses-ft-mukesh-b-2Sbwnn2ZgLc.md) — [YouTube](https://www.youtube.com/watch?v=2Sbwnn2ZgLc)
+- ✅ [Have you heard about the 37 days fitness challenge with Pranit Shilimkar yet? | Fitness trainer](episodes/raj-shamani/have-you-heard-about-the-37-days-fitness-challenge-with-pranit-shilimk-0yeG7vcPYx0.md) — [YouTube](https://www.youtube.com/watch?v=0yeG7vcPYx0)
 
 ## The Diary Of A CEO — health episodes
 
