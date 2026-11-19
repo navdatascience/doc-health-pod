@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**300 of 372 episodes collected** · Updated 2026-11-18
+**317 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 96 / 167 done
+- The Diary Of A CEO (health): 113 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -313,28 +313,28 @@
 - ✅ [Mo Gawdat: A WARNING about Stress & Anxiety! This Is Causing 70% Of Heart Attacks In Young People!](episodes/diary-of-a-ceo/mo-gawdat-a-warning-about-stress-anxiety-this-is-causing-70-of-heart-a-IxVNR0Om-lA.md) — [YouTube](https://www.youtube.com/watch?v=IxVNR0Om-lA)
 - ✅ [I Tested 100,000 People's DNA. This Diet Will Kill You - Gary Brecka](episodes/diary-of-a-ceo/i-tested-100-000-people-s-dna-this-diet-will-kill-you-gary-brecka-10enqcw2Qiw.md) — [YouTube](https://www.youtube.com/watch?v=10enqcw2Qiw)
 - ✅ [Jocko Willink (Former Navy Seal): Use This Weird Trick To Overcome Fear, Anxiety & Self-Doubt!](episodes/diary-of-a-ceo/jocko-willink-former-navy-seal-use-this-weird-trick-to-overcome-fear-a-3eZJ_y68wsg.md) — [YouTube](https://www.youtube.com/watch?v=3eZJ_y68wsg)
-- ⏳ The Longevity Expert: Is There A Link Between Milk & Cancer? + Ozempic Can Really Mess You Up! — [YouTube](https://www.youtube.com/watch?v=lbzn5iz8Mbo)
+- ✅ [The Longevity Expert: Is There A Link Between Milk & Cancer? + Ozempic Can Really Mess You Up!](episodes/diary-of-a-ceo/the-longevity-expert-is-there-a-link-between-milk-cancer-ozempic-can-r-lbzn5iz8Mbo.md) — [YouTube](https://www.youtube.com/watch?v=lbzn5iz8Mbo)
 - ✅ [The Better-Sex Doctor: The Link Between Masturbating & Prostate Cancer! Dr Rena Malik](episodes/diary-of-a-ceo/the-better-sex-doctor-the-link-between-masturbating-prostate-cancer-dr-HUoPA6oP6do.md) — [YouTube](https://www.youtube.com/watch?v=HUoPA6oP6do)
 - ✅ [The Gottman Doctors: Women Tend to Be More Unhappily Married & Non-Cuddlers Have an Awful Sex Life!](episodes/diary-of-a-ceo/the-gottman-doctors-women-tend-to-be-more-unhappily-married-non-cuddle-mS3bfCt0K88.md) — [YouTube](https://www.youtube.com/watch?v=mS3bfCt0K88)
-- ⏳ Leading Childhood Trauma Doctor: 10 Lies They Told You About Your Childhood Trauma! - Paul Conti — [YouTube](https://www.youtube.com/watch?v=USE89i0kiiQ)
-- ⏳ The Calories Expert: Health Experts Are Wrong About Calories & Diet Coke! Layne Norton — [YouTube](https://www.youtube.com/watch?v=Znoi6tBtYRc)
-- ⏳ Dr K: "There Is A Crisis Going On With Men!", “We’ve Produced Millions Of Lonely, Addicted Males!” — [YouTube](https://www.youtube.com/watch?v=B_5N_aDu3u0)
+- ✅ [Leading Childhood Trauma Doctor: 10 Lies They Told You About Your Childhood Trauma! - Paul Conti](episodes/diary-of-a-ceo/leading-childhood-trauma-doctor-10-lies-they-told-you-about-your-child-USE89i0kiiQ.md) — [YouTube](https://www.youtube.com/watch?v=USE89i0kiiQ)
+- ✅ [The Calories Expert: Health Experts Are Wrong About Calories & Diet Coke! Layne Norton](episodes/diary-of-a-ceo/the-calories-expert-health-experts-are-wrong-about-calories-diet-coke-Znoi6tBtYRc.md) — [YouTube](https://www.youtube.com/watch?v=Znoi6tBtYRc)
+- ✅ [Dr K: "There Is A Crisis Going On With Men!", “We’ve Produced Millions Of Lonely, Addicted Males!”](episodes/diary-of-a-ceo/dr-k-there-is-a-crisis-going-on-with-men-we-ve-produced-millions-of-lo-B_5N_aDu3u0.md) — [YouTube](https://www.youtube.com/watch?v=B_5N_aDu3u0)
 - ⏳ The Narcissism Doctor: What Beats A Narcissist! Their One Weak Spot — [YouTube](https://www.youtube.com/watch?v=hTkKXDvSJvo)
-- ⏳ The Muscle Growth Doctor: Exercise At Night Is A Terrible Idea! Grip Strength = Disease! Andy Galpin — [YouTube](https://www.youtube.com/watch?v=hQ78Hpwrt80)
-- ⏳ The Brain Doctor: 5 Popular Habits That Will Kill Your Brain Health! — [YouTube](https://www.youtube.com/watch?v=WLWbFVKFffM)
-- ⏳ Harvard Professor: They’re Lying To You About Running, Breathing & Sitting! - Daniel Lieberman — [YouTube](https://www.youtube.com/watch?v=A-8tPmQtYqs)
-- ⏳ Leading Harvard Doctor: The Shocking Link Between Your Diet ADHD & Autism! — [YouTube](https://www.youtube.com/watch?v=3GVInaBCn_c)
-- ⏳ Exercise Doesn't Make You Lose Weight! Doctor Jason Fung — [YouTube](https://www.youtube.com/watch?v=8RuWp3s6Uxk)
-- ⏳ The Happiness Expert: Single Friends Will Keep You Single & Obesity Is Contagious! — [YouTube](https://www.youtube.com/watch?v=qRY-foz-ZAw)
-- ⏳ The Mental Health Doctor: Your Phone Screen & Sitting Is Destroying Your Brain! — [YouTube](https://www.youtube.com/watch?v=FN0_ow76hU8)
-- ⏳ Thierry Henry: I Was Depressed, Crying & Dealing With Trauma! — [YouTube](https://www.youtube.com/watch?v=aivpDPCP7Q8)
-- ⏳ The Fitness Scientist: "Even A Little Alcohol Is Hurting Your Health!" Kristen Holmes — [YouTube](https://www.youtube.com/watch?v=-Hwlvkfp698)
-- ⏳ The No.1 Poo & Gut Scientist: If Your Poo Looks Like This Go To A Doctor! Dr Will Bulsiewicz — [YouTube](https://www.youtube.com/watch?v=qqabbfk9wV8)
+- ✅ [The Muscle Growth Doctor: Exercise At Night Is A Terrible Idea! Grip Strength = Disease! Andy Galpin](episodes/diary-of-a-ceo/the-muscle-growth-doctor-exercise-at-night-is-a-terrible-idea-grip-str-hQ78Hpwrt80.md) — [YouTube](https://www.youtube.com/watch?v=hQ78Hpwrt80)
+- ✅ [The Brain Doctor: 5 Popular Habits That Will Kill Your Brain Health!](episodes/diary-of-a-ceo/the-brain-doctor-5-popular-habits-that-will-kill-your-brain-health-WLWbFVKFffM.md) — [YouTube](https://www.youtube.com/watch?v=WLWbFVKFffM)
+- ✅ [Harvard Professor: They’re Lying To You About Running, Breathing & Sitting! - Daniel Lieberman](episodes/diary-of-a-ceo/harvard-professor-they-re-lying-to-you-about-running-breathing-sitting-A-8tPmQtYqs.md) — [YouTube](https://www.youtube.com/watch?v=A-8tPmQtYqs)
+- ✅ [Leading Harvard Doctor: The Shocking Link Between Your Diet ADHD & Autism!](episodes/diary-of-a-ceo/leading-harvard-doctor-the-shocking-link-between-your-diet-adhd-autism-3GVInaBCn_c.md) — [YouTube](https://www.youtube.com/watch?v=3GVInaBCn_c)
+- ✅ [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](episodes/diary-of-a-ceo/exercise-doesn-t-make-you-lose-weight-doctor-jason-fung-8RuWp3s6Uxk.md) — [YouTube](https://www.youtube.com/watch?v=8RuWp3s6Uxk)
+- ✅ [The Happiness Expert: Single Friends Will Keep You Single & Obesity Is Contagious!](episodes/diary-of-a-ceo/the-happiness-expert-single-friends-will-keep-you-single-obesity-is-co-qRY-foz-ZAw.md) — [YouTube](https://www.youtube.com/watch?v=qRY-foz-ZAw)
+- ✅ [The Mental Health Doctor: Your Phone Screen & Sitting Is Destroying Your Brain!](episodes/diary-of-a-ceo/the-mental-health-doctor-your-phone-screen-sitting-is-destroying-your-FN0_ow76hU8.md) — [YouTube](https://www.youtube.com/watch?v=FN0_ow76hU8)
+- ✅ [Thierry Henry: I Was Depressed, Crying & Dealing With Trauma!](episodes/diary-of-a-ceo/thierry-henry-i-was-depressed-crying-dealing-with-trauma-aivpDPCP7Q8.md) — [YouTube](https://www.youtube.com/watch?v=aivpDPCP7Q8)
+- ✅ [The Fitness Scientist: "Even A Little Alcohol Is Hurting Your Health!" Kristen Holmes](episodes/diary-of-a-ceo/the-fitness-scientist-even-a-little-alcohol-is-hurting-your-health-kri--Hwlvkfp698.md) — [YouTube](https://www.youtube.com/watch?v=-Hwlvkfp698)
+- ✅ [The No.1 Poo & Gut Scientist: If Your Poo Looks Like This Go To A Doctor! Dr Will Bulsiewicz](episodes/diary-of-a-ceo/the-no-1-poo-gut-scientist-if-your-poo-looks-like-this-go-to-a-doctor-qqabbfk9wV8.md) — [YouTube](https://www.youtube.com/watch?v=qqabbfk9wV8)
 - ⏳ Michael Buble: "I Will NEVER Be Carefree Again!", Rejection, Cancer & Stealing! — [YouTube](https://www.youtube.com/watch?v=2bUfUN9wUrs)
 - ⏳ The No.1 Menopause Doctor: They’re Lying To You About Menopause! Mary Claire Haver — [YouTube](https://www.youtube.com/watch?v=oQqcnYcKx68)
-- ⏳ “Dynamo Is Dead!” The Heartbreaking True Story Of Why Dynamo Vanished For Years! — [YouTube](https://www.youtube.com/watch?v=TTzgD6Tn9DY)
-- ⏳ Mel Robbins: Saying These 2 Words Could Fix Your Anxiety! (Brand New Trick) — [YouTube](https://www.youtube.com/watch?v=iEo48f_Rs4w)
-- ⏳ Busta Rhymes Finally Opens Up About His Grief, Depression & Recovery! — [YouTube](https://www.youtube.com/watch?v=cRjzQuzX-tg)
+- ✅ [“Dynamo Is Dead!” The Heartbreaking True Story Of Why Dynamo Vanished For Years!](episodes/diary-of-a-ceo/dynamo-is-dead-the-heartbreaking-true-story-of-why-dynamo-vanished-for-TTzgD6Tn9DY.md) — [YouTube](https://www.youtube.com/watch?v=TTzgD6Tn9DY)
+- ✅ [Mel Robbins: Saying These 2 Words Could Fix Your Anxiety! (Brand New Trick)](episodes/diary-of-a-ceo/mel-robbins-saying-these-2-words-could-fix-your-anxiety-brand-new-tric-iEo48f_Rs4w.md) — [YouTube](https://www.youtube.com/watch?v=iEo48f_Rs4w)
+- ✅ [Busta Rhymes Finally Opens Up About His Grief, Depression & Recovery!](episodes/diary-of-a-ceo/busta-rhymes-finally-opens-up-about-his-grief-depression-recovery-cRjzQuzX-tg.md) — [YouTube](https://www.youtube.com/watch?v=cRjzQuzX-tg)
 - ⏳ The Coffee Expert: The Surprising Link Between Coffee & Your Mental Health! James Hoffmann — [YouTube](https://www.youtube.com/watch?v=TqNrJNhcf5g)
 - ⏳ No.1 Neuroscientist: NEW RESEARCH Your Life, Your Work & Your Sex Life Will Get Boring! (THE FIX) — [YouTube](https://www.youtube.com/watch?v=7KTwmEGsY5g)
 - ⏳ I've PROVEN This Food Keeps You Young & This Oil Reduces Inflammation by 85%! Bryan Johnson — [YouTube](https://www.youtube.com/watch?v=Htg3HCgrJK4)
