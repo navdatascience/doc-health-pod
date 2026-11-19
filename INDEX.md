@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**24 of 372 episodes collected** · Updated 2026-11-18
+**26 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 20 / 101 done
+- Dr Pal Podcast Playlist: 22 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -28,8 +28,8 @@
 - ✅ [How Modern Habits Are Rewiring Our Brains & Behaviour](episodes/dr-pal/how-modern-habits-are-rewiring-our-brains-behaviour-aLh1LQT-Tjc.md) — [YouTube](https://www.youtube.com/watch?v=aLh1LQT-Tjc)
 - ✅ [The Emotional Problems Inside Modern Families Nobody Talks About | Dr. Saranya](episodes/dr-pal/the-emotional-problems-inside-modern-families-nobody-talks-about-b__gYFiuCnQ.md) — [YouTube](https://www.youtube.com/watch?v=b__gYFiuCnQ)
 - ✅ [How Millets Transform Your Gut, Body & Health](episodes/dr-pal/how-millets-transform-your-gut-body-health-frbWduZt8bc.md) — [YouTube](https://www.youtube.com/watch?v=frbWduZt8bc)
-- ⏳ From White Rice to Ghee: What’s Hurting Your Health — [YouTube](https://www.youtube.com/watch?v=AytcD203TvM)
-- ⏳ What You’re Missing About Protein & Real Nutrition (Doctor Explains) — [YouTube](https://www.youtube.com/watch?v=YWtIfwQT9b0)
+- ✅ [From White Rice to Ghee: What’s Hurting Your Health](episodes/dr-pal/from-white-rice-to-ghee-what-s-hurting-your-health-AytcD203TvM.md) — [YouTube](https://www.youtube.com/watch?v=AytcD203TvM)
+- ✅ [What You’re Missing About Protein & Real Nutrition (Doctor Explains)](episodes/dr-pal/what-you-re-missing-about-protein-real-nutrition-doctor-explains-YWtIfwQT9b0.md) — [YouTube](https://www.youtube.com/watch?v=YWtIfwQT9b0)
 - ⏳ Hormonal Imbalance In Women: Signs, Causes & What To Do — [YouTube](https://www.youtube.com/watch?v=QOTMT0m7AGk)
 - ⏳ Why Modern Diets Are Destroying Your Gut Microbiome | Millet Scientist Explains — [YouTube](https://www.youtube.com/watch?v=lnxQULOZxhQ)
 - ⏳ Stop Ruining Your Eyes: Screen Habits, Dry Eyes, Blue Light & HOW LASIK or SILK Helps — [YouTube](https://www.youtube.com/watch?v=458JljtmXRU)

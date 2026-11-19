@@ -213,8 +213,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=AytcD203TvM",
-      "status": "pending",
-      "file": "episodes/dr-pal/from-white-rice-to-ghee-what-s-hurting-your-health-AytcD203TvM.md"
+      "status": "done",
+      "file": "episodes/dr-pal/from-white-rice-to-ghee-what-s-hurting-your-health-AytcD203TvM.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "YWtIfwQT9b0",
@@ -222,8 +223,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=YWtIfwQT9b0",
-      "status": "pending",
-      "file": "episodes/dr-pal/what-you-re-missing-about-protein-real-nutrition-doctor-explains-YWtIfwQT9b0.md"
+      "status": "done",
+      "file": "episodes/dr-pal/what-you-re-missing-about-protein-real-nutrition-doctor-explains-YWtIfwQT9b0.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "QOTMT0m7AGk",
