@@ -3622,8 +3622,9 @@
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=VYta88JUbBs",
-      "status": "pending",
-      "file": "episodes/diary-of-a-ceo/dr-rangan-chatterjee-3-steps-to-core-happiness-VYta88JUbBs.md"
+      "status": "done",
+      "file": "episodes/diary-of-a-ceo/dr-rangan-chatterjee-3-steps-to-core-happiness-VYta88JUbBs.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "1DV6I5hK6ro",
@@ -3690,8 +3691,9 @@
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=yH5YplNDjJM",
-      "status": "pending",
-      "file": "episodes/diary-of-a-ceo/a-billionaire-s-guide-to-healing-your-mind-and-extending-your-life-chr-yH5YplNDjJM.md"
+      "status": "done",
+      "file": "episodes/diary-of-a-ceo/a-billionaire-s-guide-to-healing-your-mind-and-extending-your-life-chr-yH5YplNDjJM.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "18iBvgUbSMk",
@@ -3699,8 +3701,9 @@
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=18iBvgUbSMk",
-      "status": "pending",
-      "file": "episodes/diary-of-a-ceo/the-secret-to-a-good-nights-sleep-with-stephanie-romiszewski-18iBvgUbSMk.md"
+      "status": "done",
+      "file": "episodes/diary-of-a-ceo/the-secret-to-a-good-nights-sleep-with-stephanie-romiszewski-18iBvgUbSMk.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "OZN7xRCAz58",
@@ -3708,8 +3711,9 @@
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=OZN7xRCAz58",
-      "status": "pending",
-      "file": "episodes/diary-of-a-ceo/addiction-childhood-trauma-and-depression-with-joe-wicks-the-body-coac-OZN7xRCAz58.md"
+      "status": "done",
+      "file": "episodes/diary-of-a-ceo/addiction-childhood-trauma-and-depression-with-joe-wicks-the-body-coac-OZN7xRCAz58.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "P51RrJvsWXE",
@@ -3717,8 +3721,9 @@
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=P51RrJvsWXE",
-      "status": "pending",
-      "file": "episodes/diary-of-a-ceo/overcoming-depression-burnout-anxiety-and-insomnia-with-dan-murray-ser-P51RrJvsWXE.md"
+      "status": "done",
+      "file": "episodes/diary-of-a-ceo/overcoming-depression-burnout-anxiety-and-insomnia-with-dan-murray-ser-P51RrJvsWXE.md",
+      "collected": "2026-11-18"
     }
   ]
 }
