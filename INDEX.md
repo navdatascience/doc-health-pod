@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**162 of 372 episodes collected** · Updated 2026-11-18
+**177 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 100 / 101 done
-- Raj Shamani (health): 60 / 104 done
-- The Diary Of A CEO (health): 2 / 167 done
+- Raj Shamani (health): 62 / 104 done
+- The Diary Of A CEO (health): 15 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -139,8 +139,8 @@
 - ✅ [Fever Can Damage Heart, Brain & Bones - Treatment & Home Remedies | Dr Navneet | FO451 Raj Shamani](episodes/raj-shamani/fever-can-damage-heart-brain-bones-treatment-home-remedies-pZB9Y3OHL1w.md) — [YouTube](https://www.youtube.com/watch?v=pZB9Y3OHL1w)
 - ✅ [How Money Changes Relationships: Toxic Marriages, Men vs Women & Pain | Dr Sarthak | FO449 Raj Sh...](episodes/raj-shamani/how-money-changes-relationships-toxic-marriages-men-vs-women-pain-483owj7dzIw.md) — [YouTube](https://www.youtube.com/watch?v=483owj7dzIw)
 - ✅ [Healthy Food Is Slowly Poisoning Your Body | Dimple Jangda | FO448 Raj Shamani](episodes/raj-shamani/healthy-food-is-slowly-poisoning-your-body-n-PkAPZZwn0.md) — [YouTube](https://www.youtube.com/watch?v=n-PkAPZZwn0)
-- ⏳ Gut Health & Sex Connection: Anxiety, Sex Life & Health Risk | Anant Agarwal | FO445 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=x3qyh9XpqAk)
-- ⏳ The Cancer Expert: How To Detect & Beat Cancer & Which Foods Are Causing Cancer? | FO436 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=ejiePMck88s)
+- ✅ [Gut Health & Sex Connection: Anxiety, Sex Life & Health Risk | Anant Agarwal | FO445 Raj Shamani](episodes/raj-shamani/gut-health-sex-connection-anxiety-sex-life-health-risk-x3qyh9XpqAk.md) — [YouTube](https://www.youtube.com/watch?v=x3qyh9XpqAk)
+- ✅ [The Cancer Expert: How To Detect & Beat Cancer & Which Foods Are Causing Cancer? | FO436 Raj Shamani](episodes/raj-shamani/the-cancer-expert-how-to-detect-beat-cancer-which-foods-are-causing-ca-ejiePMck88s.md) — [YouTube](https://www.youtube.com/watch?v=ejiePMck88s)
 - ⏳ Use 100% of Your Brain: Power Foods, Discipline, Focus & Lifestyle | Dr. Sajeev | FO434 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=zrdFjOltFJ0)
 - ⏳ Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat | Pooja Makhija | FO433 Raj Shamani — [YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)
 - ✅ [Your Family is at Risk: Harmful Gases from Kitchen, Walls & Car | BreatheEasy | FO426 Raj Shamani](episodes/raj-shamani/your-family-is-at-risk-harmful-gases-from-kitchen-walls-car-RKxuKMhaMnI.md) — [YouTube](https://www.youtube.com/watch?v=RKxuKMhaMnI)
@@ -220,21 +220,21 @@
 ## The Diary Of A CEO — health episodes
 
 - ✅ [The Brain Doctor That Figured Out The Cause Of Dementia - Dr. David Perlmutter](episodes/diary-of-a-ceo/the-brain-doctor-that-figured-out-the-cause-of-dementia-dr-david-perlm-FRoQOzZRcpw.md) — [YouTube](https://www.youtube.com/watch?v=FRoQOzZRcpw)
-- ⏳ Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef — [YouTube](https://www.youtube.com/watch?v=yePLuwL3FbM)
+- ✅ [Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef](episodes/diary-of-a-ceo/phone-addiction-scientist-doing-this-gives-you-an-hour-back-every-day-yePLuwL3FbM.md) — [YouTube](https://www.youtube.com/watch?v=yePLuwL3FbM)
 - ⏳ Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted — [YouTube](https://www.youtube.com/watch?v=MGxcosNuC8k)
-- ⏳ Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive! — [YouTube](https://www.youtube.com/watch?v=Ppyt3MptX5k)
-- ⏳ Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin — [YouTube](https://www.youtube.com/watch?v=dmz--DQty8o)
-- ⏳ Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak — [YouTube](https://www.youtube.com/watch?v=BbGv7GTbRN8)
-- ⏳ Cancer Researcher: The Overlooked Research Cancer Patients Should Know — [YouTube](https://www.youtube.com/watch?v=kBm8Ho-_RXM)
-- ⏳ The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease! — [YouTube](https://www.youtube.com/watch?v=6xlmaorRY0w)
-- ⏳ Women’s Fitness Expert: What You NEED To Know About Dieting & Exercise | Dr. Stephanie Estima — [YouTube](https://www.youtube.com/watch?v=HwVn3WMv5oI)
-- ⏳ Dr Rachel Rubin: "I'm Filled With Rage!" Your Doctor Was Never Taught About Women's Bodies! — [YouTube](https://www.youtube.com/watch?v=MM-Qhlxf1pM)
-- ⏳ Creatine Expert: Creatine Is The Secret To Weight Loss — [YouTube](https://www.youtube.com/watch?v=Jk7RAkFN4vk)
-- ⏳ Fatty Liver Expert: The Toxic Ingredient Silently Filling Your Liver With Fat - Dr David Unwin — [YouTube](https://www.youtube.com/watch?v=zc8Nh4TMB1s)
-- ⏳ Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You! — [YouTube](https://www.youtube.com/watch?v=m-nnyNZ0TQ0)
+- ✅ [Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!](episodes/diary-of-a-ceo/testosterone-expert-the-truth-about-dad-bod-why-women-find-fathers-mor-Ppyt3MptX5k.md) — [YouTube](https://www.youtube.com/watch?v=Ppyt3MptX5k)
+- ✅ [Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin](episodes/diary-of-a-ceo/fat-loss-scientist-it-s-easy-to-lose-weight-but-here-s-why-you-won-t-d-dmz--DQty8o.md) — [YouTube](https://www.youtube.com/watch?v=dmz--DQty8o)
+- ✅ [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak](episodes/diary-of-a-ceo/vitamin-d-expert-the-supplement-world-is-giving-the-wrong-advice-BbGv7GTbRN8.md) — [YouTube](https://www.youtube.com/watch?v=BbGv7GTbRN8)
+- ✅ [Cancer Researcher: The Overlooked Research Cancer Patients Should Know](episodes/diary-of-a-ceo/cancer-researcher-the-overlooked-research-cancer-patients-should-know-kBm8Ho-_RXM.md) — [YouTube](https://www.youtube.com/watch?v=kBm8Ho-_RXM)
+- ✅ [The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease!](episodes/diary-of-a-ceo/the-mitochondria-doctor-this-reverses-gray-hair-makes-you-feel-young-a-6xlmaorRY0w.md) — [YouTube](https://www.youtube.com/watch?v=6xlmaorRY0w)
+- ✅ [Women’s Fitness Expert: What You NEED To Know About Dieting & Exercise | Dr. Stephanie Estima](episodes/diary-of-a-ceo/women-s-fitness-expert-what-you-need-to-know-about-dieting-exercise-HwVn3WMv5oI.md) — [YouTube](https://www.youtube.com/watch?v=HwVn3WMv5oI)
+- ✅ [Dr Rachel Rubin: "I'm Filled With Rage!" Your Doctor Was Never Taught About Women's Bodies!](episodes/diary-of-a-ceo/dr-rachel-rubin-i-m-filled-with-rage-your-doctor-was-never-taught-abou-MM-Qhlxf1pM.md) — [YouTube](https://www.youtube.com/watch?v=MM-Qhlxf1pM)
+- ✅ [Creatine Expert: Creatine Is The Secret To Weight Loss](episodes/diary-of-a-ceo/creatine-expert-creatine-is-the-secret-to-weight-loss-Jk7RAkFN4vk.md) — [YouTube](https://www.youtube.com/watch?v=Jk7RAkFN4vk)
+- ✅ [Fatty Liver Expert: The Toxic Ingredient Silently Filling Your Liver With Fat - Dr David Unwin](episodes/diary-of-a-ceo/fatty-liver-expert-the-toxic-ingredient-silently-filling-your-liver-wi-zc8Nh4TMB1s.md) — [YouTube](https://www.youtube.com/watch?v=zc8Nh4TMB1s)
+- ✅ [Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!](episodes/diary-of-a-ceo/stanford-neuroscientist-can-t-remember-your-dreams-your-brain-may-be-w-m-nnyNZ0TQ0.md) — [YouTube](https://www.youtube.com/watch?v=m-nnyNZ0TQ0)
 - ⏳ Peptide Expert: What Do Peptides Actually Do? (EXPLAINED) - Dr Alex Tatem — [YouTube](https://www.youtube.com/watch?v=jt5hHb6kzYM)
-- ⏳ Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat! — [YouTube](https://www.youtube.com/watch?v=PyhmvAL-iYw)
-- ⏳ Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests! — [YouTube](https://www.youtube.com/watch?v=DnvWAP99r3Y)
+- ✅ [Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat!](episodes/diary-of-a-ceo/anti-aging-expert-stop-touching-receipts-immediately-the-fast-way-to-s-PyhmvAL-iYw.md) — [YouTube](https://www.youtube.com/watch?v=PyhmvAL-iYw)
+- ✅ [Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!](episodes/diary-of-a-ceo/dr-david-sinclair-can-aging-be-reversed-after-8-weeks-cells-appeared-7-DnvWAP99r3Y.md) — [YouTube](https://www.youtube.com/watch?v=DnvWAP99r3Y)
 - ⏳ They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You — [YouTube](https://www.youtube.com/watch?v=Xm_PHZXGe-w)
 - ⏳ Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This! — [YouTube](https://www.youtube.com/watch?v=pXlMKzcZlwM)
 - ⏳ Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s — [YouTube](https://www.youtube.com/watch?v=0t_DD5568RA)
