@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**283 of 372 episodes collected** · Updated 2026-11-18
+**285 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 79 / 167 done
+- The Diary Of A CEO (health): 81 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -286,8 +286,8 @@
 - ✅ [Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show!](episodes/diary-of-a-ceo/trevor-noah-my-depression-was-linked-to-adhd-why-i-left-the-daily-show-FsztuzyXdhY.md) — [YouTube](https://www.youtube.com/watch?v=FsztuzyXdhY)
 - ✅ [The Cancer Doctor: "This Common Food Is Making Cancer Worse!"](episodes/diary-of-a-ceo/the-cancer-doctor-this-common-food-is-making-cancer-worse-VaVC3PAWqLk.md) — [YouTube](https://www.youtube.com/watch?v=VaVC3PAWqLk)
 - ✅ [The No.1 Eye Doctor: They’re Lying To You About Blue Light! The Truth About Floaters!](episodes/diary-of-a-ceo/the-no-1-eye-doctor-they-re-lying-to-you-about-blue-light-the-truth-ab-SWjzjClBCO4.md) — [YouTube](https://www.youtube.com/watch?v=SWjzjClBCO4)
-- ⏳ Dr K: We Are Producing Millions Of Lonely, Addicted, Purposeless Men & Women! — [YouTube](https://www.youtube.com/watch?v=P1ALkQMfkjc)
-- ⏳ The Anti-Obesity Doctor: If You Don't Exercise, This Is What's Happening To You! - Gabrielle Lyon — [YouTube](https://www.youtube.com/watch?v=2j3T4oYJPfI)
+- ✅ [Dr K: We Are Producing Millions Of Lonely, Addicted, Purposeless Men & Women!](episodes/diary-of-a-ceo/dr-k-we-are-producing-millions-of-lonely-addicted-purposeless-men-wome-P1ALkQMfkjc.md) — [YouTube](https://www.youtube.com/watch?v=P1ALkQMfkjc)
+- ✅ [The Anti-Obesity Doctor: If You Don't Exercise, This Is What's Happening To You! - Gabrielle Lyon](episodes/diary-of-a-ceo/the-anti-obesity-doctor-if-you-don-t-exercise-this-is-what-s-happening-2j3T4oYJPfI.md) — [YouTube](https://www.youtube.com/watch?v=2j3T4oYJPfI)
 - ✅ [Glucose Goddess: The 10 Glucose Hacks!](episodes/diary-of-a-ceo/glucose-goddess-the-10-glucose-hacks-3esF-pNAM9c.md) — [YouTube](https://www.youtube.com/watch?v=3esF-pNAM9c)
 - ✅ [The Gottman Doctors: Affairs Can Save Your Relationship! If You See This, Walk Away!](episodes/diary-of-a-ceo/the-gottman-doctors-affairs-can-save-your-relationship-if-you-see-this-H9kPmiV0B34.md) — [YouTube](https://www.youtube.com/watch?v=H9kPmiV0B34)
 - ✅ [The Muscle Building Expert: They’re Lying To You About Workout Hours! Dr Michael Israetel](episodes/diary-of-a-ceo/the-muscle-building-expert-they-re-lying-to-you-about-workout-hours-dr-OTrTqs9FLq0.md) — [YouTube](https://www.youtube.com/watch?v=OTrTqs9FLq0)
