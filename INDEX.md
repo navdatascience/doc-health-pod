@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**44 of 372 episodes collected** · Updated 2026-11-18
+**48 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 40 / 101 done
+- Dr Pal Podcast Playlist: 44 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -33,7 +33,7 @@
 - ✅ [Hormonal Imbalance In Women: Signs, Causes & What To Do](episodes/dr-pal/hormonal-imbalance-in-women-signs-causes-what-to-do-QOTMT0m7AGk.md) — [YouTube](https://www.youtube.com/watch?v=QOTMT0m7AGk)
 - ✅ [Why Modern Diets Are Destroying Your Gut Microbiome | Millet Scientist Explains](episodes/dr-pal/why-modern-diets-are-destroying-your-gut-microbiome-lnxQULOZxhQ.md) — [YouTube](https://www.youtube.com/watch?v=lnxQULOZxhQ)
 - ✅ [Stop Ruining Your Eyes: Screen Habits, Dry Eyes, Blue Light & HOW LASIK or SILK Helps](episodes/dr-pal/stop-ruining-your-eyes-screen-habits-dry-eyes-blue-light-how-lasik-or-458JljtmXRU.md) — [YouTube](https://www.youtube.com/watch?v=458JljtmXRU)
-- ⏳ The Daily Mistake That Leads to Gas, Acidity & Poor Digestion — [YouTube](https://www.youtube.com/watch?v=h4ytcE2td5I)
+- ✅ [The Daily Mistake That Leads to Gas, Acidity & Poor Digestion](episodes/dr-pal/the-daily-mistake-that-leads-to-gas-acidity-poor-digestion-h4ytcE2td5I.md) — [YouTube](https://www.youtube.com/watch?v=h4ytcE2td5I)
 - ✅ [Food, Protein & Diabetes: What Indians Are Getting Wrong About Health](episodes/dr-pal/food-protein-diabetes-what-indians-are-getting-wrong-about-health-2yHNxglDS7w.md) — [YouTube](https://www.youtube.com/watch?v=2yHNxglDS7w)
 - ✅ [Why Cancer Is Rising Among Women (And What You Can Do Early)](episodes/dr-pal/why-cancer-is-rising-among-women-and-what-you-can-do-early-wNKwE-vXCgo.md) — [YouTube](https://www.youtube.com/watch?v=wNKwE-vXCgo)
 - ✅ [Rewire Your Brain: Dopamine, Stress & Focus Explained](episodes/dr-pal/rewire-your-brain-dopamine-stress-focus-explained-YYMBB7H1BPY.md) — [YouTube](https://www.youtube.com/watch?v=YYMBB7H1BPY)
@@ -44,7 +44,7 @@
 - ✅ [The Hidden Dangers That Damage Your Heart & How to Prevent Them](episodes/dr-pal/the-hidden-dangers-that-damage-your-heart-how-to-prevent-them-xIX_zZK15Pk.md) — [YouTube](https://www.youtube.com/watch?v=xIX_zZK15Pk)
 - ✅ [The Shocking Truth Behind Insurance & Hospital Bills in India I Dr. Praveen Raj](episodes/dr-pal/the-shocking-truth-behind-insurance-hospital-bills-in-india-i-dr-prave-ZHt3-vMkAxg.md) — [YouTube](https://www.youtube.com/watch?v=ZHt3-vMkAxg)
 - ✅ [How to Fix Your Hormones, Cravings & Weight… Without Starving Yourself.](episodes/dr-pal/how-to-fix-your-hormones-cravings-weight-without-starving-yourself-ZbOrjYZvK5w.md) — [YouTube](https://www.youtube.com/watch?v=ZbOrjYZvK5w)
-- ⏳ Popcorn, Filter Coffee & Gut Bacteria - Sathish x Dr. Pal Podcast! — [YouTube](https://www.youtube.com/watch?v=AS_EBoiWjtY)
+- ✅ [Popcorn, Filter Coffee & Gut Bacteria - Sathish x Dr. Pal Podcast!](episodes/dr-pal/popcorn-filter-coffee-gut-bacteria-sathish-x-dr-pal-podcast-AS_EBoiWjtY.md) — [YouTube](https://www.youtube.com/watch?v=AS_EBoiWjtY)
 - ✅ [Complete Pregnancy Guide: IVF, Egg Freezing & Infertility Explained](episodes/dr-pal/complete-pregnancy-guide-ivf-egg-freezing-infertility-explained-9_ZMllr9jWY.md) — [YouTube](https://www.youtube.com/watch?v=9_ZMllr9jWY)
 - ✅ [Complete Guide to Bone Health | Fix Your Bones and Joints at Home](episodes/dr-pal/complete-guide-to-bone-health-kMtAz30M_L4.md) — [YouTube](https://www.youtube.com/watch?v=kMtAz30M_L4)
 - ✅ [Eye Health Explained: Vision Problems, LASIK & Dry Eyes](episodes/dr-pal/eye-health-explained-vision-problems-lasik-dry-eyes-FvTo2AbxRM0.md) — [YouTube](https://www.youtube.com/watch?v=FvTo2AbxRM0)
@@ -66,8 +66,8 @@
 - ⏳ Dating, Gen Z Slang, Food, & Jokes. This Podcast is a Vibe! 😉 | Dr. Pal | Abhishek Kumar | — [YouTube](https://www.youtube.com/watch?v=sBaAbt6atOs)
 - ⏳ Why are you addicted to red flags, validation & chaos? | Dr. Pal | Gayathri | — [YouTube](https://www.youtube.com/watch?v=pD3U-RXo22U)
 - ⏳ Back Pain & Knee Pain? Dr’s Advice for Healthy Bones I Dr. Pal | Dr Sathish — [YouTube](https://www.youtube.com/watch?v=l8jSxpFH5wU)
-- ⏳ Why Dhoni is unstoppable? ! @Cric It with Badri   | Dr Pal| #csk — [YouTube](https://www.youtube.com/watch?v=TkiZPhJ4gM4)
-- ⏳ 99% of Women Don’t Know This About Pregnancy! | Dr. Pal | Dr. Sandhya Vasan | #drpal #pregnancy — [YouTube](https://www.youtube.com/watch?v=gi9FMDfCO8U)
+- ✅ [Why Dhoni is unstoppable? ! @Cric It with Badri   | Dr Pal| #csk](episodes/dr-pal/why-dhoni-is-unstoppable-cric-it-with-badri-TkiZPhJ4gM4.md) — [YouTube](https://www.youtube.com/watch?v=TkiZPhJ4gM4)
+- ✅ [99% of Women Don’t Know This About Pregnancy! | Dr. Pal | Dr. Sandhya Vasan | #drpal #pregnancy](episodes/dr-pal/99-of-women-don-t-know-this-about-pregnancy-gi9FMDfCO8U.md) — [YouTube](https://www.youtube.com/watch?v=gi9FMDfCO8U)
 - ⏳ The #1 Mistake in Your Skincare Routine That No One Talks About! | Dr. Renita Rajan | Dr Pal — [YouTube](https://www.youtube.com/watch?v=0BtvfsjD3Vc)
 - ⏳ The Diet Fix You NEED ! | Celebrity Nutritionist - Shiny Surendran | Dr Pal — [YouTube](https://www.youtube.com/watch?v=rsvXAsUP42c)
 - ⏳ Actress Anu Hasan Breaking Myths on Life, Mental Wellbeing and Fitness | Dr Pal — [YouTube](https://www.youtube.com/watch?v=K7AlmyFl1Xs)
