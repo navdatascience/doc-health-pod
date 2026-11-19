@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**105 of 372 episodes collected** · Updated 2026-11-18
+**106 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 99 / 101 done
+- Dr Pal Podcast Playlist: 100 / 101 done
 - Raj Shamani (health): 4 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -93,7 +93,7 @@
 - ✅ [The Best Podcast for Women of All Ages, 10-60 Years | Dr Anjali Kumar, India's Top Gynaecologist](episodes/dr-pal/the-best-podcast-for-women-of-all-ages-10-60-years-vq2ZUSvWjJ0.md) — [YouTube](https://www.youtube.com/watch?v=vq2ZUSvWjJ0)
 - ✅ [Arvind Bhateja, Neurosurgeon: India's Leading Brain Expert -The Shocking Link Between Sleep & Stroke](episodes/dr-pal/arvind-bhateja-neurosurgeon-india-s-leading-brain-expert-the-shocking-yeWHSGpfQ-4.md) — [YouTube](https://www.youtube.com/watch?v=yeWHSGpfQ-4)
 - ✅ [All About How & When to Eat Millets - Health Benefits & Side Effects of Millets Explained by Dr Rao](episodes/dr-pal/all-about-how-when-to-eat-millets-health-benefits-side-effects-of-mill-gKBwKbunTJA.md) — [YouTube](https://www.youtube.com/watch?v=gKBwKbunTJA)
-- ⏳ Good & Bad Gut Bacteria: Fun & Healthy Conversation with Alexander Babu (With Singing and Mimicry) — [YouTube](https://www.youtube.com/watch?v=d8b9v_zEnIU)
+- ✅ [Good & Bad Gut Bacteria: Fun & Healthy Conversation with Alexander Babu (With Singing and Mimicry)](episodes/dr-pal/good-bad-gut-bacteria-fun-healthy-conversation-with-alexander-babu-wit-d8b9v_zEnIU.md) — [YouTube](https://www.youtube.com/watch?v=d8b9v_zEnIU)
 - ✅ [Understanding Insulin Resistance: What We Eat is Directly Linked to Prediabetes!@Doctor Arunkumar](episodes/dr-pal/understanding-insulin-resistance-what-we-eat-is-directly-linked-to-pre-YkCGJrEf-kU.md) — [YouTube](https://www.youtube.com/watch?v=YkCGJrEf-kU)
 - ✅ [The Science of Eating for Health, Importance of Fiber, Fat Loss Tips & Building Muscles ft@Zealocity](episodes/dr-pal/the-science-of-eating-for-health-importance-of-fiber-fat-loss-tips-bui-WTrjC3G11Tc.md) — [YouTube](https://www.youtube.com/watch?v=WTrjC3G11Tc)
 - ✅ [How Wrong Food Is Destroying Your Gut Health? ft Chef Venkatesh Bhat](episodes/dr-pal/how-wrong-food-is-destroying-your-gut-health-ft-chef-venkatesh-bhat-Swxp6RmAXlQ.md) — [YouTube](https://www.youtube.com/watch?v=Swxp6RmAXlQ)

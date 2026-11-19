@@ -863,8 +863,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=d8b9v_zEnIU",
-      "status": "pending",
-      "file": "episodes/dr-pal/good-bad-gut-bacteria-fun-healthy-conversation-with-alexander-babu-wit-d8b9v_zEnIU.md"
+      "status": "done",
+      "file": "episodes/dr-pal/good-bad-gut-bacteria-fun-healthy-conversation-with-alexander-babu-wit-d8b9v_zEnIU.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "YkCGJrEf-kU",
