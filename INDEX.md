@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**259 of 372 episodes collected** · Updated 2026-11-18
+**265 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 55 / 167 done
+- The Diary Of A CEO (health): 61 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -263,7 +263,7 @@
 - ✅ [Alcohol Rewires Your Brain - Dr. Sarah Wakeman](episodes/diary-of-a-ceo/alcohol-rewires-your-brain-dr-sarah-wakeman-Fg7U-BhiZGE.md) — [YouTube](https://www.youtube.com/watch?v=Fg7U-BhiZGE)
 - ✅ [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](episodes/diary-of-a-ceo/this-common-food-is-feeding-your-cancer-cells-dr-william-li-LgsJ3V9pIG0.md) — [YouTube](https://www.youtube.com/watch?v=LgsJ3V9pIG0)
 - ✅ [Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions!](episodes/diary-of-a-ceo/shaolin-warrior-master-hidden-epidemic-nobody-talks-about-this-modern-atejm2w2jWY.md) — [YouTube](https://www.youtube.com/watch?v=atejm2w2jWY)
-- ⏳ No.1  Neuroscientist: you can change who you are in 30 days — [YouTube](https://www.youtube.com/watch?v=rCtvAvZtJyE)
+- ✅ [No.1  Neuroscientist: you can change who you are in 30 days](episodes/diary-of-a-ceo/no-1-neuroscientist-you-can-change-who-you-are-in-30-days-rCtvAvZtJyE.md) — [YouTube](https://www.youtube.com/watch?v=rCtvAvZtJyE)
 - ✅ [Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You’ll Die In A Year If This Happens!](episodes/diary-of-a-ceo/peter-attia-anti-aging-cure-no-one-talks-about-50-chance-you-ll-die-in-ZxXruY7llcc.md) — [YouTube](https://www.youtube.com/watch?v=ZxXruY7llcc)
 - ✅ [Hormone Expert: Control Your Hormones Control Your Belly Fat! Cortisol, Oestrogen, Testosterone](episodes/diary-of-a-ceo/hormone-expert-control-your-hormones-control-your-belly-fat-cortisol-o-0GQozcTPyO0.md) — [YouTube](https://www.youtube.com/watch?v=0GQozcTPyO0)
 - ✅ [Secret To Living Without Fear & Anxiety Forever! Your Mind Can Heal Itself! - Dr. Joe Dispenza](episodes/diary-of-a-ceo/secret-to-living-without-fear-anxiety-forever-your-mind-can-heal-itsel-G4hkYDjPSFs.md) — [YouTube](https://www.youtube.com/watch?v=G4hkYDjPSFs)
@@ -272,14 +272,14 @@
 - ✅ [The Sex Psychologist: We're Not Having Enough Sex! Fat Makes You Attractive! Dr Bill Von Hippel](episodes/diary-of-a-ceo/the-sex-psychologist-we-re-not-having-enough-sex-fat-makes-you-attract-9gk3mNJs2FY.md) — [YouTube](https://www.youtube.com/watch?v=9gk3mNJs2FY)
 - ✅ [The No.1 Brain Doctor: This Parenting Mistake Ruins Your Kids Brain & Alcohol Will Ruin Yours!](episodes/diary-of-a-ceo/the-no-1-brain-doctor-this-parenting-mistake-ruins-your-kids-brain-alc-bOi_Y4ythYY.md) — [YouTube](https://www.youtube.com/watch?v=bOi_Y4ythYY)
 - ✅ [The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!](episodes/diary-of-a-ceo/the-insulin-glucose-doctor-this-will-strip-your-fat-faster-than-anythi-NyFSkGMWP5Q.md) — [YouTube](https://www.youtube.com/watch?v=NyFSkGMWP5Q)
-- ⏳ The Nutritional Scientist: Do Not Eat After 9pm! Link Between Chewing & Belly Fat! — [YouTube](https://www.youtube.com/watch?v=eOnIWDMNyfE)
-- ⏳ The Keto Psychiatrist: What Keto Is Really Doing To Your Body! Can It Cure 43% Of Mental Illness? — [YouTube](https://www.youtube.com/watch?v=B7tnfSPySb0)
-- ⏳ Get Your Sex Life Back! What Everyone Gets Wrong About Sex, Libido & Erectile Dysfunction - Dr Khera — [YouTube](https://www.youtube.com/watch?v=IgW1jepnJp4)
-- ⏳ Exercise & Nutrition Scientist: The Truth About Exercise On Your Period! Take These 4 Supplements! — [YouTube](https://www.youtube.com/watch?v=It5_C6AF1pk)
+- ✅ [The Nutritional Scientist: Do Not Eat After 9pm! Link Between Chewing & Belly Fat!](episodes/diary-of-a-ceo/the-nutritional-scientist-do-not-eat-after-9pm-link-between-chewing-be-eOnIWDMNyfE.md) — [YouTube](https://www.youtube.com/watch?v=eOnIWDMNyfE)
+- ✅ [The Keto Psychiatrist: What Keto Is Really Doing To Your Body! Can It Cure 43% Of Mental Illness?](episodes/diary-of-a-ceo/the-keto-psychiatrist-what-keto-is-really-doing-to-your-body-can-it-cu-B7tnfSPySb0.md) — [YouTube](https://www.youtube.com/watch?v=B7tnfSPySb0)
+- ✅ [Get Your Sex Life Back! What Everyone Gets Wrong About Sex, Libido & Erectile Dysfunction - Dr Khera](episodes/diary-of-a-ceo/get-your-sex-life-back-what-everyone-gets-wrong-about-sex-libido-erect-IgW1jepnJp4.md) — [YouTube](https://www.youtube.com/watch?v=IgW1jepnJp4)
+- ✅ [Exercise & Nutrition Scientist: The Truth About Exercise On Your Period! Take These 4 Supplements!](episodes/diary-of-a-ceo/exercise-nutrition-scientist-the-truth-about-exercise-on-your-period-t-It5_C6AF1pk.md) — [YouTube](https://www.youtube.com/watch?v=It5_C6AF1pk)
 - ✅ [Dopamine Expert: Scrolling Works Just Like Alcohol, Do This For 30 Days!](episodes/diary-of-a-ceo/dopamine-expert-scrolling-works-just-like-alcohol-do-this-for-30-days-R6xbXOp7wDA.md) — [YouTube](https://www.youtube.com/watch?v=R6xbXOp7wDA)
 - ✅ [The Body Trauma Expert: This Eye Movement Trick Can Fix Your Trauma! The Body Keeps The Score!](episodes/diary-of-a-ceo/the-body-trauma-expert-this-eye-movement-trick-can-fix-your-trauma-the-Qx5J5nwDBTo.md) — [YouTube](https://www.youtube.com/watch?v=Qx5J5nwDBTo)
 - ✅ [Dr. Martha Beck (Oprah's Life Coach): This Weird Trick Reduces Anxiety & Fixed My Childhood Trauma!](episodes/diary-of-a-ceo/dr-martha-beck-oprah-s-life-coach-this-weird-trick-reduces-anxiety-fix-fajtQSCHfvE.md) — [YouTube](https://www.youtube.com/watch?v=fajtQSCHfvE)
-- ⏳ Body Language Expert: Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes! — [YouTube](https://www.youtube.com/watch?v=VHUrdELKjDw)
+- ✅ [Body Language Expert: Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes!](episodes/diary-of-a-ceo/body-language-expert-stop-using-this-it-s-making-people-dislike-you-so-VHUrdELKjDw.md) — [YouTube](https://www.youtube.com/watch?v=VHUrdELKjDw)
 - ⏳ Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner! — [YouTube](https://www.youtube.com/watch?v=MGposaKNJKQ)
 - ⏳ Dr Sampson: Your Oral Microbiome Is Linked To This Disease! — [YouTube](https://www.youtube.com/watch?v=p3fSwd1cF08)
 - ⏳ Explicit Content Debate: The Unseen Dangers Of Nofap & The Adult Industry Is Exploiting Our Brains! — [YouTube](https://www.youtube.com/watch?v=8LjNUabIJOk)
