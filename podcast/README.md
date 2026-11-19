@@ -12,3 +12,4 @@ A daily 4–5 minute podcast distilled from the [Doctor Health Podcast Library](
 | # | Title | Source guest | Date | Listen |
 |---|-------|--------------|------|--------|
 | 1 | Sleep Like It Matters — Matthew Walker's Best Ideas | Matthew Walker (The Diary Of A CEO) | 2026-11-18 | [MP3](episodes/ep001-sleep-matthew-walker.mp3) · [Notes](episodes/ep001-sleep-matthew-walker.md) |
+| 2 | Why Healthy People Get Heart Attacks | Dr Varun Bansal (Dr Pal) | 2026-11-19 | [MP3](episodes/ep002-heart-attacks-varun-bansal.mp3) · [Notes](episodes/ep002-heart-attacks-varun-bansal.md) |

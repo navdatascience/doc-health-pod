@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/doc-health-pod/podcast/cover.webp"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Health Tidbits Ep 2: Why Healthy People Get Heart Attacks</title>
+      <description>Mimi and Alex distill Dr Pal's conversation with cardiac surgeon Dr Varun Bansal: why family history matters, how a fit 38-year-old ended up with triple-vessel disease, why the amount of cooking oil matters more than the type, and how an 87-year-old improved with post-meal walks.</description>
+      <pubDate>Thu, 19 Nov 2026 14:04:23 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-a3b98ee9-2487-4f07-9592-e597f5cceb3d.mp3" length="2377573" type="audio/mpeg"/>
+      <guid isPermaLink="false">health-tidbits-2026-11-19</guid>
+      <itunes:duration>297</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Health Tidbits Ep 1: Sleep Like It Matters — Matthew Walker's Best Ideas</title>
       <description>Mimi and Alex distill Matthew Walker's Diary Of A CEO sleep episode from Naveen's doctor health podcast library: caffeine's three hidden costs, why sleep debt can't be banked, NASA nap rules, sleep and weight loss, and the 2 a.m. playbook.</description>
       <pubDate>Wed, 19 Nov 2026 03:47:08 +0000</pubDate>
