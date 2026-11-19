@@ -1,8 +1,8 @@
 # Index — Doctor Health Podcast Library
 
-**65 of 372 episodes collected** · Updated 2026-11-18
+**66 of 372 episodes collected** · Updated 2026-11-18
 
-- Dr Pal Podcast Playlist: 61 / 101 done
+- Dr Pal Podcast Playlist: 62 / 101 done
 - Raj Shamani (health): 2 / 104 done
 - The Diary Of A CEO (health): 2 / 167 done
 
@@ -69,7 +69,7 @@
 - ✅ [Why Dhoni is unstoppable? ! @Cric It with Badri   | Dr Pal| #csk](episodes/dr-pal/why-dhoni-is-unstoppable-cric-it-with-badri-TkiZPhJ4gM4.md) — [YouTube](https://www.youtube.com/watch?v=TkiZPhJ4gM4)
 - ✅ [99% of Women Don’t Know This About Pregnancy! | Dr. Pal | Dr. Sandhya Vasan | #drpal #pregnancy](episodes/dr-pal/99-of-women-don-t-know-this-about-pregnancy-gi9FMDfCO8U.md) — [YouTube](https://www.youtube.com/watch?v=gi9FMDfCO8U)
 - ✅ [The #1 Mistake in Your Skincare Routine That No One Talks About! | Dr. Renita Rajan | Dr Pal](episodes/dr-pal/the-1-mistake-in-your-skincare-routine-that-no-one-talks-about-0BtvfsjD3Vc.md) — [YouTube](https://www.youtube.com/watch?v=0BtvfsjD3Vc)
-- ⏳ The Diet Fix You NEED ! | Celebrity Nutritionist - Shiny Surendran | Dr Pal — [YouTube](https://www.youtube.com/watch?v=rsvXAsUP42c)
+- ✅ [The Diet Fix You NEED ! | Celebrity Nutritionist - Shiny Surendran | Dr Pal](episodes/dr-pal/the-diet-fix-you-need-rsvXAsUP42c.md) — [YouTube](https://www.youtube.com/watch?v=rsvXAsUP42c)
 - ⏳ Actress Anu Hasan Breaking Myths on Life, Mental Wellbeing and Fitness | Dr Pal — [YouTube](https://www.youtube.com/watch?v=K7AlmyFl1Xs)
 - ⏳ PCOS & Fertility: What Every Woman Needs to Know! — [YouTube](https://www.youtube.com/watch?v=vJDvYiMbH4A)
 - ⏳ Shocking Truths about Ear Health | Dr Shree Rao - Dr. Rao’s ENT Hospitals | Dr Pal — [YouTube](https://www.youtube.com/watch?v=CAnhyA54tHw)

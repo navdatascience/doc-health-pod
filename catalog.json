@@ -623,8 +623,9 @@
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=rsvXAsUP42c",
-      "status": "pending",
-      "file": "episodes/dr-pal/the-diet-fix-you-need-rsvXAsUP42c.md"
+      "status": "done",
+      "file": "episodes/dr-pal/the-diet-fix-you-need-rsvXAsUP42c.md",
+      "collected": "2026-11-18"
     },
     {
       "id": "K7AlmyFl1Xs",
