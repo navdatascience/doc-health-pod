@@ -1,10 +1,10 @@
 # Index — Doctor Health Podcast Library
 
-**321 of 372 episodes collected** · Updated 2026-11-18
+**331 of 372 episodes collected** · Updated 2026-11-18
 
 - Dr Pal Podcast Playlist: 101 / 101 done
 - Raj Shamani (health): 103 / 104 done
-- The Diary Of A CEO (health): 117 / 167 done
+- The Diary Of A CEO (health): 127 / 167 done
 
 ## Dr Pal Podcast Playlist
 
@@ -344,18 +344,18 @@
 - ⏳ Doctor Gabor Mate: The Shocking Link Between Kindness & Illness! — [YouTube](https://www.youtube.com/watch?v=L7zWT3l3DV0)
 - ⏳ The Food Doctor: Extra Protein Is Making You Fatter!? 6 Food Lies Everyone Still Believes! — [YouTube](https://www.youtube.com/watch?v=7XrntcEUjLM)
 - ⏳ Leading Neuroscientist: Stress Leaks Through Skin, Is Contagious, Gives You Belly Fat! Dr Tara Swart — [YouTube](https://www.youtube.com/watch?v=hCW2NHbWNwA)
-- ⏳ The No.1 Celebrity Therapist: The WEIRD Trick To Get Your Sex Life Back! - Marisa Peer — [YouTube](https://www.youtube.com/watch?v=_y_vSmiNpBE)
-- ⏳ The Breathing Expert: Mouth Breathing Linked To ADHD, Diabetes & Child Sickness! — [YouTube](https://www.youtube.com/watch?v=FyLwVyJ9uXw)
+- ✅ [The No.1 Celebrity Therapist: The WEIRD Trick To Get Your Sex Life Back! - Marisa Peer](episodes/diary-of-a-ceo/the-no-1-celebrity-therapist-the-weird-trick-to-get-your-sex-life-back-_y_vSmiNpBE.md) — [YouTube](https://www.youtube.com/watch?v=_y_vSmiNpBE)
+- ✅ [The Breathing Expert: Mouth Breathing Linked To ADHD, Diabetes & Child Sickness!](episodes/diary-of-a-ceo/the-breathing-expert-mouth-breathing-linked-to-adhd-diabetes-child-sic-FyLwVyJ9uXw.md) — [YouTube](https://www.youtube.com/watch?v=FyLwVyJ9uXw)
 - ⏳ Dr Joe Dispenza: You MUST Do This Before 10am! — [YouTube](https://www.youtube.com/watch?v=rOYlOdDgYUU)
 - ⏳ The Man Thats Ageing Backwards: “I Was 45, I’m Now 18!” - Bryan Johnson — [YouTube](https://www.youtube.com/watch?v=1yfoonW1InE)
-- ⏳ will.i.am Opens Up: Depression, Creativity & ADHD! — [YouTube](https://www.youtube.com/watch?v=1m-2QhqdlfI)
-- ⏳ Shocking TRUE Story: “I Lost Both Of My Legs Because Of A Tampon” (Health Warning) - Lauren Wasser — [YouTube](https://www.youtube.com/watch?v=NB4jZCxRkTw)
-- ⏳ The LIFE-EXTENSION Doctor: "The ONE thing that's increasing your chance of early-death by 170.8%!" — [YouTube](https://www.youtube.com/watch?v=eqPnptAtBJk)
-- ⏳ Rita Ora: “I Lived With Constant Anxiety”…After Being Signed By Jay-Z At 18!!! — [YouTube](https://www.youtube.com/watch?v=om3RWW9GQQ4)
-- ⏳ Harvard Professor: REVEALING The 7 Big LIES About Exercise, Sleep, Running, Cancer & Sugar!!! — [YouTube](https://www.youtube.com/watch?v=ujRwf1HdNjk)
-- ⏳ Steve-O: Childhood Trauma, Addiction, Mocking Death & Craving Attention! — [YouTube](https://www.youtube.com/watch?v=YSWvtGdmUA4)
-- ⏳ The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz | E256 — [YouTube](https://www.youtube.com/watch?v=e2mQOGzHtQc)
-- ⏳ No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted! — [YouTube](https://www.youtube.com/watch?v=rDdoUbCFn24)
+- ✅ [will.i.am Opens Up: Depression, Creativity & ADHD!](episodes/diary-of-a-ceo/will-i-am-opens-up-depression-creativity-adhd-1m-2QhqdlfI.md) — [YouTube](https://www.youtube.com/watch?v=1m-2QhqdlfI)
+- ✅ [Shocking TRUE Story: “I Lost Both Of My Legs Because Of A Tampon” (Health Warning) - Lauren Wasser](episodes/diary-of-a-ceo/shocking-true-story-i-lost-both-of-my-legs-because-of-a-tampon-health-NB4jZCxRkTw.md) — [YouTube](https://www.youtube.com/watch?v=NB4jZCxRkTw)
+- ✅ [The LIFE-EXTENSION Doctor: "The ONE thing that's increasing your chance of early-death by 170.8%!"](episodes/diary-of-a-ceo/the-life-extension-doctor-the-one-thing-that-s-increasing-your-chance-eqPnptAtBJk.md) — [YouTube](https://www.youtube.com/watch?v=eqPnptAtBJk)
+- ✅ [Rita Ora: “I Lived With Constant Anxiety”…After Being Signed By Jay-Z At 18!!!](episodes/diary-of-a-ceo/rita-ora-i-lived-with-constant-anxiety-after-being-signed-by-jay-z-at-om3RWW9GQQ4.md) — [YouTube](https://www.youtube.com/watch?v=om3RWW9GQQ4)
+- ✅ [Harvard Professor: REVEALING The 7 Big LIES About Exercise, Sleep, Running, Cancer & Sugar!!!](episodes/diary-of-a-ceo/harvard-professor-revealing-the-7-big-lies-about-exercise-sleep-runnin-ujRwf1HdNjk.md) — [YouTube](https://www.youtube.com/watch?v=ujRwf1HdNjk)
+- ✅ [Steve-O: Childhood Trauma, Addiction, Mocking Death & Craving Attention!](episodes/diary-of-a-ceo/steve-o-childhood-trauma-addiction-mocking-death-craving-attention-YSWvtGdmUA4.md) — [YouTube](https://www.youtube.com/watch?v=YSWvtGdmUA4)
+- ✅ [The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz | E256](episodes/diary-of-a-ceo/the-miracle-doctor-get-your-sex-life-back-melt-belly-fat-heal-your-inj-e2mQOGzHtQc.md) — [YouTube](https://www.youtube.com/watch?v=e2mQOGzHtQc)
+- ✅ [No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted!](episodes/diary-of-a-ceo/no-1-habit-procrastination-expert-we-ve-got-adhd-wrong-break-any-habit-rDdoUbCFn24.md) — [YouTube](https://www.youtube.com/watch?v=rDdoUbCFn24)
 - ⏳ 10 Life-changing Lessons From The Longest Ever Study On Human Happiness! Dr. Robert Waldinger | E246 — [YouTube](https://www.youtube.com/watch?v=Itg00I2q8lk)
 - ⏳ The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243 — [YouTube](https://www.youtube.com/watch?v=DnEJrgc1BCk)
 - ⏳ The Heart Surgeon: Your Body Cancels Out Your Workout! This Is The Exercise That Actually Works! — [YouTube](https://www.youtube.com/watch?v=V7a8X8AB8yU)
