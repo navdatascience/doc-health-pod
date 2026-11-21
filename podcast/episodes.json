@@ -1,1 +1,42 @@
-[{"audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-71829ec8-b645-4eac-a10a-a80b1df266ad.mp3", "bytes": 2337445, "description": "Mimi and Alex distill Raj Shamani's conversation with Dr Vishakha: fasting safely without daily extremes, why fresh fruit juice and jalebi rank worst, deep sleep over sleep hours with a cool room and a two p.m. caffeine cutoff, blood-test-led supplements with omega three only, and five minutes of long-exhale breathing for stress.", "duration_secs": 292, "guid": "health-tidbits-2026-11-20", "mp3_path": "podcast/episodes/ep003-fasting-sleep-dr-vishakha.mp3", "pub_utc": "2026-11-20T14:03:59+00:00", "title": "Health Tidbits Ep 3: Fasting, Fruit Juice and Deep Sleep"}, {"audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-a3b98ee9-2487-4f07-9592-e597f5cceb3d.mp3", "bytes": 2377573, "description": "Mimi and Alex distill Dr Pal's conversation with cardiac surgeon Dr Varun Bansal: why family history matters, how a fit 38-year-old ended up with triple-vessel disease, why the amount of cooking oil matters more than the type, and how an 87-year-old improved with post-meal walks.", "duration_secs": 297, "guid": "health-tidbits-2026-11-19", "mp3_path": "podcast/episodes/ep002-heart-attacks-varun-bansal.mp3", "pub_utc": "2026-11-19T14:04:23+00:00", "title": "Health Tidbits Ep 2: Why Healthy People Get Heart Attacks"}, {"audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-5d849ac7-da4c-4b67-a938-06e87d721645.mp3", "bytes": 2136229, "description": "Mimi and Alex distill Matthew Walker's Diary Of A CEO sleep episode from Naveen's doctor health podcast library: caffeine's three hidden costs, why sleep debt can't be banked, NASA nap rules, sleep and weight loss, and the 2 a.m. playbook.", "duration_secs": 267, "guid": "health-tidbits-2026-11-18", "mp3_path": "podcast/episodes/ep001-sleep-matthew-walker.mp3", "pub_utc": "2026-11-19T03:47:08+00:00", "title": "Health Tidbits Ep 1: Sleep Like It Matters \u2014 Matthew Walker's Best Ideas"}]
+[
+ {
+  "title": "Health Tidbits Ep 4: Feed Your Gut, Feed Your Brain",
+  "description": "Mimi and Alex distill Professor Tim Spector's Diary Of A CEO microbiome episode: the gut-brain vagus nerve running mostly gut to brain, thirty plants a week, three fermented foods a day, pivoting protein toward fibre, quality over calories, and a twelve to fourteen hour overnight gut rest, plus a caution on his unproven Parkinson's theory and Zoe-linked studies.",
+  "pub_utc": "2026-11-21T14:03:29+00:00",
+  "mp3_path": "podcast/episodes/ep004-gut-brain-tim-spector.mp3",
+  "bytes": 2349541,
+  "duration_secs": 293,
+  "guid": "health-tidbits-2026-11-21",
+  "audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-cc469f5e-a7df-4685-afd2-53b0be81f86f.mp3"
+ },
+ {
+  "audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-71829ec8-b645-4eac-a10a-a80b1df266ad.mp3",
+  "bytes": 2337445,
+  "description": "Mimi and Alex distill Raj Shamani's conversation with Dr Vishakha: fasting safely without daily extremes, why fresh fruit juice and jalebi rank worst, deep sleep over sleep hours with a cool room and a two p.m. caffeine cutoff, blood-test-led supplements with omega three only, and five minutes of long-exhale breathing for stress.",
+  "duration_secs": 292,
+  "guid": "health-tidbits-2026-11-20",
+  "mp3_path": "podcast/episodes/ep003-fasting-sleep-dr-vishakha.mp3",
+  "pub_utc": "2026-11-20T14:03:59+00:00",
+  "title": "Health Tidbits Ep 3: Fasting, Fruit Juice and Deep Sleep"
+ },
+ {
+  "audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-a3b98ee9-2487-4f07-9592-e597f5cceb3d.mp3",
+  "bytes": 2377573,
+  "description": "Mimi and Alex distill Dr Pal's conversation with cardiac surgeon Dr Varun Bansal: why family history matters, how a fit 38-year-old ended up with triple-vessel disease, why the amount of cooking oil matters more than the type, and how an 87-year-old improved with post-meal walks.",
+  "duration_secs": 297,
+  "guid": "health-tidbits-2026-11-19",
+  "mp3_path": "podcast/episodes/ep002-heart-attacks-varun-bansal.mp3",
+  "pub_utc": "2026-11-19T14:04:23+00:00",
+  "title": "Health Tidbits Ep 2: Why Healthy People Get Heart Attacks"
+ },
+ {
+  "audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-5d849ac7-da4c-4b67-a938-06e87d721645.mp3",
+  "bytes": 2136229,
+  "description": "Mimi and Alex distill Matthew Walker's Diary Of A CEO sleep episode from Naveen's doctor health podcast library: caffeine's three hidden costs, why sleep debt can't be banked, NASA nap rules, sleep and weight loss, and the 2 a.m. playbook.",
+  "duration_secs": 267,
+  "guid": "health-tidbits-2026-11-18",
+  "mp3_path": "podcast/episodes/ep001-sleep-matthew-walker.mp3",
+  "pub_utc": "2026-11-19T03:47:08+00:00",
+  "title": "Health Tidbits Ep 1: Sleep Like It Matters \u2014 Matthew Walker's Best Ideas"
+ }
+]
