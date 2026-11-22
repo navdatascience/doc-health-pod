@@ -15,3 +15,4 @@ A daily 4–5 minute podcast distilled from the [Doctor Health Podcast Library](
 | 2 | Why Healthy People Get Heart Attacks | Dr Varun Bansal (Dr Pal) | 2026-11-19 | [MP3](episodes/ep002-heart-attacks-varun-bansal.mp3) · [Notes](episodes/ep002-heart-attacks-varun-bansal.md) |
 | 3 | Fasting, Fruit Juice and Deep Sleep | Dr Vishakha (Raj Shamani) | 2026-11-20 | [MP3](episodes/ep003-fasting-sleep-dr-vishakha.mp3) · [Notes](episodes/ep003-fasting-sleep-dr-vishakha.md) |
 | 4 | Feed Your Gut, Feed Your Brain | Professor Tim Spector (The Diary Of A CEO) | 2026-11-21 | [MP3](episodes/ep004-gut-brain-tim-spector.mp3) · [Notes](episodes/ep004-gut-brain-tim-spector.md) |
+| 5 | Vegetables First — Food, Protein and Diabetes | Dr Nithya Subramaniam (Dr Pal) | 2026-11-22 | [MP3](episodes/ep005-vegetables-first-dr-nithya.mp3) · [Notes](episodes/ep005-vegetables-first-dr-nithya.md) |
