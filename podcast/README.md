@@ -17,3 +17,4 @@ A daily 4–5 minute podcast distilled from the [Doctor Health Podcast Library](
 | 4 | Feed Your Gut, Feed Your Brain | Professor Tim Spector (The Diary Of A CEO) | 2026-11-21 | [MP3](episodes/ep004-gut-brain-tim-spector.mp3) · [Notes](episodes/ep004-gut-brain-tim-spector.md) |
 | 5 | Vegetables First — Food, Protein and Diabetes | Dr Nithya Subramaniam (Dr Pal) | 2026-11-22 | [MP3](episodes/ep005-vegetables-first-dr-nithya.mp3) · [Notes](episodes/ep005-vegetables-first-dr-nithya.md) |
 | 6 | The Tiger That Isn't There — Anxiety, Drive and Your Brain | Vidita Vaidya (Raj Shamani) | 2026-11-23 | [MP3](episodes/ep006-tiger-anxiety-vidita-vaidya.mp3) · [Notes](episodes/ep006-tiger-anxiety-vidita-vaidya.md) |
+| 7 | Can Aging Be Reversed? — David Sinclair on Resetting Cell Age | Dr David Sinclair (The Diary Of A CEO) | 2026-11-24 | [MP3](episodes/ep007-aging-reversed-david-sinclair.mp3) · [Notes](episodes/ep007-aging-reversed-david-sinclair.md) |
