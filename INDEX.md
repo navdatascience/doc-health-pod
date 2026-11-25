@@ -1,13 +1,14 @@
 # Index — Doctor Health Podcast Library
 
-**370 of 372 episodes collected** · Updated 2026-11-18
+**372 of 374 episodes collected** · Updated 2026-11-25
 
-- Dr Pal Podcast Playlist: 101 / 101 done
-- Raj Shamani (health): 103 / 104 done
+- Dr Pal Podcast Playlist: 102 / 102 done
+- Raj Shamani (health): 104 / 105 done
 - The Diary Of A CEO (health): 166 / 167 done
 
 ## Dr Pal Podcast Playlist
 
+- ✅ [Diabetes Epidemic in India: Hidden Fat, Genetics & Things You Must Know!](episodes/dr-pal/diabetes-epidemic-in-india-hidden-fat-genetics-things-you-must-know-lCqfy4-J9cY.md) — [YouTube](https://www.youtube.com/watch?v=lCqfy4-J9cY)
 - ✅ [What Shark Tank Didn't Show You about Prathamesh | Dr. Pal Manickam](episodes/dr-pal/what-shark-tank-didn-t-show-you-about-prathamesh-grHHz3tJXac.md) — [YouTube](https://www.youtube.com/watch?v=grHHz3tJXac)
 - ✅ [Vaginal Discharge: What’s Normal & When Should You See a Doctor? | Dr.Cuterus](episodes/dr-pal/vaginal-discharge-what-s-normal-when-should-you-see-a-doctor-So8nkaAnCCg.md) — [YouTube](https://www.youtube.com/watch?v=So8nkaAnCCg)
 - ✅ [Why Are Indians Getting Sick Despite Eating Healthy?](episodes/dr-pal/why-are-indians-getting-sick-despite-eating-healthy-cq_sc-4EQ3Y.md) — [YouTube](https://www.youtube.com/watch?v=cq_sc-4EQ3Y)
@@ -112,6 +113,7 @@
 
 ## Raj Shamani — health episodes
 
+- ✅ [Top Psychiatrist: What Makes a Criminal Brain Different? | Dr. Daniel Amen | FO590 Raj Shamani](episodes/raj-shamani/top-psychiatrist-what-makes-a-criminal-brain-different-dr-daniel-amen-8ETRd0mgWAI.md) — [YouTube](https://www.youtube.com/watch?v=8ETRd0mgWAI)
 - ✅ [Psychology Of Billionaires, Extreme Ambition & Secrets Of Success | Joe Hudson | FO586 Raj Shamani](episodes/raj-shamani/psychology-of-billionaires-extreme-ambition-secrets-of-success-g9zGQdrAlMw.md) — [YouTube](https://www.youtube.com/watch?v=g9zGQdrAlMw)
 - ✅ [Memory Scientist’s Guide To Building A 100X Sharper Brain | Nikolay Kukushkin | FO571 Raj Shamani](episodes/raj-shamani/memory-scientist-s-guide-to-building-a-100x-sharper-brain-vNvCQpGYdLo.md) — [YouTube](https://www.youtube.com/watch?v=vNvCQpGYdLo)
 - ✅ [How To Escape A Dark Place, Beat Anxiety & Take Back Control | Scott Galloway | FO570 Raj Shamani](episodes/raj-shamani/how-to-escape-a-dark-place-beat-anxiety-take-back-control-d6mAi5kHsxc.md) — [YouTube](https://www.youtube.com/watch?v=d6mAi5kHsxc)

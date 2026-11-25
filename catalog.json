@@ -1,12 +1,32 @@
 {
-  "generated": "2026-11-18",
-  "total": 372,
+  "generated": "2026-11-25",
+  "total": 374,
   "counts": {
-    "dr-pal": 101,
-    "raj-shamani": 104,
+    "dr-pal": 102,
+    "raj-shamani": 105,
     "diary-of-a-ceo": 167
   },
   "episodes": [
+    {
+      "id": "lCqfy4-J9cY",
+      "title": "Diabetes Epidemic in India: Hidden Fat, Genetics & Things You Must Know!",
+      "source": "dr-pal",
+      "source_name": "Dr Pal Podcast Playlist",
+      "url": "https://www.youtube.com/watch?v=lCqfy4-J9cY",
+      "status": "done",
+      "file": "episodes/dr-pal/diabetes-epidemic-in-india-hidden-fat-genetics-things-you-must-know-lCqfy4-J9cY.md",
+      "collected": "2026-11-25"
+    },
+    {
+      "id": "8ETRd0mgWAI",
+      "title": "Top Psychiatrist: What Makes a Criminal Brain Different? | Dr. Daniel Amen | FO590 Raj Shamani",
+      "source": "raj-shamani",
+      "source_name": "Raj Shamani",
+      "url": "https://www.youtube.com/watch?v=8ETRd0mgWAI",
+      "status": "done",
+      "file": "episodes/raj-shamani/top-psychiatrist-what-makes-a-criminal-brain-different-dr-daniel-amen-8ETRd0mgWAI.md",
+      "collected": "2026-11-25"
+    },
     {
       "id": "grHHz3tJXac",
       "title": "What Shark Tank Didn't Show You about Prathamesh | Dr. Pal Manickam",
@@ -19,7 +39,7 @@
     },
     {
       "id": "So8nkaAnCCg",
-      "title": "Vaginal Discharge: What\u2019s Normal & When Should You See a Doctor? | Dr.Cuterus",
+      "title": "Vaginal Discharge: What’s Normal & When Should You See a Doctor? | Dr.Cuterus",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=So8nkaAnCCg",
@@ -139,7 +159,7 @@
     },
     {
       "id": "L845SXxqmSE",
-      "title": "Why Your Stomach Is Always Bloated? - Doctor Explains Gut Health \u0964 Dr Shubham Vatsya x Dr Pal",
+      "title": "Why Your Stomach Is Always Bloated? - Doctor Explains Gut Health । Dr Shubham Vatsya x Dr Pal",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=L845SXxqmSE",
@@ -149,7 +169,7 @@
     },
     {
       "id": "OJEqU_fZk9k",
-      "title": "Your Legs Are Dying And You Don\u2019t Know It | Blood Clots, Swelling & Amputation Risk",
+      "title": "Your Legs Are Dying And You Don’t Know It | Blood Clots, Swelling & Amputation Risk",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=OJEqU_fZk9k",
@@ -209,7 +229,7 @@
     },
     {
       "id": "AytcD203TvM",
-      "title": "From White Rice to Ghee: What\u2019s Hurting Your Health",
+      "title": "From White Rice to Ghee: What’s Hurting Your Health",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=AytcD203TvM",
@@ -219,7 +239,7 @@
     },
     {
       "id": "YWtIfwQT9b0",
-      "title": "What You\u2019re Missing About Protein & Real Nutrition (Doctor Explains)",
+      "title": "What You’re Missing About Protein & Real Nutrition (Doctor Explains)",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=YWtIfwQT9b0",
@@ -299,7 +319,7 @@
     },
     {
       "id": "9bxurKkcNKY",
-      "title": "Why Eating Less Doesn\u2019t Always Work: Hunger, Hormones & Metabolism Explained",
+      "title": "Why Eating Less Doesn’t Always Work: Hunger, Hormones & Metabolism Explained",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=9bxurKkcNKY",
@@ -309,7 +329,7 @@
     },
     {
       "id": "zHFru9P1v94",
-      "title": "The Real Reason Your Knee & Joint Pain Isn\u2019t Healing (Doctor Explains)",
+      "title": "The Real Reason Your Knee & Joint Pain Isn’t Healing (Doctor Explains)",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=zHFru9P1v94",
@@ -359,7 +379,7 @@
     },
     {
       "id": "ZbOrjYZvK5w",
-      "title": "How to Fix Your Hormones, Cravings & Weight\u2026 Without Starving Yourself.",
+      "title": "How to Fix Your Hormones, Cravings & Weight… Without Starving Yourself.",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=ZbOrjYZvK5w",
@@ -459,7 +479,7 @@
     },
     {
       "id": "qO53Gf9WcZM",
-      "title": "Stop Doing This Every Day - It\u2019s Destroying Your Brain Health.",
+      "title": "Stop Doing This Every Day - It’s Destroying Your Brain Health.",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=qO53Gf9WcZM",
@@ -519,7 +539,7 @@
     },
     {
       "id": "0OxZYba-N5o",
-      "title": "Colon Cancer vs Piles vs Constipation \u2013 Know the Difference & What to Do | Dr. Param",
+      "title": "Colon Cancer vs Piles vs Constipation – Know the Difference & What to Do | Dr. Param",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=0OxZYba-N5o",
@@ -559,7 +579,7 @@
     },
     {
       "id": "sBaAbt6atOs",
-      "title": "Dating, Gen Z Slang, Food, & Jokes. This Podcast is a Vibe! \ud83d\ude09 | Dr. Pal | Abhishek Kumar |",
+      "title": "Dating, Gen Z Slang, Food, & Jokes. This Podcast is a Vibe! 😉 | Dr. Pal | Abhishek Kumar |",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=sBaAbt6atOs",
@@ -579,7 +599,7 @@
     },
     {
       "id": "l8jSxpFH5wU",
-      "title": "Back Pain & Knee Pain? Dr\u2019s Advice for Healthy Bones I Dr. Pal | Dr Sathish",
+      "title": "Back Pain & Knee Pain? Dr’s Advice for Healthy Bones I Dr. Pal | Dr Sathish",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=l8jSxpFH5wU",
@@ -599,7 +619,7 @@
     },
     {
       "id": "gi9FMDfCO8U",
-      "title": "99% of Women Don\u2019t Know This About Pregnancy! | Dr. Pal | Dr. Sandhya Vasan | #drpal #pregnancy",
+      "title": "99% of Women Don’t Know This About Pregnancy! | Dr. Pal | Dr. Sandhya Vasan | #drpal #pregnancy",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=gi9FMDfCO8U",
@@ -619,7 +639,7 @@
     },
     {
       "id": "rsvXAsUP42c",
-      "title": "The Diet Fix\u00a0You\u00a0NEED ! | Celebrity Nutritionist - Shiny Surendran | Dr Pal",
+      "title": "The Diet Fix You NEED ! | Celebrity Nutritionist - Shiny Surendran | Dr Pal",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=rsvXAsUP42c",
@@ -649,7 +669,7 @@
     },
     {
       "id": "CAnhyA54tHw",
-      "title": "Shocking Truths about Ear Health | Dr Shree Rao - Dr. Rao\u2019s ENT Hospitals | Dr Pal",
+      "title": "Shocking Truths about Ear Health | Dr Shree Rao - Dr. Rao’s ENT Hospitals | Dr Pal",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=CAnhyA54tHw",
@@ -669,7 +689,7 @@
     },
     {
       "id": "zUHHl0kWRuQ",
-      "title": "Don\u2019t ignore these Health Red Flags\u2014Time for a Wake-Up Call! | Dr Pal",
+      "title": "Don’t ignore these Health Red Flags—Time for a Wake-Up Call! | Dr Pal",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=zUHHl0kWRuQ",
@@ -679,7 +699,7 @@
     },
     {
       "id": "oH7N44ssCcw",
-      "title": "The Silent Killers of Eye Health \u2013 Shocking Facts Revealed by Dr. Ashvin | India's Top Eye Expert",
+      "title": "The Silent Killers of Eye Health – Shocking Facts Revealed by Dr. Ashvin | India's Top Eye Expert",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=oH7N44ssCcw",
@@ -719,7 +739,7 @@
     },
     {
       "id": "dwsid6YRrpU",
-      "title": "Shocking Facts About Whey Protein \ud83d\udca5\ud83d\ude36\u200d\ud83c\udf2b\ufe0f \u203c\ufe0f Gut Feeling with the Whole Truth Founder, Shashank Mehta",
+      "title": "Shocking Facts About Whey Protein 💥😶‍🌫️ ‼️ Gut Feeling with the Whole Truth Founder, Shashank Mehta",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=dwsid6YRrpU",
@@ -749,7 +769,7 @@
     },
     {
       "id": "hI2TZW9H5iA",
-      "title": "DON'T START any DIET without watching this\u2757 Roshni Sanghvi, Holistic Nutritionist,Wellness Expert!",
+      "title": "DON'T START any DIET without watching this❗ Roshni Sanghvi, Holistic Nutritionist,Wellness Expert!",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=hI2TZW9H5iA",
@@ -819,7 +839,7 @@
     },
     {
       "id": "sx5OWArFbkM",
-      "title": "\u26a0\ufe0f Urgent Eye Health Warning from India\u2019s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know)",
+      "title": "⚠️ Urgent Eye Health Warning from India’s Top Eye Expert Dr Ashvin Agarwal (What You Need to Know)",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=sx5OWArFbkM",
@@ -1009,7 +1029,7 @@
     },
     {
       "id": "iEA2at7ssPQ",
-      "title": "@Sidwarrier, a Neurologist, Reveals Shocking Links between Mindless Scrolling, Stress & Depression \ud83e\udde0",
+      "title": "@Sidwarrier, a Neurologist, Reveals Shocking Links between Mindless Scrolling, Stress & Depression 🧠",
       "source": "dr-pal",
       "source_name": "Dr Pal Podcast Playlist",
       "url": "https://www.youtube.com/watch?v=iEA2at7ssPQ",
@@ -1029,7 +1049,7 @@
     },
     {
       "id": "vNvCQpGYdLo",
-      "title": "Memory Scientist\u2019s Guide To Building A 100X Sharper Brain | Nikolay Kukushkin | FO571 Raj Shamani",
+      "title": "Memory Scientist’s Guide To Building A 100X Sharper Brain | Nikolay Kukushkin | FO571 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=vNvCQpGYdLo",
@@ -1159,7 +1179,7 @@
     },
     {
       "id": "rb9536WrfDA",
-      "title": "\u2060Indian Diet Problem: Low Protein, High Calories & Muscle Loss | Prashant Desai | FO501 Raj Shamani",
+      "title": "⁠Indian Diet Problem: Low Protein, High Calories & Muscle Loss | Prashant Desai | FO501 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=rb9536WrfDA",
@@ -1209,7 +1229,7 @@
     },
     {
       "id": "etgQjtdNEtc",
-      "title": "Simon Sinek on India\u2019s Future, Trust Crisis, Gen Z Burnout, Anxiety & AI Friends | FO476 Raj Shamani",
+      "title": "Simon Sinek on India’s Future, Trust Crisis, Gen Z Burnout, Anxiety & AI Friends | FO476 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=etgQjtdNEtc",
@@ -1349,7 +1369,7 @@
     },
     {
       "id": "-wwcpgXmFhE",
-      "title": "Organ Mafia & Hospital Scams: Dark Reality of India\u2019s Healthcare| Dr Guru N Reddy |FO415 Raj Shamani",
+      "title": "Organ Mafia & Hospital Scams: Dark Reality of India’s Healthcare| Dr Guru N Reddy |FO415 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=-wwcpgXmFhE",
@@ -1379,7 +1399,7 @@
     },
     {
       "id": "fHBR1j1kJ1I",
-      "title": "Billionaire\u2019s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani",
+      "title": "Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I",
@@ -1409,7 +1429,7 @@
     },
     {
       "id": "3LhCwAyk0rM",
-      "title": "Newborn & Parenting Secrets: Oil Massage, Rash Care & Mom\u2019s Diet | Dr. Nihar | FO393 Raj Shamani",
+      "title": "Newborn & Parenting Secrets: Oil Massage, Rash Care & Mom’s Diet | Dr. Nihar | FO393 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=3LhCwAyk0rM",
@@ -1459,7 +1479,7 @@
     },
     {
       "id": "XzMcJR2UFE4",
-      "title": "Jackson Wang on Heartbreak, Love, Trauma, Music, China\u2019s Rules & Ideal Partner | FO375 Raj Shamani",
+      "title": "Jackson Wang on Heartbreak, Love, Trauma, Music, China’s Rules & Ideal Partner | FO375 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=XzMcJR2UFE4",
@@ -1469,7 +1489,7 @@
     },
     {
       "id": "xh2tA8yf3hU",
-      "title": "What Your Skin Really Needs \u2013 Serums, Moisturizer & Skincare | Dr Geetanjali | FO369 Raj Shamani",
+      "title": "What Your Skin Really Needs – Serums, Moisturizer & Skincare | Dr Geetanjali | FO369 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=xh2tA8yf3hU",
@@ -1549,7 +1569,7 @@
     },
     {
       "id": "QXlcH4QCbGk",
-      "title": "Skin Mistakes You Didn\u2019t Know! Tanning & Sunburn EXPOSED | Dr. Manjot Marwah | FO336 Raj Shamani",
+      "title": "Skin Mistakes You Didn’t Know! Tanning & Sunburn EXPOSED | Dr. Manjot Marwah | FO336 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=QXlcH4QCbGk",
@@ -1569,7 +1589,7 @@
     },
     {
       "id": "G0Iibyfxwis",
-      "title": "WATCH THIS To Avoid Heart Attack: Lifestyle, Food & Painkillers \u2013 Dr. Ramakanta | FO328 Raj Shamani",
+      "title": "WATCH THIS To Avoid Heart Attack: Lifestyle, Food & Painkillers – Dr. Ramakanta | FO328 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=G0Iibyfxwis",
@@ -1579,7 +1599,7 @@
     },
     {
       "id": "VAa_x7-3Cp4",
-      "title": "Heal Painful Memories, Increase Willpower, Superfoods & Liver Disease \u2013 Ram Verma |FO325 Raj Shamani",
+      "title": "Heal Painful Memories, Increase Willpower, Superfoods & Liver Disease – Ram Verma |FO325 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=VAa_x7-3Cp4",
@@ -1609,7 +1629,7 @@
     },
     {
       "id": "kH-ih06rmpI",
-      "title": "How This One Habit Is Destroying Your Health, Sleep & Stress Levels \u2013 Ashdin Doc | FO321 Raj Shamani",
+      "title": "How This One Habit Is Destroying Your Health, Sleep & Stress Levels – Ashdin Doc | FO321 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=kH-ih06rmpI",
@@ -1768,7 +1788,7 @@
     },
     {
       "id": "9Kj4T05UdMA",
-      "title": "Infertility, Mast*rbation, P*rn, S*xual Health & Andropause -\u202a@Drvijayantgovinda |FO233 Raj Shamani",
+      "title": "Infertility, Mast*rbation, P*rn, S*xual Health & Andropause -‪@Drvijayantgovinda |FO233 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=9Kj4T05UdMA",
@@ -1938,7 +1958,7 @@
     },
     {
       "id": "zZ-VeqYPxoA",
-      "title": "Dr. Velumani On Building \u20b95000 Crore Business, Poverty, Risk & Success | FO174 | Raj Shamani",
+      "title": "Dr. Velumani On Building ₹5000 Crore Business, Poverty, Risk & Success | FO174 | Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=zZ-VeqYPxoA",
@@ -1978,7 +1998,7 @@
     },
     {
       "id": "wIo7IJxsg3A",
-      "title": "The Science Of Eating For Brain Power, Sex Life & Better Sleep - Ryan Fernando | FO\u00a0161\u00a0Raj\u00a0Shamani",
+      "title": "The Science Of Eating For Brain Power, Sex Life & Better Sleep - Ryan Fernando | FO 161 Raj Shamani",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=wIo7IJxsg3A",
@@ -2018,7 +2038,7 @@
     },
     {
       "id": "kqOmz7rCeUQ",
-      "title": "Reality of Contact Lens, Ayurvedic Medicine & Lasik Surgeries | Ft. Dr. Rahil | FO136 Raj Shamani\u00a0\u00a0",
+      "title": "Reality of Contact Lens, Ayurvedic Medicine & Lasik Surgeries | Ft. Dr. Rahil | FO136 Raj Shamani  ",
       "source": "raj-shamani",
       "source_name": "Raj Shamani (Figuring Out)",
       "url": "https://www.youtube.com/watch?v=kqOmz7rCeUQ",
@@ -2098,7 +2118,7 @@
     },
     {
       "id": "dmz--DQty8o",
-      "title": "Fat Loss Scientist: It\u2019s Easy To Lose Weight, But Here\u2019s Why You WON\u2019T Do It! | Dr Andy Galpin",
+      "title": "Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=dmz--DQty8o",
@@ -2138,7 +2158,7 @@
     },
     {
       "id": "HwVn3WMv5oI",
-      "title": "Women\u2019s Fitness Expert: What You NEED To Know About Dieting & Exercise | Dr. Stephanie Estima",
+      "title": "Women’s Fitness Expert: What You NEED To Know About Dieting & Exercise | Dr. Stephanie Estima",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=HwVn3WMv5oI",
@@ -2178,7 +2198,7 @@
     },
     {
       "id": "m-nnyNZ0TQ0",
-      "title": "Stanford Neuroscientist: Can\u2019t Remember Your Dreams? Your Brain May Be Warning You!",
+      "title": "Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=m-nnyNZ0TQ0",
@@ -2308,7 +2328,7 @@
     },
     {
       "id": "qxxnRMT9C-8",
-      "title": "World No.1 Sleep Expert: Magnesium Isn\u2019t Helping You Sleep! This Habit Increases Heart Disease 57%!",
+      "title": "World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=qxxnRMT9C-8",
@@ -2448,7 +2468,7 @@
     },
     {
       "id": "dm2qDrb3UVo",
-      "title": "The Porn Addiction Crisis No One Wants to Talk About \u2013 Dr. K",
+      "title": "The Porn Addiction Crisis No One Wants to Talk About – Dr. K",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=dm2qDrb3UVo",
@@ -2458,7 +2478,7 @@
     },
     {
       "id": "hxsnk90VwCo",
-      "title": "World Expert on Love: Your Brain Already Picked Your Partner (But They\u2019re Lying About Monogamy)",
+      "title": "World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=hxsnk90VwCo",
@@ -2508,7 +2528,7 @@
     },
     {
       "id": "ZxXruY7llcc",
-      "title": "Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You\u2019ll Die In A Year If This Happens!",
+      "title": "Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You’ll Die In A Year If This Happens!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=ZxXruY7llcc",
@@ -2658,7 +2678,7 @@
     },
     {
       "id": "VHUrdELKjDw",
-      "title": "Body Language Expert: Stop Using This, It\u2019s Making People Dislike You, So Are These Subtle Mistakes!",
+      "title": "Body Language Expert: Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=VHUrdELKjDw",
@@ -2718,7 +2738,7 @@
     },
     {
       "id": "SWjzjClBCO4",
-      "title": "The No.1 Eye Doctor: They\u2019re Lying To You About Blue Light! The Truth About Floaters!",
+      "title": "The No.1 Eye Doctor: They’re Lying To You About Blue Light! The Truth About Floaters!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=SWjzjClBCO4",
@@ -2768,7 +2788,7 @@
     },
     {
       "id": "OTrTqs9FLq0",
-      "title": "The Muscle Building Expert: They\u2019re Lying To You About Workout Hours! Dr Michael Israetel",
+      "title": "The Muscle Building Expert: They’re Lying To You About Workout Hours! Dr Michael Israetel",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=OTrTqs9FLq0",
@@ -2788,7 +2808,7 @@
     },
     {
       "id": "_cFu-b5lTMU",
-      "title": "The Professor Banned From Speaking Out: \"We Need To Start Preparing\u201d - Dr Bret Weinstein",
+      "title": "The Professor Banned From Speaking Out: \"We Need To Start Preparing” - Dr Bret Weinstein",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=_cFu-b5lTMU",
@@ -2808,7 +2828,7 @@
     },
     {
       "id": "R87QLweXl1A",
-      "title": "The Doctor That Got Banned For Speaking Out:\u201cWe've Been Lied To About Medication!\u201d Dr Aseem Malhotra",
+      "title": "The Doctor That Got Banned For Speaking Out:“We've Been Lied To About Medication!” Dr Aseem Malhotra",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=R87QLweXl1A",
@@ -2858,7 +2878,7 @@
     },
     {
       "id": "_vX-_fq-c50",
-      "title": "Wim Hof: They\u2019re Lying To You About Disease & Inflammation!",
+      "title": "Wim Hof: They’re Lying To You About Disease & Inflammation!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=_vX-_fq-c50",
@@ -2958,7 +2978,7 @@
     },
     {
       "id": "0YMnHNIuK3M",
-      "title": "Johann Hari: They\u2019re Lying To You About The Side Effects Of Ozempic!",
+      "title": "Johann Hari: They’re Lying To You About The Side Effects Of Ozempic!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=0YMnHNIuK3M",
@@ -3048,7 +3068,7 @@
     },
     {
       "id": "B_5N_aDu3u0",
-      "title": "Dr K: \"There Is A Crisis Going On With Men!\", \u201cWe\u2019ve Produced Millions Of Lonely, Addicted Males!\u201d",
+      "title": "Dr K: \"There Is A Crisis Going On With Men!\", “We’ve Produced Millions Of Lonely, Addicted Males!”",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=B_5N_aDu3u0",
@@ -3088,7 +3108,7 @@
     },
     {
       "id": "A-8tPmQtYqs",
-      "title": "Harvard Professor: They\u2019re Lying To You About Running, Breathing & Sitting! - Daniel Lieberman",
+      "title": "Harvard Professor: They’re Lying To You About Running, Breathing & Sitting! - Daniel Lieberman",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=A-8tPmQtYqs",
@@ -3178,7 +3198,7 @@
     },
     {
       "id": "oQqcnYcKx68",
-      "title": "The No.1 Menopause Doctor: They\u2019re Lying To You About Menopause! Mary Claire Haver",
+      "title": "The No.1 Menopause Doctor: They’re Lying To You About Menopause! Mary Claire Haver",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=oQqcnYcKx68",
@@ -3188,7 +3208,7 @@
     },
     {
       "id": "TTzgD6Tn9DY",
-      "title": "\u201cDynamo Is Dead!\u201d The Heartbreaking True Story Of Why Dynamo Vanished For Years!",
+      "title": "“Dynamo Is Dead!” The Heartbreaking True Story Of Why Dynamo Vanished For Years!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=TTzgD6Tn9DY",
@@ -3258,7 +3278,7 @@
     },
     {
       "id": "ycTZ_t-aiuU",
-      "title": "The ADHD Doctor: \u201cI\u2019ve Scanned 250,000 Brains\u201d You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen",
+      "title": "The ADHD Doctor: “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=ycTZ_t-aiuU",
@@ -3338,7 +3358,7 @@
     },
     {
       "id": "1yfoonW1InE",
-      "title": "The Man Thats Ageing Backwards: \u201cI Was 45, I\u2019m Now 18!\u201d - Bryan Johnson",
+      "title": "The Man Thats Ageing Backwards: “I Was 45, I’m Now 18!” - Bryan Johnson",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=1yfoonW1InE",
@@ -3358,7 +3378,7 @@
     },
     {
       "id": "NB4jZCxRkTw",
-      "title": "Shocking TRUE Story: \u201cI Lost Both Of My Legs Because Of A Tampon\u201d (Health Warning) - Lauren Wasser",
+      "title": "Shocking TRUE Story: “I Lost Both Of My Legs Because Of A Tampon” (Health Warning) - Lauren Wasser",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=NB4jZCxRkTw",
@@ -3378,7 +3398,7 @@
     },
     {
       "id": "om3RWW9GQQ4",
-      "title": "Rita Ora: \u201cI Lived With Constant Anxiety\u201d\u2026After Being Signed By Jay-Z At 18!!!",
+      "title": "Rita Ora: “I Lived With Constant Anxiety”…After Being Signed By Jay-Z At 18!!!",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=om3RWW9GQQ4",
@@ -3438,7 +3458,7 @@
     },
     {
       "id": "DnEJrgc1BCk",
-      "title": "The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchausp\u00e9 | E243",
+      "title": "The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=DnEJrgc1BCk",
@@ -3488,7 +3508,7 @@
     },
     {
       "id": "Us8n8VBQn_c",
-      "title": "The World\u2019s No.1 Sleep Expert: The 6 Sleep Hacks You NEED! Matthew Walker",
+      "title": "The World’s No.1 Sleep Expert: The 6 Sleep Hacks You NEED! Matthew Walker",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=Us8n8VBQn_c",
@@ -3687,7 +3707,7 @@
     },
     {
       "id": "yH5YplNDjJM",
-      "title": "A Billionaire\u2019s Guide To Healing Your Mind And Extending Your Life: Christian Angermayer | E72",
+      "title": "A Billionaire’s Guide To Healing Your Mind And Extending Your Life: Christian Angermayer | E72",
       "source": "diary-of-a-ceo",
       "source_name": "The Diary Of A CEO",
       "url": "https://www.youtube.com/watch?v=yH5YplNDjJM",
