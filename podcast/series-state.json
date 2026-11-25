@@ -6,7 +6,8 @@
   "w3dTmyZq4Qk",
   "2yHNxglDS7w",
   "lacFcgcHx6I",
-  "DnvWAP99r3Y"
+  "DnvWAP99r3Y",
+  "L845SXxqmSE"
  ],
  "episodes": [
   {
@@ -17,7 +18,7 @@
    "notes": "podcast/episodes/ep001-sleep-matthew-walker.md",
    "number": 1,
    "source_video_id": "Us8n8VBQn_c",
-   "title": "Sleep Like It Matters \u2014 Matthew Walker's Best Ideas"
+   "title": "Sleep Like It Matters — Matthew Walker's Best Ideas"
   },
   {
    "audio": "podcast/episodes/ep002-heart-attacks-varun-bansal.mp3",
@@ -27,7 +28,7 @@
    "notes": "podcast/episodes/ep002-heart-attacks-varun-bansal.md",
    "number": 2,
    "source_video_id": "afC1C4i_MbY",
-   "title": "Why Healthy People Get Heart Attacks \u2014 Dr Varun Bansal on Heart Risk"
+   "title": "Why Healthy People Get Heart Attacks — Dr Varun Bansal on Heart Risk"
   },
   {
    "audio": "podcast/episodes/ep003-fasting-sleep-dr-vishakha.mp3",
@@ -37,7 +38,7 @@
    "notes": "podcast/episodes/ep003-fasting-sleep-dr-vishakha.md",
    "number": 3,
    "source_video_id": "3A8DXwqzQrw",
-   "title": "Fasting, Fruit Juice and Deep Sleep \u2014 Dr Vishakha on Diabetes, Fasting and Lifestyle Medicine"
+   "title": "Fasting, Fruit Juice and Deep Sleep — Dr Vishakha on Diabetes, Fasting and Lifestyle Medicine"
   },
   {
    "audio": "podcast/episodes/ep004-gut-brain-tim-spector.mp3",
@@ -57,7 +58,7 @@
    "notes": "podcast/episodes/ep005-vegetables-first-dr-nithya.md",
    "number": 5,
    "source_video_id": "2yHNxglDS7w",
-   "title": "Vegetables First \u2014 Food, Protein and Diabetes with Dr Nithya Subramaniam"
+   "title": "Vegetables First — Food, Protein and Diabetes with Dr Nithya Subramaniam"
   },
   {
    "audio": "podcast/episodes/ep006-tiger-anxiety-vidita-vaidya.mp3",
@@ -67,7 +68,7 @@
    "notes": "podcast/episodes/ep006-tiger-anxiety-vidita-vaidya.md",
    "number": 6,
    "source_video_id": "lacFcgcHx6I",
-   "title": "The Tiger That Isn't There \u2014 Anxiety, Drive and Your Brain with Vidita Vaidya"
+   "title": "The Tiger That Isn't There — Anxiety, Drive and Your Brain with Vidita Vaidya"
   },
   {
    "audio": "podcast/episodes/ep007-aging-reversed-david-sinclair.mp3",
@@ -77,7 +78,17 @@
    "notes": "podcast/episodes/ep007-aging-reversed-david-sinclair.md",
    "number": 7,
    "source_video_id": "DnvWAP99r3Y",
-   "title": "Can Aging Be Reversed? \u2014 David Sinclair on Resetting Cell Age"
+   "title": "Can Aging Be Reversed? — David Sinclair on Resetting Cell Age"
+  },
+  {
+   "audio": "podcast/episodes/ep008-bloating-gut-dr-shubham-vatsya.mp3",
+   "audio_url": "https://muse.ai/podcasts/media/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e/ep-f0ec271b-0303-41bb-93ad-640111cfb47b.mp3",
+   "date": "2026-11-25",
+   "duration_secs": 287,
+   "notes": "podcast/episodes/ep008-bloating-gut-dr-shubham-vatsya.md",
+   "number": 8,
+   "source_video_id": "L845SXxqmSE",
+   "title": "Why You Are Always Bloated — Dr Shubham Vatsya on Gut Health"
   }
  ],
  "feed_format": "Daily AI Drop pattern: repo feed.xml enclosures use muse.ai media URLs; registry in podcast/episodes.json",
@@ -93,7 +104,7 @@
  ],
  "muse_feed_id": "b60b1ed2-543c-4352-b959-023166e8181e",
  "muse_feed_url": "https://muse.ai/podcasts/feed/650408721490907/b60b1ed2-543c-4352-b959-023166e8181e",
- "next_episode_number": 8,
+ "next_episode_number": 9,
  "series": "Health Tidbits",
  "series_id": "health-tidbits-daily",
  "target_minutes": "4-5"
